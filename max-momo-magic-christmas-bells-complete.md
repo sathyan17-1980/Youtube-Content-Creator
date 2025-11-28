@@ -342,15 +342,15 @@ Max and Momo enter a mystical jungle clearing glowing with bioluminescent flower
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-Max (elephant with Santa hat) and Momo (mouse with green scarf) in mystical jungle clearing discovering ancient golden bells. 3D Pixar style.
+Max (young boy 7-10 years old, dark messy hair, olive/green shirt, backpack) and Momo (brown/orange monkey with curly tail) in mystical jungle clearing discovering ancient golden bells. 3D Pixar style.
 
 Center: Large magical tree with GOLDEN BELLS of various sizes hanging from branches. Bells are ornate, some dull/some glowing. Covered in tropical vines, orchids, hibiscus flowers.
 
-Action: Momo reaching with tiny paw toward one bell. Max's trunk extended toward another bell. GOLDEN SPARKLES bursting outward from bells in explosive pattern.
+Action: Momo (monkey) swinging from branch, reaching with paw toward one bell. Max (boy) standing below, reaching up with both hands toward another bell. GOLDEN SPARKLES bursting outward from bells in explosive pattern.
 
 Background: Mystical jungle with bioluminescent blue and purple flowers, glowing mushrooms, magical mist at ground level, night sky visible through canopy with stars.
 
-Atmosphere: Magical, wonder-filled, explosive energy. Max and Momo's faces showing amazement and joy.
+Atmosphere: Magical, wonder-filled, explosive energy. Max and Momo's faces showing amazement and joy. Max has boyish excitement, Momo has playful monkey expression.
 
 Lighting: Bioluminescent glow (blues, purples) contrasting with brilliant golden bell magic (golds, yellows, whites). Dynamic, explosive composition.
 
@@ -364,19 +364,19 @@ Lighting: Bioluminescent glow (blues, purples) contrasting with brilliant golden
 ```
 MINIMUM 27 seconds duration. FAST-PACED, HIGH-ENERGY animation.
 
-Opening (4s): Max and Momo enter clearing, approach bells cautiously but quickly.
+Opening (4s): Max (boy) and Momo (monkey on his shoulder) enter clearing, approach bells cautiously but quickly. Max walks forward, Momo chatters excitedly.
 
-Discovery (5s): Momo climbs Max's trunk to reach bell, touches it - small sparkle pops out. Both react with surprise.
+Discovery (5s): Momo climbs from Max's shoulder up tree branch to reach bell, touches it with paw - small sparkle pops out. Both react with surprise - Max's eyes widen, Momo jumps back startled.
 
-Escalation (6s): Max rings another bell with trunk - BIGGER sparkle burst. They look at each other excitedly.
+Escalation (6s): Max reaches up and rings another bell with his hands - BIGGER sparkle burst. They look at each other excitedly - Max grins, Momo bounces on branch.
 
-CLIMAX (8s): TOGETHER they ring multiple bells rapidly (Max with trunk, Momo with paws) - MASSIVE EXPLOSION of golden sparkles bursting outward in all directions. Camera pulls back to wide shot showing full magic burst. Bells transform from dull to brilliant glowing gold.
+CLIMAX (8s): TOGETHER they ring multiple bells rapidly (Max reaching and ringing with both hands, Momo swinging from branch to branch ringing others with paws) - MASSIVE EXPLOSION of golden sparkles bursting outward in all directions. Camera pulls back to wide shot showing full magic burst. Bells transform from dull to brilliant glowing gold.
 
-Resolution (4s): Max and Momo in center, surrounded by floating golden sparkles, faces filled with wonder and excitement. Bells swinging and glowing.
+Resolution (4s): Max and Momo in center (Momo jumps back onto Max's shoulder), surrounded by floating golden sparkles, faces filled with wonder and excitement. Max raises fist in triumph, Momo bounces happily. Bells swinging and glowing.
 
 Camera: Dynamic circular movement around tree, rapid cuts between close-ups of bells/characters and wide shots of magic, zoom out on big explosion.
 
-Movement: FAST, energetic, urgent. Characters move quickly with excitement. Rapid bell rings synchronized to music beat.
+Movement: FAST, energetic, urgent. Max moves with boyish energy and excitement. Momo moves with monkey agility - swinging, climbing. Rapid bell rings synchronized to music beat.
 
 Effects: Golden sparkles exploding outward (primary), bioluminescent glow (background), magical shimmer on bells. Multiple layers of sparkles.
 
@@ -411,7 +411,7 @@ Max and Momo, friendship's might!
 **Timing:** Verse 2 (0:56-1:18)
 
 #### Visual Description
-Max (carrying bells around his neck) and Momo (sitting on Max's head holding a bell) rush back toward the village, ringing bells joyfully. With each ring, golden sparkles spread through the air. The temperature shifts - visible breath appears. FIRST SNOWFLAKES begin to fall! They land on tropical palm leaves creating magical contrast. Villagers (diverse characters - elves, children, families of different ethnicities) emerge from colorful houses, faces filled with wonder. Children reach up to catch snowflakes for the first time. Elders smile with joy.
+Max (carrying bells in his hands and wearing some around his neck) runs back toward the village with Momo (sitting on his head/shoulder holding a small bell), both ringing bells joyfully. With each ring, golden sparkles spread through the air. The temperature shifts - visible breath appears. FIRST SNOWFLAKES begin to fall! They land on tropical palm leaves creating magical contrast. Villagers (diverse characters - elves, children, families of different ethnicities) emerge from colorful houses, faces filled with wonder. Children reach up to catch snowflakes for the first time. Elders smile with joy.
 
 **Setting:** Village edge, tropical meets winter
 **Mood:** Wonder, joy, magical transformation beginning
@@ -424,7 +424,9 @@ Max (carrying bells around his neck) and Momo (sitting on Max's head holding a b
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-Max (elephant with Santa hat) carrying golden bells around his neck, Momo (mouse with green scarf) sitting on Max's head holding small bell. Both ringing bells joyfully while moving through tropical village. 3D Pixar style.
+Max (young boy, dark hair, olive/green shirt, backpack) running through tropical village carrying golden bells in hands and around neck. Momo (brown/orange monkey) sitting on Max's head/shoulder holding small bell. Both ringing bells joyfully. 3D Pixar style.
+
+Max has boyish excitement, running energetically. Momo bouncing on his head with playful expression.
 
 MAGIC HAPPENING: FIRST SNOWFLAKES falling from sky! Golden sparkles mixing with white snowflakes. Snow landing on green palm leaves (magical contrast).
 
@@ -450,11 +452,11 @@ Composition: Max & Momo in foreground/mid-ground in motion, villagers reacting i
 ```
 MINIMUM 24 seconds duration. FAST-PACED, HIGH-ENERGY.
 
-Movement (ongoing throughout): Max moves from left to right through village with quick, excited pace. Momo bounces on Max's head. Both ring bells continuously - bells swing and chime.
+Movement (ongoing throughout): Max (boy) runs from left to right through village with quick boyish pace, arms swinging bells. Momo (monkey) bounces excitedly on Max's head/shoulder, waving small bell. Both ring bells continuously - bells swing and chime with each movement.
 
 Magic Progression:
-- (0-5s): First few golden sparkles appear from bells
-- (5-10s): Sparkles multiply, temperature drops (breath becomes visible)
+- (0-5s): First few golden sparkles appear from bells as they ring
+- (5-10s): Sparkles multiply, temperature drops (breath becomes visible from Max and villagers)
 - (10-15s): FIRST SNOWFLAKES appear! Start falling slowly then increase
 - (15-24s): Heavy snowfall, snowflakes landing on palm leaves, ground, buildings
 
@@ -469,7 +471,7 @@ Camera: Fast tracking shot following Max & Momo's movement (primary) + rapid cut
 
 Effects: Golden sparkles trailing Max & Momo, white snowflakes increasing in density, mix of warm glows from houses and cool snow lighting.
 
-Pacing: RAPID - fast character movement, quick cuts, continuous action. No pauses. Matches fast musical tempo.
+Pacing: RAPID - fast character movement (boyish running), quick cuts, continuous action. No pauses. Matches fast musical tempo.
 ```
 
 ---
@@ -507,7 +509,7 @@ Heavy snow now falling across the entire tropical village. Max and Momo stand in
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-Epic village square scene: Max (elephant, Santa hat) and Momo (mouse, green scarf) in center of circular gathering, ringing golden bells together. 3D Pixar style.
+Epic village square scene: Max (young boy, dark hair, olive/green shirt, backpack) and Momo (brown/orange monkey) in center of circular gathering, ringing golden bells together. Max holds bells high, Momo sitting on Max's shoulder also ringing bell. 3D Pixar style.
 
 SNOW FALLING HEAVILY across tropical village. Snow covering palm trees, colorful buildings, ground.
 
@@ -523,7 +525,7 @@ Magic effects: Golden sparkles from bells mixing with snowflakes, lights twinkli
 
 Atmosphere: Joyful celebration, community unity, magical tropical winter wonderland. Mix of warm tropical colors (bright buildings, flowers) with cool winter whites/blues (snow, lighting).
 
-Composition: Max & Momo central focus, surrounded by circular gathering, giant tree behind, village visible in background.
+Composition: Max & Momo central focus, surrounded by circular gathering, giant tree behind, village visible in background. Max has boyish joy, Momo has excited monkey expression.
 
 Lighting: Christmas lights + snow reflection creating warm-cool harmony. Golden bell glow.
 
@@ -538,9 +540,10 @@ Lighting: Christmas lights + snow reflection creating warm-cool harmony. Golden 
 MINIMUM 28 seconds duration. HIGH-ENERGY, celebratory animation.
 
 Primary Action:
-- Max and Momo ring bells rhythmically in center (continuous throughout)
-- Max occasionally lifts Momo high on trunk for dramatic bell rings
-- Both characters joyful, energetic movements
+- Max (boy) and Momo (monkey on shoulder) ring bells rhythmically in center (continuous throughout)
+- Max raises bells high overhead, Momo rings small bell from Max's shoulder
+- Max occasionally lifts Momo up in the air on his hands for dramatic bell rings
+- Both characters joyful, energetic movements - Max with boyish energy, Momo bouncing excitedly
 
 Magic Effects (synchronized to bell rings):
 - (0-8s): Snowfall intensifies with each bell ring
@@ -593,7 +596,7 @@ Friendship's magic has no end!
 **Timing:** Final Chorus + Outro (1:48-3:30)
 
 #### Visual Description
-CLIMACTIC FINALE. Max lifts Momo high on his trunk toward the glowing star atop the giant Christmas palm tree. Together they give ONE FINAL POWERFUL RING of the bells. The star EXPLODES with brilliant light spreading across the entire village and sky. Aurora borealis appears in tropical sky (magical!). Fireworks of golden and silver sparkles burst everywhere. The entire village is now a perfect tropical winter wonderland - snow-covered palm trees, colorful buildings with snow on roofs, Christmas lights everywhere. All villagers celebrate together - dancing, jumping, playing in snow, hugging. Max and Momo at the center share a heartwarming hug (Max's trunk wraps gently around tiny Momo). Final message appears: "Magic happens when hearts ring together." Camera pulls back to wide aerial shot showing the entire glowing, snowy tropical village under starry sky with aurora. Bells twinkle softly as scene fades to peaceful starry night.
+CLIMACTIC FINALE. Max lifts Momo high above his head toward the glowing star atop the giant Christmas palm tree. Together they give ONE FINAL POWERFUL RING of the bells (Max ringing with one hand while holding Momo up, Momo ringing from above). The star EXPLODES with brilliant light spreading across the entire village and sky. Aurora borealis appears in tropical sky (magical!). Fireworks of golden and silver sparkles burst everywhere. The entire village is now a perfect tropical winter wonderland - snow-covered palm trees, colorful buildings with snow on roofs, Christmas lights everywhere. All villagers celebrate together - dancing, jumping, playing in snow, hugging. Max and Momo at the center share a heartwarming hug (Max holds Momo close to his chest, both embracing). Final message appears: "Magic happens when hearts ring together." Camera pulls back to wide aerial shot showing the entire glowing, snowy tropical village under starry sky with aurora. Bells twinkle softly as scene fades to peaceful starry night.
 
 **Setting:** Full village, aerial perspective
 **Mood:** Triumphant, joyful climax transitioning to peaceful wonder
@@ -606,7 +609,9 @@ CLIMACTIC FINALE. Max lifts Momo high on his trunk toward the glowing star atop 
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-EPIC CLIMACTIC SCENE: Max (elephant, Santa hat) with trunk raised HIGH, lifting Momo (mouse, green scarf) toward the glowing star atop giant Christmas palm tree. Both ringing bells together at the climactic moment. 3D Pixar style.
+EPIC CLIMACTIC SCENE: Max (young boy, dark hair, olive/green shirt) with arms raised HIGH, lifting Momo (brown/orange monkey) above his head toward the glowing star atop giant Christmas palm tree. Both ringing bells together at the climactic moment - Max holding bell in one hand while lifting Momo, Momo holding bell above. 3D Pixar style.
+
+Max has triumphant boyish expression. Momo has excited, joyful monkey expression.
 
 STAR BURST: Brilliant golden-white light exploding from tree star, radiating outward in all directions with rays and sparkles.
 
@@ -626,7 +631,7 @@ VILLAGERS (diverse cast):
 - Elves, animals, people of all ethnicities
 - Everyone looking up at star burst or celebrating together
 
-FOREGROUND: Max and Momo sharing tender hug moment (Max's trunk wrapped around Momo) - heartwarming focal point.
+FOREGROUND: Max and Momo sharing tender hug moment (Max holding Momo close to chest, both embracing) - heartwarming focal point.
 
 TEXT OVERLAY (elegant, glowing): "Magic happens when hearts ring together"
 
@@ -647,8 +652,8 @@ Composition: Vertical 9:16 showing full height from ground to sky, Max & Momo ce
 MINIMUM 34 seconds duration. CLIMACTIC HIGH ENERGY → peaceful resolution.
 
 CLIMAX SEQUENCE (0-16s):
-- (0-6s): Max lifts Momo HIGH on trunk in dramatic rising motion. Camera follows upward. Both characters preparing for final ring. Anticipation builds.
-- (6-10s): Max and Momo ring bells TOGETHER with maximum force. Camera zooms to bells at moment of ring.
+- (0-6s): Max (boy) lifts Momo (monkey) HIGH above his head in dramatic rising motion, arms stretched up. Camera follows upward. Both characters preparing for final ring. Anticipation builds.
+- (6-10s): Max and Momo ring bells TOGETHER with maximum force (Max rings with one hand, Momo rings from above). Camera zooms to bells at moment of ring.
 - (10-16s): STAR BURST! Brilliant explosion of golden-white light from tree star spreading outward in waves. Camera rapidly zooms out to capture full blast. Aurora appears in sky. Fireworks burst everywhere.
 
 CELEBRATION (16-26s):
@@ -661,7 +666,7 @@ CELEBRATION (16-26s):
 - Camera: rapid cuts between different celebratory moments, dynamic angles
 
 RESOLUTION (26-34s):
-- (26-29s): Camera finds Max and Momo. They look at each other, then HUG tenderly (Max's trunk wraps around Momo). Slow motion moment. Heartwarming.
+- (26-29s): Camera finds Max and Momo. They look at each other, then HUG tenderly (Max holds Momo close to chest, both embracing warmly). Slow motion moment. Heartwarming - boy and his monkey friend.
 - (29-31s): Text appears: "Magic happens when hearts ring together" (fade in)
 - (31-34s): Camera slowly pulls back and UP to wide aerial shot showing entire village - snow-covered tropical paradise, twinkling lights, aurora overhead, celebration continuing below
 - Bells chime softly one last time (visible shimmer)
@@ -823,13 +828,17 @@ Text appears/disappears rapidly to match 180-200 BPM energy.
 **Copy into Leonardo.ai for character reference:**
 
 ```
-Character design sheet for Max, a gentle giant gray elephant. 3D Pixar style, multiple angles (front, side, back, 3/4 view).
+Character design sheet for Max, an adventurous young boy. 3D Pixar style, multiple angles (front, side, back, 3/4 view).
 
-Large gray elephant with kind expressive eyes, warm friendly smile, large expressive trunk (main feature - very flexible and expressive), big ears. Wearing red Santa hat with white trim and pom-pom.
+Boy aged 7-10 years old with dark brown/black messy hair (slightly adventurous, wind-swept look). Warm friendly face with big expressive brown eyes showing curiosity and excitement. Wearing olive/green colored shirt and small backpack. Barefoot or simple sandals (tropical setting).
 
-Personality visible in design: Gentle, protective, warm-hearted giant. Body language shows kindness and strength.
+Body proportions: Child-like, energetic stance. Expressive hands and face.
+
+Personality visible in design: Curious, adventurous, brave, friendly, natural leader. Body language shows boyish energy, wonder, and determination. Facial expressions: joy, excitement, wonder.
 
 Clean white background. Character turnaround sheet. Ultra detailed, Disney/Pixar animation quality. 16:9 aspect ratio.
+
+REFERENCE NOTE: Based on existing Max character - young boy with dark hair, olive/green shirt, backpack, adventurous spirit.
 ```
 
 ### Momo Character Design Prompt (for Reference Image)
@@ -837,13 +846,17 @@ Clean white background. Character turnaround sheet. Ultra detailed, Disney/Pixar
 **Copy into Leonardo.ai for character reference:**
 
 ```
-Character design sheet for Momo, a brave tiny mouse. 3D Pixar style, multiple angles (front, side, back, 3/4 view).
+Character design sheet for Momo, a playful monkey companion. 3D Pixar style, multiple angles (front, side, back, 3/4 view).
 
-Tiny brown mouse with large curious eyes (big pupils, sparkle of adventure), pink nose, round ears, small expressive paws. Wearing bright green Christmas scarf with red stripes.
+Brown/orange fur monkey with big expressive eyes (large pupils showing intelligence and playfulness), wide friendly smile showing small teeth, large round ears. Long curly tail (very expressive - can wrap around things, show emotions).
 
-Personality visible in design: Curious, brave, energetic despite small size. Body language shows excitement and courage.
+Body proportions: Small, agile monkey. Long arms for climbing, expressive hands/paws with fingers that can grasp bells and objects.
+
+Personality visible in design: Playful, energetic, loyal friend, adds comedy and excitement. Body language shows monkey energy - bouncy, quick movements, expressive gestures. Facial expressions: joy, curiosity, mischief, excitement.
 
 Clean white background. Character turnaround sheet. Ultra detailed, Disney/Pixar animation quality. 16:9 aspect ratio.
+
+REFERENCE NOTE: Based on existing Momo character - brown/orange monkey with expressive eyes, playful personality, curly tail.
 ```
 
 **Use these reference images** when generating all 5 scene images to maintain character consistency.
@@ -857,7 +870,7 @@ Clean white background. Character turnaround sheet. Ultra detailed, Disney/Pixar
 
 **Description:**
 ```
-Join Max the Elephant and Momo the Mouse in this HIGH-ENERGY Christmas adventure! When they discover magic bells in their tropical village, something AMAZING happens... SNOW falls for the first time!
+Join Max the Boy and Momo the Monkey in this HIGH-ENERGY Christmas adventure! When they discover magic bells in their tropical village, something AMAZING happens... SNOW falls for the first time!
 
 🎵 Song: "Max & Momo's Magic Christmas Bells"
 ⚡ Style: Fast-paced, Carol of the Bells inspired
@@ -865,7 +878,7 @@ Join Max the Elephant and Momo the Mouse in this HIGH-ENERGY Christmas adventure
 🌴❄️ Unique Setting: Tropical Village + Magical Snow!
 🎄 High-energy Christmas excitement for the whole family
 
-Features Max the gentle elephant 🐘 and Momo the brave mouse 🐭 - the ultimate friendship duo!
+Features Max the adventurous boy 👦 and Momo the playful monkey 🐵 - the ultimate friendship duo!
 
 Lyrics in Tamil & English | 3D Animation | Family-Friendly | Fast-Paced Holiday Fun
 
@@ -875,7 +888,7 @@ Perfect for kids who love exciting Christmas music with magical adventures!
 ```
 
 **Tags:**
-Christmas songs for kids, holiday music, fast Christmas songs, kids Christmas, Tamil Christmas songs, Carol of the Bells style, Max and Momo, elephant and mouse, tropical Christmas, magic bells, 3D animation, Pixar style, children's music, high energy kids songs, festive songs, Christmas 2025, family music
+Christmas songs for kids, holiday music, fast Christmas songs, kids Christmas, Tamil Christmas songs, Carol of the Bells style, Max and Momo, boy and monkey, tropical Christmas, magic bells, 3D animation, Pixar style, children's music, high energy kids songs, festive songs, Christmas 2025, family music
 
 **Category:** Music
 **Made for Kids:** YES (family-friendly, high-energy, universal appeal)
@@ -888,7 +901,7 @@ Christmas songs for kids, holiday music, fast Christmas songs, kids Christmas, T
 Before finalizing, verify:
 
 - [ ] All 5 scenes have consistent Max & Momo character designs
-- [ ] Characters match reference sheets (Max: gray elephant, red Santa hat; Momo: brown mouse, green scarf)
+- [ ] Characters match reference sheets (Max: young boy, dark hair, olive/green shirt, backpack; Momo: brown/orange monkey, curly tail)
 - [ ] Song tempo is FAST (180-200 BPM) with HIGH-energy vocals
 - [ ] Dual-language captions appear on all lyrics, timed to fast tempo
 - [ ] Song from Suno runs continuously (no cuts) across all scenes
@@ -898,12 +911,14 @@ Before finalizing, verify:
 - [ ] Total duration: 3:20-3:40 (target: 3:30)
 - [ ] Tropical-to-snow transformation is visually clear
 - [ ] Colors are vibrant (tropical colors + winter whites/blues)
-- [ ] Final scene shows Max & Momo hug moment clearly
+- [ ] Final scene shows Max & Momo hug moment clearly (boy hugging monkey)
 - [ ] Caption text is readable at fast tempo (not obscured by visuals)
 - [ ] 9:16 vertical aspect ratio maintained throughout
 - [ ] Energy level is HIGH from start to finish (no slow moments)
 - [ ] Star burst moment is dramatic and clear
 - [ ] Aurora effect visible in final scene
+- [ ] Max displays boyish energy and movements throughout
+- [ ] Momo displays monkey agility (climbing, swinging, bouncing)
 
 ---
 
@@ -958,14 +973,16 @@ Before finalizing, verify:
 
 This production improves on the original with:
 
-✅ **Character-driven story** (Max & Momo duo vs. solo Jingle)
+✅ **Character-driven story** (Max & Momo duo - boy & monkey vs. solo Jingle bell)
+✅ **More relatable characters** (adventurous boy + playful monkey = classic duo kids love!)
 ✅ **FASTER tempo** (180-200 BPM vs. 120-140 BPM) - true Carol of the Bells energy
 ✅ **Unique visual setting** (tropical village transforming to snowy wonderland)
 ✅ **Stronger emotional arc** (wish → discovery → kindness → magical reward)
-✅ **Teamwork theme** (big & small working together vs. solo character)
+✅ **Teamwork theme** (boy & monkey working together, complementary skills)
 ✅ **Visual variety** (warm tropics → mixed → winter wonderland vs. all winter)
 ✅ **Higher energy throughout** (no gentle moments, constant excitement)
 ✅ **Clearer message** ("Friendship creates magic" + "Wishes come true through action")
+✅ **More dynamic movement** (boyish energy + monkey agility vs. static bell character)
 
 ---
 
