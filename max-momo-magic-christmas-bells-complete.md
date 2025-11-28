@@ -253,19 +253,19 @@ Energy level: 10/10 from start to finish. This is a thrilling Christmas ride!
 
 ---
 
-## STEP 3: Scene Structure (5 Scenes)
+## STEP 3: Scene Structure (11 Scenes - EXPANDED)
 
-### **SCENE 1: Tropical Christmas Wish** (25-28 seconds)
-**Timing:** Intro + Verse 1 (0:00-0:28)
+### **SCENE 1: Tropical Christmas Eve Wish** (18 seconds)
+**Timing:** Intro (0:00-0:18)
 
 #### Visual Description
-Max (young boy with dark hair wearing olive/green shirt and backpack) and Momo (playful brown/orange monkey) sit together in their vibrant tropical village at sunset on Christmas Eve. Colorful palm trees decorated with Christmas lights sway gently. Max holds Christmas cards showing snow scenes while Momo sits on his shoulder, both looking wistful. They make a wish together upon a star. Suddenly, they notice a golden glow coming from the jungle. They look at each other with excitement and curiosity.
+Max (young boy with dark hair wearing olive/green shirt and backpack) sits on a hill overlooking their vibrant tropical village at sunset on Christmas Eve. Momo (playful brown/orange monkey) sits beside him. Colorful palm trees decorated with Christmas lights twinkle below. Max holds a Christmas card showing a snowy scene. Both look up at the first star appearing in the purple-pink sunset sky. Max points at the star, Momo clasps his paws together. They close their eyes making a wish together - their faces hopeful and yearning.
 
-**Setting:** Tropical village, warm sunset colors (oranges, pinks, purples)
-**Mood:** Wonder, yearning, discovery begins
-**Camera:** Wide establishing shot, then zoom to Max & Momo, pan to jungle glow
-**Lighting:** Warm tropical sunset transitioning to mysterious golden glow
-**Energy:** Building excitement, fast cuts matching fast tempo
+**Setting:** Hill overlooking tropical village, warm sunset colors (oranges, pinks, purples)
+**Mood:** Yearning, hope, wishing, peaceful opening
+**Camera:** Wide establishing shot of village, zoom to Max & Momo on hill, close-up of wishing faces
+**Lighting:** Warm tropical sunset, first stars appearing, soft glow
+**Energy:** Gentle opening building to anticipation
 
 ---
 
