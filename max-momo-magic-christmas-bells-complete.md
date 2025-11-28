@@ -2,7 +2,7 @@
 
 **Date Created**: 2025-01-28
 **Type**: High-Energy Holiday Song
-**Characters**: Max (Elephant) & Momo (Mouse) - NEW CHARACTER DUO
+**Characters**: Max (Young Boy) & Momo (Playful Monkey) - NEW CHARACTER DUO
 **Style**: Carol of the Bells inspired (FAST tempo, high energy)
 **Target Audience**: Universal/All ages
 **Duration**: ~3 minutes 30 seconds
@@ -41,7 +41,7 @@
    - **Status**: CLEAR ✅
 
 2. **Original Elements:**
-   - Characters: "Max" (elephant) & "Momo" (mouse) - **100% ORIGINAL**
+   - Characters: "Max" (young boy) & "Momo" (playful monkey) - **100% ORIGINAL**
    - Story: Tropical village discovering magic bells to bring snow - **100% ORIGINAL**
    - Lyrics: Completely original Tamil + English - **100% ORIGINAL**
    - Visual design: Original 3D Pixar-style characters - **100% ORIGINAL**
@@ -58,27 +58,31 @@
 
 ## STEP 2: Song Structure & Content
 
-### Character Introduction: **Max & Momo** 🐘🐭✨
+### Character Introduction: **Max & Momo** 👦🐵✨
 
-**Max (The Elephant):**
-- Large, gentle gray elephant with kind eyes
-- Wears a red Santa hat
-- Trunk is expressive (used to ring bells, lift Momo)
-- Personality: Cautious, protective, warm-hearted
-- Voice: Lower harmonies in choir sections
+**Max (The Boy):**
+- Young adventurous boy (approximately 7-10 years old)
+- Dark brown/black hair (slightly messy, adventurous look)
+- Warm, friendly face with big expressive brown eyes
+- Wearing olive/green colored shirt and carrying a backpack
+- Personality: Curious, adventurous, brave, friendly, natural leader
+- Voice: Lead child vocalist in choir sections
+- Physical abilities: Can run, climb, point, express wonder, speak/sing lyrics
 
-**Momo (The Mouse):**
-- Tiny brown mouse with big curious eyes
-- Wears a green Christmas scarf
-- Small paws (struggles to ring large bells alone)
-- Personality: Curious, brave, energetic
-- Voice: Higher harmonies in choir sections
+**Momo (The Monkey):**
+- Playful brown/orange monkey companion
+- Big expressive eyes and wide friendly smile
+- Energetic body language with curly tail
+- Personality: Playful, energetic, loyal friend, adds comedy and excitement
+- Voice: Playful monkey sounds, chatters, and higher harmonies in choir sections
+- Physical abilities: Can climb trees, swing, jump, help ring bells with paws
 
 **Their Dynamic:**
-- Big & Small = teamwork theme
-- Max provides strength, Momo provides courage
+- Boy & His Monkey Friend = classic adventure duo (highly relatable for kids!)
+- Max leads the adventure, Momo adds playful energy
 - Together they can ring the magic bells
 - Friendship = the real magic
+- Complementary skills: Max's human abilities + Momo's monkey agility
 
 **Visual Style:** 3D Pixar-style, vibrant tropical and winter colors, magical glow effects
 
@@ -174,13 +178,13 @@ Friends together, lifting higher!
 **Tamil:**
 மின்னும் விண்மீன், பனி மழை!
 வெப்பம் குளிர், அற்புதம் தருமே!
-பெரிய யானை, சிறிய எலி!
+சிறுவன் மேக்ஸ், குரங்கு மோமோ!
 நட்பின் மந்திரம், உலகை வெல்லும்!
 
 **English:**
 Twinkling stars and snowfall's grace!
 Tropical winter, magic's embrace!
-Giant elephant, tiny mouse friend!
+Boy and monkey, friends so true!
 Friendship's magic has no end!
 
 ---
@@ -255,7 +259,7 @@ Energy level: 10/10 from start to finish. This is a thrilling Christmas ride!
 **Timing:** Intro + Verse 1 (0:00-0:28)
 
 #### Visual Description
-Max (gray elephant wearing red Santa hat) and Momo (tiny brown mouse with green scarf) sit in their vibrant tropical village at sunset on Christmas Eve. Colorful palm trees decorated with Christmas lights sway gently. Max and Momo look at Christmas cards showing snow, making a wish together. Suddenly, they notice a golden glow coming from the jungle. They look at each other with excitement and curiosity.
+Max (young boy with dark hair wearing olive/green shirt and backpack) and Momo (playful brown/orange monkey) sit together in their vibrant tropical village at sunset on Christmas Eve. Colorful palm trees decorated with Christmas lights sway gently. Max holds Christmas cards showing snow scenes while Momo sits on his shoulder, both looking wistful. They make a wish together upon a star. Suddenly, they notice a golden glow coming from the jungle. They look at each other with excitement and curiosity.
 
 **Setting:** Tropical village, warm sunset colors (oranges, pinks, purples)
 **Mood:** Wonder, yearning, discovery begins
@@ -268,11 +272,13 @@ Max (gray elephant wearing red Santa hat) and Momo (tiny brown mouse with green 
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-Max the gray elephant (wearing red Santa hat) and Momo the tiny brown mouse (wearing green scarf) sitting together in vibrant tropical village at sunset. 3D Pixar style. Max is large with kind eyes and expressive trunk. Momo is tiny, sitting on Max's back, with big curious eyes.
+Max, a young boy (7-10 years old) with dark brown/black messy hair, wearing olive/green shirt and backpack, sitting in vibrant tropical village at sunset. Momo, a playful brown/orange monkey with big expressive eyes and curly tail, sitting on Max's shoulder. Both looking at Christmas cards together. 3D Pixar style.
+
+Max has warm friendly face with big brown eyes, adventurous look. Momo has wide friendly smile, animated expression.
 
 Background: Colorful tropical village with palm trees decorated with Christmas lights (red, green, gold), bright tropical flowers (hibiscus, orchids), small cottages with thatched roofs, warm glowing windows. Purple-pink sunset sky with first stars appearing.
 
-In foreground: Christmas cards showing snow scenes. Both characters looking wistful. In the distance: mysterious GOLDEN GLOW emanating from jungle edge (bright, magical).
+In foreground: Max holding Christmas cards showing snow scenes. Both characters looking wistful and yearning. In the distance: mysterious GOLDEN GLOW emanating from jungle edge (bright, magical).
 
 Mood: Wonder, yearning, anticipation. Warm tropical colors (oranges, pinks, greens, golds). 9:16 vertical aspect ratio. Ultra detailed, vibrant, Disney/Pixar animation quality.
 ```
@@ -284,11 +290,11 @@ Mood: Wonder, yearning, anticipation. Warm tropical colors (oranges, pinks, gree
 ```
 MINIMUM 27 seconds duration. FAST-PACED animation matching 180-200 BPM song tempo.
 
-Max (elephant) and Momo (mouse on Max's back) look at Christmas cards, then up at stars with yearning expressions. Max's trunk points at a star - they close eyes making wish together. Suddenly, eyes open wide - they see GOLDEN GLOW from jungle. Max's ears perk up, Momo jumps excitedly on Max's back pointing toward glow. They exchange excited glance and start moving toward jungle.
+Max (boy) sits looking at Christmas cards, Momo (monkey) on his shoulder also looking at cards with curious expression. Both look up at stars with yearning expressions. Max points at a bright star - they close eyes making wish together (Momo clasps paws together). Suddenly, eyes open wide - they see GOLDEN GLOW from jungle. Max's expression shifts to excitement, Momo jumps on Max's shoulder pointing excitedly toward glow, chattering. They exchange excited glance and Max starts running toward jungle with Momo bouncing on his shoulder.
 
 Camera: Wide establishing shot (3s) → zoom in to Max & Momo (4s) → hold on wishing moment (6s) → pan to show jungle glow (5s) → close-up of excited faces (4s) → start of movement toward jungle (5s).
 
-Movement: ENERGETIC, quick reactions, no slow moments. Characters move with urgency matching fast tempo. Quick cuts between shots.
+Movement: ENERGETIC, quick reactions, no slow moments. Max moves with boyish energy - quick, excited. Momo bounces and gestures animatedly. Characters move with urgency matching fast tempo. Quick cuts between shots.
 
 Lighting: Warm sunset gradually revealing mysterious golden glow getting brighter.
 
@@ -323,7 +329,7 @@ Wished upon a star so bright!
 **Timing:** First Chorus (0:28-0:56)
 
 #### Visual Description
-Max and Momo enter a mystical jungle clearing glowing with bioluminescent flowers. Ancient GOLDEN BELLS hang from a magical tree, covered in tropical vines and orchids. The bells are dull at first. Momo touches a bell with tiny paw - small sparkle. Max rings another with his trunk - bigger sparkle. TOGETHER they ring multiple bells - MASSIVE BURST of golden magic! The bells awaken, glowing brilliantly. Golden sparkles explode outward in all directions.
+Max and Momo enter a mystical jungle clearing glowing with bioluminescent flowers. Ancient GOLDEN BELLS of various sizes hang from a magical tree, covered in tropical vines and orchids. The bells are dull at first. Momo (monkey) climbs down from Max's shoulder and touches a bell with his paw - small sparkle. Max reaches up and rings another bell with his hand - bigger sparkle. TOGETHER they ring multiple bells (Max ringing with both hands, Momo swinging from branch to ring others) - MASSIVE BURST of golden magic! The bells awaken, glowing brilliantly. Golden sparkles explode outward in all directions.
 
 **Setting:** Mystical jungle clearing, magical tree with bells
 **Mood:** Wonder, discovery, EXCITEMENT building to magical explosion
@@ -571,8 +577,8 @@ Twinkling stars and snowfall's grace!
 
 **Caption 10** (1:30-1:40):
 ```
-பெரிய யானை, சிறிய எலி!
-Giant elephant, tiny mouse friend!
+சிறுவன் மேக்ஸ், குரங்கு மோமோ!
+Boy and monkey, friends so true!
 ```
 
 **Caption 11** (1:42-1:48):
