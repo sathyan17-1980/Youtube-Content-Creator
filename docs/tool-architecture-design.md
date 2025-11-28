@@ -303,8 +303,8 @@ async def youtube_scene_producer(
 
     Args:
         scene_structure: Complete scene breakdown from youtube_video_planner.
-            Must include scene count, descriptions, emotional arcs.
-            Example: "8 scenes: Kavi shows off → Friends ignore → Realizes pride → Apologizes..."
+            Must include scene count, descriptions, emotional arcs, transitions.
+            Example: "12 scenes: Kavi discovers fruit → Meets mentor → Attempts/failures → Success → Celebration → Moral"
         operation: Production operation to perform.
             - "generate": Create initial prompts for scenes (use this FIRST)
             - "refine": Improve prompts based on user feedback (use AFTER user tests prompts)
@@ -358,10 +358,10 @@ async def youtube_scene_producer(
         7. **Audio Sync Notes**: When dialogue starts, background music cues
 
     Performance Notes:
-        - Minimal format: ~200 tokens per scene (8 scenes = ~1600 tokens total)
-        - Concise format: ~400 tokens per scene (8 scenes = ~3200 tokens total)
-        - Detailed format: ~800 tokens per scene (8 scenes = ~6400 tokens total)
-        - Generation time: 15-30 seconds for all scenes
+        - Minimal format: ~200 tokens per scene (12 scenes = ~2400 tokens total)
+        - Concise format: ~400 tokens per scene (12 scenes = ~4800 tokens total)
+        - Detailed format: ~800 tokens per scene (12 scenes = ~9600 tokens total)
+        - Generation time: 20-40 seconds for all scenes
         - Refinement time: 5-10 seconds per scene
         - Always prefer concise for manual workflow (user needs context)
         - Use minimal only if integrating with automation
@@ -369,17 +369,17 @@ async def youtube_scene_producer(
     Examples:
         # Generate all scenes for Kavi drama (concise - default)
         youtube_scene_producer(
-            scene_structure="8 scenes: Kavi shows off → Friends ignore → ...",
+            scene_structure="12 scenes: Kavi discovers fruit → Meets mentor → ...",
             operation="generate",
             reference_image="characters/kavi-peacock.png",
             language="tamil",
             response_format="concise"
         )
-        # Returns: 8 complete scene packages with all prompts
+        # Returns: 12 complete scene packages with all prompts
 
         # Refine specific scenes based on user feedback
         youtube_scene_producer(
-            scene_structure="8 scenes: Kavi shows off → Friends ignore → ...",
+            scene_structure="12 scenes: Kavi discovers fruit → Meets mentor → ...",
             operation="refine",
             scene_numbers=[3, 5],
             feedback="Scene 3 character looks different. Scene 5 animation too fast.",
@@ -400,7 +400,7 @@ async def youtube_scene_producer(
 
         # Generate single scene for testing
         youtube_scene_producer(
-            scene_structure="8 scenes: Kavi shows off → ...",
+            scene_structure="12 scenes: Kavi discovers fruit → ...",
             operation="generate",
             scene_numbers=[1],
             reference_image="characters/kavi-peacock.png",
@@ -757,16 +757,16 @@ All tools implement token efficiency through:
 ```markdown
 ## Scene Production Results
 
-Generated 8 scenes. Showing first 3 scenes.
+Generated 12 scenes. Showing first 3 scenes.
 
 [Scene 1 details...]
 [Scene 2 details...]
 [Scene 3 details...]
 
-⚠️ **Response Truncated**: Remaining 5 scenes omitted to save tokens.
+⚠️ **Response Truncated**: Remaining 9 scenes omitted to save tokens.
 
 **To see remaining scenes**, call youtube_scene_producer with:
-- scene_numbers=[4, 5, 6, 7, 8]
+- scene_numbers=[4, 5, 6, 7, 8, 9, 10, 11, 12]
 - response_format="concise"
 ```
 
@@ -795,7 +795,7 @@ Traceback (most recent call last):
 **Problem**: The `scene_structure` parameter is empty or missing scene count.
 
 **Expected Format**:
-8 scenes: Kavi shows off → Friends ignore → Realizes pride → ...
+12 scenes: Kavi discovers fruit → Meets mentor → Attempts/failures → Success → Celebration → Moral
 
 **How to Fix**:
 1. First call youtube_video_planner(operation="structure") to get scene structure
@@ -842,14 +842,14 @@ All tools validate inputs strictly:
 **Valid Range**: 1 to 8 (based on scene structure)
 
 **Issue 1**: Scene 0 is invalid (scenes are 1-indexed, not 0-indexed)
-**Issue 2**: Scene 9 exceeds total scene count (8 scenes in structure)
+**Issue 2**: Scene 13 exceeds total scene count (12 scenes in structure)
 
 **How to Fix**:
-Use scene_numbers=[1, 8] or scene_numbers=[2, 3, 4]
+Use scene_numbers=[1, 12] or scene_numbers=[2, 3, 4]
 
 **Example**:
 youtube_scene_producer(
-    scene_structure="8 scenes: ...",
+    scene_structure="12 scenes: ...",
     operation="generate",
     scene_numbers=[1, 2, 3]  # ✅ Valid 1-indexed scenes
 )
@@ -870,8 +870,8 @@ Real-world token usage from our tools (targeting 8-scene drama):
 | youtube_production_manager | metadata | ~100 | ~200 | ~400 |
 
 **Token Efficiency Example:**
-- Full video workflow (8 scenes, concise): ~5,000 tokens total
-- Full video workflow (8 scenes, detailed): ~10,000 tokens total
+- Full video workflow (12 scenes, concise): ~7,500 tokens total
+- Full video workflow (12 scenes, detailed): ~15,000 tokens total
 - **Savings: 50% by using concise instead of detailed**
 
 ### Namespacing and Tool Naming

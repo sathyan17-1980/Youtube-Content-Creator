@@ -198,8 +198,8 @@ Model: Leonardo Phoenix or Leonardo Kino XL
 **Language**: Tamil
 **Expected Format**: Drama (based on moral story structure)
 **Character**: NEW character for this test (you'll create reference after Step 1)
-**Expected Scenes**: 6-8 scenes (typical for drama)
-**Expected Duration**: 2-5 minutes
+**Expected Scenes**: 10-12 scenes (proven narrative arc structure)
+**Expected Duration**: 4-5 minutes (~270 seconds)
 
 ---
 
@@ -258,7 +258,7 @@ youtube_video_planner(
 - Relatable for all ages (everyone knows someone boastful)
 - Educational value for children, entertaining for adults
 
-**Recommended Format**: Drama (6-8 scenes, 3-4 minutes)
+**Recommended Format**: Drama (10-12 scenes, 4-5 minutes with proven narrative structure)
 ```
 
 **User Decision**: Confirm Drama ✅
@@ -384,7 +384,7 @@ youtube_scene_producer(
 )
 ```
 
-**Expected Output** (~3,200 tokens for 8 scenes, ~400 tokens/scene):
+**Expected Output** (~4,800 tokens for 12 scenes, ~400 tokens/scene):
 
 **Example for Scene 1**:
 ```markdown
@@ -493,13 +493,13 @@ Gentle acoustic background music for Tamil kids story, playful piano melody with
 - This background music plays throughout the video at low volume (15-25%)
 - Fades in/out during scene transitions
 - Volume adjusts based on dialogue (duck under dialogue, raise during silence)
-- Creates cohesive audio continuity across all 8 scenes
+- Creates cohesive audio continuity across all 10-12 scenes
 
 ---
 
 ### Notes for User
 1. **Save Scene 1 Image**: After generating in Leonardo.ai, save the best version as `kavi-peacock-reference.png`
-2. **Use as Character Reference**: Upload this image to Leonardo.ai Character Reference for Scenes 2-8
+2. **Use as Character Reference**: Upload this image to Leonardo.ai Character Reference for Scenes 2-12
 3. **Set Reference Strength**: High (to maintain consistency)
 4. **Generate Background Music**: Paste Suno prompt, generate once, download
 5. **Sync Audio**: Use timeline above for precise audio placement
@@ -507,17 +507,17 @@ Gentle acoustic background music for Tamil kids story, playful piano melody with
 ---
 ```
 
-**This repeats for all 8 scenes**, each with:
+**This repeats for all 10-12 scenes**, each with:
 - Image generation prompt (Leonardo.ai)
 - Animation prompt (MiniMax Hailuo)
 - Dialogue (Tamil + English translation)
 - Voice direction (ElevenLabs/Azure TTS)
 - Timing & duration
-- Transition to next scene
+- Transition to next scene (dissolve/fade/cut with timing)
 - Audio sync notes
 - Music prompt (Suno) - included in Scene 1, referenced in subsequent scenes
 
-**Total Output**: ~3,200 tokens (8 scenes × ~400 tokens each)
+**Total Output**: ~4,800 tokens (12 scenes × ~400 tokens each)
 
 ---
 
@@ -581,7 +581,7 @@ Gentle acoustic background music for Tamil kids story, playful piano melody with
 
 **Best Case** (all successful):
 ```
-User: "All 8 scenes generated successfully! Images look consistent, animations are smooth, voice is clear."
+User: "All 12 scenes generated successfully! Images look consistent, animations are smooth, voice is clear."
 ```
 → Skip to Step 8 (Timeline Assembly)
 
@@ -609,7 +609,7 @@ youtube_production_manager(
 ```markdown
 ## Feedback Analysis
 
-### Success Rate: 75% (6/8 scenes successful) ✅
+### Success Rate: 83% (10/12 scenes successful) ✅
 
 ### Successful Scenes
 - **Scenes 1-6**: ✅ All elements generated correctly
@@ -809,7 +809,7 @@ youtube_production_manager(
 scene_01_animated.mp4 (with dialogue_scene_01.mp3 synced)
 scene_02_animated.mp4 (with dialogue_scene_02.mp3 synced)
 scene_03_animated.mp4 (with dialogue_scene_03.mp3 synced)
-... [continues for all 8 scenes]
+... [continues for all 10-12 scenes]
 ```
 
 #### Layer 2: Background Music
@@ -881,7 +881,7 @@ ffmpeg -i video_only.mp4 \
             "length": 30,
             "transition": {"in": "fade", "out": "fade"}
           },
-          // ... [repeat for all 8 scenes with transitions]
+          // ... [repeat for all 10-12 scenes with transitions]
         ]
       },
       {
@@ -1122,8 +1122,8 @@ youtube_production_manager(
 
 2. ✅ **Workflow Validation**:
    - Agent correctly analyzed idea (Drama recommendation)
-   - Agent generated proper scene structure (8 scenes, emotional arc)
-   - Agent generated all prompts in ONE call (not 8 separate calls)
+   - Agent generated proper scene structure (10-12 scenes, proven narrative arc with transitions)
+   - Agent generated all prompts in ONE call (not 10-12 separate calls)
    - Agent generated Suno music prompt automatically
    - Agent handled feedback and refined failed scenes
    - Agent provided assembly timeline and YouTube metadata

@@ -146,14 +146,14 @@ scenes = youtube_scene_producer(
 - Audio sync notes
 
 **Step 6: User Pastes Prompts to Tools Manually**
-- Leonardo.ai → Generate images (8 scenes)
-- MiniMax Hailuo → Animate images (8 scenes)
-- Azure TTS → Generate Tamil voice (8 dialogue clips)
+- Leonardo.ai → Generate images (10-12 scenes)
+- MiniMax Hailuo → Animate images (10-12 scenes with transitions)
+- Azure TTS → Generate Tamil voice (10-12 dialogue clips)
 - Suno → Generate background music (manual)
 
 **Step 7: User Reports Results**
 ```
-User: "Scenes 1-6 worked great. Scene 7 and 8 failed - character looks different"
+User: "Scenes 1-10 worked great. Scenes 11 and 12 failed - character looks different"
 ```
 
 **Step 8: Agent Processes Feedback**

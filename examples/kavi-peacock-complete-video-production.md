@@ -427,11 +427,12 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 ## Production Continuity Checklist
 
 ### **Visual Continuity**
-- [ ] Kavi's appearance consistent across all 8 scenes (same vest, anklets, eye color)
+- [ ] Kavi's appearance consistent across all 10-12 scenes (same vest, anklets, eye color)
 - [ ] Supporting characters recognizable when they reappear
 - [ ] Lighting progression matches time of day (morning → afternoon → evening)
 - [ ] Color grading consistent within same location (village vs forest)
-- [ ] Props maintained (wet feathers in Scene 3-4, healed sparrow in Scene 6)
+- [ ] Props maintained throughout story progression
+- [ ] Transitions flow smoothly between scenes (dissolve/fade/cut timing)
 
 ### **Narrative Continuity**
 - [ ] Clear character arc: Boastful → Humbled → Learns → Helps → Teaches → Celebrates
@@ -477,14 +478,14 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 
 ## Cost Breakdown (Estimated)
 
-### **Per Video Production**
-- **Image Generation** (Leonardo.ai): 24 images (8 scenes × 3 variations) = ~720 credits ≈ $7-10
-- **Animation** (MiniMax Hailuo): 8 scenes × 30s avg = 240 seconds × $0.08 = $19.20
-- **Voice Synthesis** (Azure TTS Tamil): ~1,200 characters = ~$0.25
+### **Per Video Production (10-12 scene structure)**
+- **Image Generation** (Leonardo.ai): 36 images (12 scenes × 3 variations) = ~1,080 credits ≈ $10-15
+- **Animation** (MiniMax Hailuo): 12 scenes × 22.5s avg = 270 seconds × $0.08 = $21.60
+- **Voice Synthesis** (Azure TTS Tamil): ~1,800 characters = ~$0.40
 - **Background Music** (SOUNDRAW or free): $0 (royalty-free) or included in subscription
 - **Video Assembly** (FFmpeg): $0 (free open-source)
 
-**Total per video**: ~$26-30 (excluding subscription costs)
+**Total per video**: ~$32-37 (excluding subscription costs)
 
 ### **Monthly Subscriptions**
 - Leonardo.ai Standard: $49/month

@@ -91,8 +91,8 @@ Empower content creators to produce high-quality, culturally authentic education
 
 **Core Workflow**:
 1. ✅ Idea analysis (song vs drama recommendation + copyright check)
-2. ✅ Scene structure generation (6-8 scenes for drama, 3-5 for song)
-3. ✅ Complete prompt generation (image, animation, dialogue, voice, music)
+2. ✅ Scene structure generation (10-12 scenes for drama, 3-5 for song)
+3. ✅ Complete prompt generation (image, animation, dialogue, voice, music, transitions)
 4. ✅ Feedback processing and scene refinement
 5. ✅ Timeline assembly instructions (FFmpeg/Shotstack)
 6. ✅ YouTube metadata generation (title, description, tags, thumbnail)
@@ -241,7 +241,7 @@ All tools support 3 response formats:
 ## ❌ Error: Missing Scene Structure
 
 **Problem**: The `scene_structure` parameter is empty.
-**Expected Format**: 8 scenes: Kavi shows off → Friends ignore → ...
+**Expected Format**: 10-12 scenes: Kavi discovers fruit → Meets mentor → Attempts and failures → Success → Celebration → Moral
 **How to Fix**:
 1. Call youtube_video_planner(operation="structure") first
 2. Pass result to youtube_scene_producer
@@ -263,8 +263,9 @@ All tools support 3 response formats:
 - Analyzes idea for song vs drama format (with pros/cons)
 - Checks copyright status (public domain, conflicts)
 - Supports new characters OR existing characters (series continuity)
-- Generates 6-8 scene structure for drama, 3-5 for song
-- Character emotional arc (start → change → end)
+- Generates 10-12 scene structure for drama (proven narrative arc), 3-5 for song
+- Character emotional arc with transitions (start → change → end)
+- Includes scene durations and transition types
 
 **Parameters**:
 - `idea`: Story concept (Tamil/English)
@@ -277,7 +278,7 @@ All tools support 3 response formats:
 
 **Output Examples**:
 - Analyze: Drama recommended, copyright CLEAR, reasoning (~300 tokens)
-- Structure: 8 scenes with emotional arc (~500 tokens)
+- Structure: 10-12 scenes with emotional arc and transitions (~700 tokens)
 
 ---
 
@@ -312,7 +313,7 @@ All tools support 3 response formats:
 - `response_format`: "minimal", "concise", "detailed"
 
 **Output Examples**:
-- Generate all (8 scenes): ~3,200 tokens (concise)
+- Generate all (12 scenes): ~4,800 tokens (concise, ~400 tokens/scene)
 - Refine 2 scenes: ~800 tokens
 
 ---

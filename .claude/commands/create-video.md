@@ -40,7 +40,7 @@ Extract and set defaults:
   - `both`: Bilingual (Tamil + English)
 
 - **Format**: Drama or song (default: "auto")
-  - `drama`: Force drama format (6-8 scenes)
+  - `drama`: Force drama format (10-12 scenes)
   - `song`: Force song format (3-5 scenes)
   - `auto`: Let AI analyze and recommend
 
@@ -193,9 +193,9 @@ Verify:
 
 Based on format (drama or song), create scene-by-scene breakdown.
 
-### For DRAMA (6-8 scenes):
+### For DRAMA (10-12 scenes):
 
-Create structured story with emotional arc:
+Create structured story with emotional arc following the proven narrative structure:
 
 **Template Structure:**
 ```markdown
@@ -209,19 +209,57 @@ Create structured story with emotional arc:
 
 **Emotional Arc:** [Start emotion] → [Challenge] → [Low point] → [Resolution] → [End emotion]
 
+**Narrative Structure:**
+- Introduction (Scenes 1-2): Setup and establish relationships
+- Rising Action (Scenes 3-5): Challenges and failures
+- Turning Point (Scenes 6-7): Encouragement and renewed hope
+- Climax (Scenes 8-10): Progressive success and victory
+- Resolution (Scenes 11-12): Celebration and moral reinforcement
+
 ---
 
-### Scene 1: [Scene Name] (20-25 seconds)
-**Purpose:** Establish setting and introduce character
+### Scene 1: [Scene Name] (25-30 seconds)
+**Purpose:** Establish setting and introduce character with strong hook
 **Mood:** [Emotion]
 **Location:** [Where]
 **Character State:** [Emotional/physical state]
 **Action:** [What happens in 2-3 sentences]
-**Transition:** [How it leads to next scene]
+**Transition:** [Type: dissolve/fade/cut] - [How it leads to next scene]
 
-[Repeat for all 6-8 scenes]
+### Scene 2: [Scene Name] (20-25 seconds)
+**Purpose:** Establish relationships or introduce challenge
+**Mood:** [Emotion]
+**Location:** [Where]
+**Character State:** [Emotional/physical state]
+**Action:** [What happens in 2-3 sentences]
+**Transition:** [Type: dissolve/fade/cut] - [How it leads to next scene]
 
-**Final Scene:** Resolution + Moral Statement
+### Scenes 3-5: [Rising Action] (20-25 seconds each)
+**Purpose:** Show attempts, failures, growing frustration
+**Mood:** [Progression of emotions]
+**Transitions:** [Maintain visual flow between attempts]
+
+### Scenes 6-7: [Turning Point] (20-25 seconds each)
+**Purpose:** Encouragement, renewed determination
+**Mood:** [Shift from despair to hope]
+**Transitions:** [Mark emotional shift]
+
+### Scenes 8-10: [Climax] (20-30 seconds)
+**Purpose:** Progressive success, building to victory
+**Scene 10 Duration:** 25-30 seconds (key triumphant moment)
+**Transitions:** [Build excitement and momentum]
+
+### Scenes 11-12: [Resolution] (20-25 seconds each)
+**Purpose:** Celebration and moral reinforcement
+**Final Scene:** Clear moral statement and positive ending
+**Transition:** [Final fade out]
+
+[Repeat detailed breakdown for all 10-12 scenes]
+
+**Scene Duration Guidelines:**
+- Key dramatic moments (Scenes 1, 10, 12): 25-30 seconds
+- Standard scenes: 20-25 seconds
+- Total: ~4.5 minutes (270 seconds)
 ```
 
 ### For SONG (3-5 scenes):
@@ -483,7 +521,7 @@ Instruments: {list instruments}
 ---
 
 **Output for user:**
-- All scene packages (6-8 for drama, 3-5 for song)
+- All scene packages (10-12 for drama, 3-5 for song)
 - Single music prompt
 - Well-formatted, copy-paste ready
 - Organized by scene number
