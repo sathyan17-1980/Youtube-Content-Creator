@@ -253,19 +253,40 @@ Energy level: 10/10 from start to finish. This is a thrilling Christmas ride!
 
 ---
 
-## STEP 3: Scene Structure (11 Scenes - EXPANDED)
+## STEP 3: Scene Structure (11 Scenes - Matched to Song)
 
-### **SCENE 1: Tropical Christmas Wish** (25-28 seconds)
-**Timing:** Intro + Verse 1 (0:00-0:28)
+**Core Concept:** Max & Momo make a Christmas wish to bring snow to their tropical village for the first time. Through kindness and community, their wish comes true in a magical way.
+
+**Story Arc Flow:**
+1. Wish upon a star (tropical evening)
+2. See mysterious glow (discovery begins)
+3. Journey through jungle (adventure/excitement)
+4. Find the ancient bells (wonder)
+5. First ring - magic awakens (turning point)
+6. Bells fully activate (magic explosion)
+7. Race back to village (urgency/excitement)
+8. First snowflakes fall (magic begins)
+9. Village gathers in wonder (community reaction)
+10. Climactic star burst (emotional peak)
+11. Celebration & resolution (heartwarming ending)
+
+**Total Duration:** ~3:30-3:40 (210-220 seconds)
+
+---
+
+### **SCENE 1: Tropical Christmas Eve Wish** (18 seconds)
+**Timing:** Intro (0:00-0:18)
 
 #### Visual Description
-Max (young boy with dark hair wearing olive/green shirt and backpack) and Momo (playful brown/orange monkey) sit together in their vibrant tropical village at sunset on Christmas Eve. Colorful palm trees decorated with Christmas lights sway gently. Max holds Christmas cards showing snow scenes while Momo sits on his shoulder, both looking wistful. They make a wish together upon a star. Suddenly, they notice a golden glow coming from the jungle. They look at each other with excitement and curiosity.
 
-**Setting:** Tropical village, warm sunset colors (oranges, pinks, purples)
-**Mood:** Wonder, yearning, discovery begins
-**Camera:** Wide establishing shot, then zoom to Max & Momo, pan to jungle glow
-**Lighting:** Warm tropical sunset transitioning to mysterious golden glow
-**Energy:** Building excitement, fast cuts matching fast tempo
+Max (young boy with dark hair wearing olive/green shirt and backpack) sits on a hill overlooking their vibrant tropical village at sunset on Christmas Eve. Momo (playful brown/orange monkey) sits beside him. Colorful palm trees decorated with Christmas lights twinkle below. Max holds a Christmas card showing a snowy scene. Both look up at the first star appearing in the purple-pink sunset sky. Max points at the star, Momo clasps his paws together. They close their eyes making a wish together - their faces hopeful and yearning.
+
+**Setting:** Hillside overlooking tropical village at sunset
+**Mood:** Yearning, hope
+**Emotional Beat:** Establishing the wish and desire for snow
+**Camera:** Wide establishing shot of village, then close-up of Max & Momo wishing
+**Lighting:** Purple-pink sunset, warm Christmas lights twinkling below
+**Song Section:** Intro (Ding dong bells)
 
 ---
 
@@ -325,17 +346,19 @@ Wished upon a star so bright!
 
 ---
 
-### **SCENE 2: Discovery of Magic Bells** (25-28 seconds)
-**Timing:** First Chorus (0:28-0:56)
+### **SCENE 2: Mysterious Golden Glow** (16 seconds)
+**Timing:** Verse 1 Start (0:18-0:34)
 
 #### Visual Description
-Max and Momo enter a mystical jungle clearing glowing with bioluminescent flowers. Ancient GOLDEN BELLS of various sizes hang from a magical tree, covered in tropical vines and orchids. The bells are dull at first. Momo (monkey) climbs down from Max's shoulder and touches a bell with his paw - small sparkle. Max reaches up and rings another bell with his hand - bigger sparkle. TOGETHER they ring multiple bells (Max ringing with both hands, Momo swinging from branch to ring others) - MASSIVE BURST of golden magic! The bells awaken, glowing brilliantly. Golden sparkles explode outward in all directions.
 
-**Setting:** Mystical jungle clearing, magical tree with bells
-**Mood:** Wonder, discovery, EXCITEMENT building to magical explosion
-**Camera:** Dynamic - circle around tree, close-ups of bells, wide shot of magic burst
-**Lighting:** Bioluminescent glow → brilliant golden explosion
-**Energy:** HIGH - fast movements, rapid bell rings, explosive magic
+After making their wish, Max and Momo open their eyes and notice a mysterious GOLDEN GLOW emanating from deep within the jungle. The glow pulses gently, calling to them. They exchange excited glances - this feels magical! Max stands up with determination, Momo bouncing on his shoulder chattering excitedly. They begin moving toward the jungle edge, the golden light growing brighter as they approach. The village lights fade behind them as the mysterious glow beckons.
+
+**Setting:** Village edge transitioning to jungle entrance
+**Mood:** Discovery, curiosity
+**Emotional Beat:** The call to adventure begins
+**Camera:** Focus on Max & Momo's faces seeing the glow, then pan to show golden light in jungle
+**Lighting:** Warm village lights fading, mysterious golden glow intensifying
+**Song Section:** Verse 1 (Max and Momo found the bells...)
 
 ---
 
@@ -407,17 +430,19 @@ Max and Momo, friendship's might!
 
 ---
 
-### **SCENE 3: First Snow Falls!** (22-25 seconds)
-**Timing:** Verse 2 (0:56-1:18)
+### **SCENE 3: Journey Through Jungle** (20 seconds)
+**Timing:** Chorus Start (0:34-0:54)
 
 #### Visual Description
-Max (carrying bells in his hands and wearing some around his neck) runs back toward the village with Momo (sitting on his head/shoulder holding a small bell), both ringing bells joyfully. With each ring, golden sparkles spread through the air. The temperature shifts - visible breath appears. FIRST SNOWFLAKES begin to fall! They land on tropical palm leaves creating magical contrast. Villagers (diverse characters - elves, children, families of different ethnicities) emerge from colorful houses, faces filled with wonder. Children reach up to catch snowflakes for the first time. Elders smile with joy.
 
-**Setting:** Village edge, tropical meets winter
-**Mood:** Wonder, joy, magical transformation beginning
-**Camera:** Fast tracking shot following Max & Momo's movement, cuts to villagers' reactions
-**Lighting:** Warm village lights contrasting with cool blue-white first snow
-**Energy:** HIGH - rapid movement, excited reactions, snowflakes swirling
+Max and Momo journey through the mystical jungle toward the golden glow. Max pushes through tropical vines, Momo swings ahead on branches helping to clear the path. Bioluminescent flowers light their way. The jungle is alive with magic - fireflies dance, exotic birds watch from trees, mystical mist swirls at their feet. They move with excitement and adventure, getting closer to the source of the golden light which grows brighter with each step.
+
+**Setting:** Dense mystical jungle
+**Mood:** Excitement, adventure
+**Emotional Beat:** The adventure intensifies
+**Camera:** Following Max & Momo through jungle, dynamic movement tracking them
+**Lighting:** Bioluminescent blues and purples, golden glow getting brighter ahead
+**Song Section:** Chorus (Ring, ring, ring, the magic sound!)
 
 ---
 
@@ -492,17 +517,19 @@ Palm trees wearing white attire!
 
 ---
 
-### **SCENE 4: Village Transformation** (26-30 seconds)
-**Timing:** Second Chorus + Bridge (1:18-1:48)
+### **SCENE 4: Finding the Bell Tree** (22 seconds)
+**Timing:** Chorus/Verse 2 (0:54-1:16)
 
 #### Visual Description
-Heavy snow now falling across the entire tropical village. Max and Momo stand in the village square, ringing bells together. With each ring, MORE magic happens: Christmas decorations appear on palm trees, lights twinkle on, snowflakes swirl in beautiful patterns. Villagers join hands in a circle around Max & Momo. The giant Christmas tree (a decorated palm tree) in the center of the square begins to glow brilliantly. Children build snowmen next to tropical flowers (surreal, beautiful). Families exchange gifts and hugs. The village is transformed into a magical tropical winter wonderland.
 
-**Setting:** Village square, full transformation
-**Mood:** Joy, community, celebration, unity
-**Camera:** Circular pan around the gathering, crane shot rising to show full village
-**Lighting:** Snow reflecting Christmas lights, warm + cool color harmony
-**Energy:** MAXIMUM - celebration, dancing, joyful chaos
+Max and Momo break through the final vines and enter a breathtaking mystical clearing. Before them stands an ancient magical tree unlike any they've seen - massive and majestic, with GOLDEN BELLS of various sizes hanging from its branches. The bells are ornate and covered in tropical vines, orchids, and hibiscus flowers. Some bells glow faintly, others remain dull. The tree itself pulses with golden light. Max and Momo stand in awe, mouths open, eyes wide with wonder. This is the source of the magical glow! Bioluminescent flowers surround the clearing, creating an ethereal atmosphere.
+
+**Setting:** Mystical jungle clearing with the ancient bell tree
+**Mood:** Wonder, awe
+**Emotional Beat:** Discovery of the magical bells
+**Camera:** Wide shot revealing the magnificent tree, then close-ups of Max & Momo's awed faces
+**Lighting:** Brilliant golden glow from tree and bells, bioluminescent ambient light
+**Song Section:** Verse 2 transition (Bells are ringing, village glows!)
 
 ---
 
@@ -592,17 +619,19 @@ Friendship's magic has no end!
 
 ---
 
-### **SCENE 5: Christmas Miracle Finale** (32-36 seconds)
-**Timing:** Final Chorus + Outro (1:48-3:30)
+### **SCENE 5: First Touch - Magic Awakens** (16 seconds)
+**Timing:** Verse 2 End (1:16-1:32)
 
 #### Visual Description
-CLIMACTIC FINALE. Max lifts Momo high above his head toward the glowing star atop the giant Christmas palm tree. Together they give ONE FINAL POWERFUL RING of the bells (Max ringing with one hand while holding Momo up, Momo ringing from above). The star EXPLODES with brilliant light spreading across the entire village and sky. Aurora borealis appears in tropical sky (magical!). Fireworks of golden and silver sparkles burst everywhere. The entire village is now a perfect tropical winter wonderland - snow-covered palm trees, colorful buildings with snow on roofs, Christmas lights everywhere. All villagers celebrate together - dancing, jumping, playing in snow, hugging. Max and Momo at the center share a heartwarming hug (Max holds Momo close to his chest, both embracing). Final message appears: "Magic happens when hearts ring together." Camera pulls back to wide aerial shot showing the entire glowing, snowy tropical village under starry sky with aurora. Bells twinkle softly as scene fades to peaceful starry night.
 
-**Setting:** Full village, aerial perspective
-**Mood:** Triumphant, joyful climax transitioning to peaceful wonder
-**Camera:** Dynamic rise following Momo, star burst, then wide aerial pullback
-**Lighting:** Explosive brightness → warm village glow → peaceful starlight
-**Energy:** PEAK intensity → gentle peaceful resolution
+Curious and cautious, Max reaches out and gently touches one of the bells with his finger. The bell chimes softly - and suddenly a SMALL BURST of golden sparkles erupts! Max jumps back slightly, startled but excited. Momo, sitting on a branch, reaches out with his tiny paw and touches another bell. Another chime, another sparkle burst! They look at each other with growing realization - these bells are MAGIC! Their expressions shift from wonder to excitement to determination. This could be the answer to their wish!
+
+**Setting:** Bell tree clearing
+**Mood:** Surprise, realization
+**Emotional Beat:** Discovery that the bells are magical / turning point
+**Camera:** Close-ups of hands/paws touching bells, faces reacting to magic
+**Lighting:** Small bursts of golden sparkles, magical shimmer beginning
+**Song Section:** Transition to Bridge
 
 ---
 
@@ -722,6 +751,102 @@ Ding dong... magic came true!
 
 ---
 
+### **SCENE 6: Bells Fully Activate** (22 seconds)
+**Timing:** Chorus 2 (1:32-1:54)
+
+#### Visual Description
+
+Realizing the bells' power, Max and Momo ring them together with excitement and purpose! Max reaches up and rings multiple bells with both hands, Momo swings from branch to branch ringing others with his paws. With each ring, the magic INTENSIFIES - golden sparkles burst outward in waves, the entire tree glows brilliantly, magic fills the air! The bells transform from dull to brilliant shining gold. The magical energy builds and builds, creating a dome of golden light around them. They ring faster and more urgently - the magic is FULLY ACTIVATED!
+
+**Setting:** Bell tree clearing, magic at full power
+**Mood:** Magic explosion, excitement
+**Emotional Beat:** The bells awaken fully / magic unleashed
+**Camera:** Dynamic movement circling the tree, rapid cuts between bells ringing
+**Lighting:** Brilliant golden explosions, waves of magical light
+**Song Section:** Chorus 2 (Ring, ring, ring!)
+
+---
+
+### **SCENE 7: Racing Back to Village** (20 seconds)
+**Timing:** Bridge Start (1:54-2:14)
+
+#### Visual Description
+
+Max grabs several bells in his arms and around his neck. Momo clutches a small bell in his paws. They take off running back through the jungle toward the village with URGENCY! Max sprints, Momo rides on his shoulder. With each step, the bells chime. Golden sparkles trail behind them. The jungle seems to help them - vines move aside, a glowing path appears. They're racing against time, faces determined, moving as fast as they can. The village lights are visible ahead through the trees!
+
+**Setting:** Jungle path back to village
+**Mood:** Urgency, excitement
+**Emotional Beat:** Racing to share the magic / bringing hope home
+**Camera:** Fast tracking shot following their sprint, dynamic movement
+**Lighting:** Golden sparkles trailing, village lights ahead beckoning
+**Song Section:** Bridge (Stars and snowfall's grace!)
+
+---
+
+### **SCENE 8: First Snowflakes Fall** (20 seconds)
+**Timing:** Bridge End (2:14-2:34)
+
+#### Visual Description
+
+Max and Momo burst out of the jungle into the village edge, still ringing the bells! As they ring, the temperature visibly drops - you can see their breath. Then... the FIRST SNOWFLAKE falls! Then another. And another. Snowflakes begin falling from the tropical sky! Max and Momo stop, looking up in wonder and joy. They catch snowflakes on their hands/paws. More and more snow begins to fall, landing on palm trees and tropical flowers - a magical, surreal sight. Their wish is coming true!
+
+**Setting:** Village edge, tropical landscape beginning to transform
+**Mood:** Wonder, magic begins
+**Emotional Beat:** The wish starts coming true / first miracle
+**Camera:** Looking up at sky with first snowflakes, close-ups of faces filled with joy
+**Lighting:** Warm tropical transitioning to cool snow-light, magical shimmer
+**Song Section:** Bridge end
+
+---
+
+### **SCENE 9: Village Transformation** (24 seconds)
+**Timing:** Final Chorus Start (2:34-2:58)
+
+#### Visual Description
+
+Snow now falls across the entire village! Villagers emerge from their colorful tropical houses - children, families, elders, all with faces of amazement. Max and Momo stand in the village square ringing the bells as the community gathers around them. With each ring, more magic: Christmas decorations appear on palm trees, lights twinkle on, snowflakes swirl in beautiful patterns. Children reach up to catch snow for the first time. Villagers begin to join hands forming a circle around Max & Momo. The giant Christmas palm tree in the square begins to glow. Joy spreads through the community!
+
+**Setting:** Village square, community gathering
+**Mood:** Community wonder, gathering together
+**Emotional Beat:** Shared joy / community celebration begins
+**Camera:** Wide shots of village, medium shots of villagers reacting, circling around gathering
+**Lighting:** Snow + Christmas lights creating magical atmosphere
+**Song Section:** Final Chorus (Ring, ring, ring, the magic sound!)
+
+---
+
+### **SCENE 10: Climactic Star Burst** (22 seconds)
+**Timing:** Final Chorus Peak (2:58-3:20)
+
+#### Visual Description
+
+The magic reaches its PEAK! Max lifts Momo high above his head toward the glowing star atop the giant Christmas palm tree. Together they give ONE POWERFUL FINAL RING of the bells. The star atop the tree EXPLODES with brilliant golden-white light, sending rays across the entire village and sky! The light wave spreads outward. Aurora borealis ribbons appear in the tropical sky (impossible but magical!). Fireworks of golden and silver sparkles burst everywhere. The entire village is illuminated. This is the TRIUMPHANT PEAK - the climax of magic, wonder, and joy!
+
+**Setting:** Village square, looking up at the star burst
+**Mood:** Triumphant peak, maximum wonder
+**Emotional Beat:** Climactic magical moment / wish fulfilled completely
+**Camera:** Dynamic rise following Momo being lifted, star burst, wide shot of light spreading
+**Lighting:** Explosive brilliant light, aurora in sky, fireworks, magical peak
+**Song Section:** Final Chorus peak (maximum energy)
+
+---
+
+### **SCENE 11: Celebration & Heartwarming Ending** (20 seconds)
+**Timing:** Outro (3:20-3:40)
+
+#### Visual Description
+
+The village is now a perfect tropical winter wonderland - snow covering palm trees, colorful buildings with snow on roofs, Christmas lights twinkling everywhere. All villagers celebrate together - dancing, hugging, children playing in snow, families together. Max and Momo share a tender heartwarming HUG in the center (Max holds Momo close, both embracing). The camera slowly pulls back and UP to an aerial view showing the entire glowing village under a starry sky with aurora overhead. The bells chime softly one last time. Text appears: "Magic happens when hearts ring together." Peaceful, joyful, complete. Fade to starry night sky.
+
+**Setting:** Full village, aerial perspective
+**Mood:** Joy, gratitude, peace
+**Emotional Beat:** Resolution / heartwarming conclusion
+**Camera:** Close on Max & Momo hug, then slow aerial pullback to show complete transformation
+**Lighting:** Warm village glow with snow, peaceful starlight, gentle aurora
+**Song Section:** Outro (Ding dong... magic came true!)
+
+---
+
 ## Voice Direction & Audio Notes
 
 ### Voice Style for HIGH-ENERGY Song
@@ -756,37 +881,72 @@ Ding dong... magic came true!
 
 ## Production Timeline & Assembly
 
-### Timeline Structure (Total: ~3 minutes 30 seconds)
+### Timeline Structure (Total: 3 minutes 40 seconds / 220 seconds)
 
 ```
-00:00-00:28  Scene 1: Tropical Christmas Wish (28s)
+00:00-00:18  Scene 1: Tropical Christmas Eve Wish (18s)
              ├─ Video: scene_01_animated.mp4
-             ├─ Audio: Suno song starts (FAST tempo from beginning)
-             └─ Captions: 1, 2, 3 (dual-language overlay)
+             ├─ Audio: Suno song Intro (FAST tempo from beginning)
+             └─ Emotional Beat: Yearning, hope
 
-00:28-00:56  Scene 2: Discovery of Magic Bells (28s)
+00:18-00:34  Scene 2: Mysterious Golden Glow (16s)
              ├─ Video: scene_02_animated.mp4
-             ├─ Audio: Suno song continues (chorus - high energy)
-             ├─ Sound FX: Bell rings, magic burst
-             └─ Captions: 4, 5, 6 (dual-language overlay)
+             ├─ Audio: Verse 1 start
+             └─ Emotional Beat: Discovery, curiosity
 
-00:56-1:18   Scene 3: First Snow Falls! (22s)
+00:34-00:54  Scene 3: Journey Through Jungle (20s)
              ├─ Video: scene_03_animated.mp4
-             ├─ Audio: Suno song continues (verse 2)
-             ├─ Sound FX: Sparkles, snowfall shimmer
-             └─ Captions: 7, 8 (dual-language overlay)
+             ├─ Audio: Chorus start
+             ├─ Sound FX: Jungle sounds, magical atmosphere
+             └─ Emotional Beat: Excitement, adventure
 
-1:18-1:48    Scene 4: Village Transformation (30s)
+00:54-1:16   Scene 4: Finding the Bell Tree (22s)
              ├─ Video: scene_04_animated.mp4
-             ├─ Audio: Suno song continues (chorus + bridge)
-             ├─ Sound FX: Magic effects, star burst
-             └─ Captions: 9, 10, 11 (dual-language overlay)
+             ├─ Audio: Chorus/Verse 2
+             ├─ Sound FX: Tree glow, magical revelation
+             └─ Emotional Beat: Wonder, awe
 
-1:48-3:30    Scene 5: Christmas Miracle Finale (102s)
+1:16-1:32    Scene 5: First Touch - Magic Awakens (16s)
              ├─ Video: scene_05_animated.mp4
-             ├─ Audio: Suno song continues to end (final chorus + outro)
-             ├─ Sound FX: Star explosion, fireworks, aurora, final bell
-             └─ Captions: 12, 13, 14, 15, 16 (dual-language overlay)
+             ├─ Audio: Verse 2 end
+             ├─ Sound FX: Small bell chimes, sparkle bursts
+             └─ Emotional Beat: Surprise, realization
+
+1:32-1:54    Scene 6: Bells Fully Activate (22s)
+             ├─ Video: scene_06_animated.mp4
+             ├─ Audio: Chorus 2
+             ├─ Sound FX: Multiple bells, magic explosion
+             └─ Emotional Beat: Magic explosion
+
+1:54-2:14    Scene 7: Racing Back to Village (20s)
+             ├─ Video: scene_07_animated.mp4
+             ├─ Audio: Bridge start
+             ├─ Sound FX: Running, bells chiming, sparkles trailing
+             └─ Emotional Beat: Urgency, excitement
+
+2:14-2:34    Scene 8: First Snowflakes Fall (20s)
+             ├─ Video: scene_08_animated.mp4
+             ├─ Audio: Bridge end
+             ├─ Sound FX: Snowfall shimmer, temperature drop
+             └─ Emotional Beat: Magic begins
+
+2:34-2:58    Scene 9: Village Transformation (24s)
+             ├─ Video: scene_09_animated.mp4
+             ├─ Audio: Final Chorus start
+             ├─ Sound FX: Community gathering, decorations appearing
+             └─ Emotional Beat: Community wonder
+
+2:58-3:20    Scene 10: Climactic Star Burst (22s)
+             ├─ Video: scene_10_animated.mp4
+             ├─ Audio: Final Chorus peak
+             ├─ Sound FX: Star explosion, fireworks, aurora shimmer
+             └─ Emotional Beat: Triumphant peak
+
+3:20-3:40    Scene 11: Celebration & Heartwarming Ending (20s)
+             ├─ Video: scene_11_animated.mp4
+             ├─ Audio: Outro (Ding dong... magic came true!)
+             ├─ Sound FX: Final bell chime, peaceful fade
+             └─ Emotional Beat: Joy, gratitude, peace
 ```
 
 ### Transitions
@@ -900,7 +1060,7 @@ Christmas songs for kids, holiday music, fast Christmas songs, kids Christmas, T
 
 Before finalizing, verify:
 
-- [ ] All 5 scenes have consistent Max & Momo character designs
+- [ ] All 11 scenes have consistent Max & Momo character designs
 - [ ] Characters match reference sheets (Max: young boy, dark hair, olive/green shirt, backpack; Momo: brown/orange monkey, curly tail)
 - [ ] Song tempo is FAST (180-200 BPM) with HIGH-energy vocals
 - [ ] Dual-language captions appear on all lyrics, timed to fast tempo
@@ -908,7 +1068,7 @@ Before finalizing, verify:
 - [ ] Scene transitions dissolve quickly (0.5s) on music beats
 - [ ] Sound effects sync with visual magic moments
 - [ ] Bell sounds are PROMINENT and constant throughout
-- [ ] Total duration: 3:20-3:40 (target: 3:30)
+- [ ] Total duration: 3:40 (220 seconds across 11 scenes)
 - [ ] Tropical-to-snow transformation is visually clear
 - [ ] Colors are vibrant (tropical colors + winter whites/blues)
 - [ ] Final scene shows Max & Momo hug moment clearly (boy hugging monkey)
@@ -938,17 +1098,17 @@ Before finalizing, verify:
 
 ### Step 3: Generate Scene Images (Leonardo.ai)
 1. Use Max & Momo character references for consistency
-2. Generate Scene 1-5 images using prompts above
+2. Generate Scene 1-11 images using prompts above
 3. 9:16 vertical aspect ratio for all
-4. Verify tropical setting in Scenes 1-2, snow appearing Scene 3, full snow Scenes 4-5
-5. Ensure vibrant colors and magical atmosphere
+4. Verify progression: Scenes 1-2 (tropical village), Scenes 3-6 (jungle/bell tree), Scenes 7-11 (village transformation with snow)
+5. Ensure vibrant colors and magical atmosphere throughout all scenes
 
 ### Step 4: Animate Scenes (MiniMax Hailuo)
-1. Upload each scene image
-2. Paste animation prompts (ensure MINIMUM duration specified)
-3. Generate 25-35 second animations
+1. Upload each scene image (11 total)
+2. Paste animation prompts (ensure MINIMUM duration specified for each)
+3. Generate animations with proper durations (16-24 seconds each, total 220s)
 4. **CRITICAL**: Verify animations match FAST tempo (rapid movements, no slow moments)
-5. Check that magic effects are dramatic and visible
+5. Check that magic effects are dramatic and visible in all scenes
 
 ### Step 5: Add Captions (Video editor - FFmpeg/DaVinci Resolve/Shotstack)
 1. Burn dual-language captions using provided timing
@@ -997,16 +1157,16 @@ This production improves on the original with:
 **Total Production Time Estimate:**
 - Character references: 30 minutes
 - Music generation (Suno): 15 minutes
-- Scene image generation: 1-2 hours
-- Scene animation (MiniMax): 3-5 hours (depending on queue)
-- Video assembly & effects: 2-3 hours
-- **TOTAL**: 7-11 hours production time
+- Scene image generation: 2-3 hours (11 scenes)
+- Scene animation (MiniMax): 6-11 hours (11 scenes, depending on queue)
+- Video assembly & effects: 3-4 hours
+- **TOTAL**: 12-19 hours production time
 
 **Budget Estimate** (if using paid tools):
-- Leonardo.ai: ~$10 (image generation)
-- MiniMax Hailuo: ~$15-20 (5 animations)
+- Leonardo.ai: ~$20-25 (11 image generations)
+- MiniMax Hailuo: ~$33-44 (11 animations)
 - Suno: Included in subscription
-- **TOTAL**: ~$25-30 for full production
+- **TOTAL**: ~$53-69 for full production
 
 **Best Time to Produce:**
 - Generate music and images during your active work time

@@ -41,7 +41,7 @@ Extract and set defaults:
 
 - **Format**: Drama or song (default: "auto")
   - `drama`: Force drama format (10-12 scenes)
-  - `song`: Force song format (3-5 scenes)
+  - `song`: Force song format (11 scenes matching song structure)
   - `auto`: Let AI analyze and recommend
 
 **Validation:**
@@ -262,37 +262,57 @@ Create structured story with emotional arc following the proven narrative struct
 - Total: ~4.5 minutes (270 seconds)
 ```
 
-### For SONG (3-5 scenes):
+### For SONG (11 scenes):
 
-Create visual sequences matching song structure:
+Create visual sequences matching song structure with precise timing:
 
 **Template Structure:**
 ```markdown
-## {Number}-Scene Song Structure
+## 11-Scene Song Structure
 
 **Title:** [Song Title]
 **Theme:** [Core message]
 **Characters:** [List]
 **Musical Style:** [Genre, tempo, mood]
-**Total Duration:** ~3-4 minutes (180-240 seconds)
+**Total Duration:** ~3-4 minutes (approximately 210-220 seconds)
 
 **Song Structure:** Intro → Verse 1 → Chorus → Verse 2 → Chorus → Bridge → Final Chorus → Outro
 
+**Scene Arc:** Based on the song duration (~3:30), here's the 11-scene breakdown:
+
+| Scene | Title | Duration | Timing | Song Section | Emotional Beat |
+|-------|-------|----------|---------|--------------|----------------|
+| 1 | [Opening/Setup] | 16-20s | 0:00-0:18 | Intro | [Emotion] |
+| 2 | [Discovery] | 14-18s | 0:18-0:34 | Verse 1 start | [Emotion] |
+| 3 | [Adventure Begins] | 18-22s | 0:34-0:54 | Chorus start | [Emotion] |
+| 4 | [Key Moment 1] | 20-24s | 0:54-1:16 | Chorus/Verse 2 | [Emotion] |
+| 5 | [Turning Point] | 14-18s | 1:16-1:32 | Verse 2 end | [Emotion] |
+| 6 | [Escalation] | 20-24s | 1:32-1:54 | Chorus 2 | [Emotion] |
+| 7 | [Urgency/Climax Build] | 18-22s | 1:54-2:14 | Bridge start | [Emotion] |
+| 8 | [Magic Begins] | 18-22s | 2:14-2:34 | Bridge end | [Emotion] |
+| 9 | [Transformation] | 22-26s | 2:34-2:58 | Final Chorus start | [Emotion] |
+| 10 | [Peak Moment] | 20-24s | 2:58-3:20 | Final Chorus peak | [Emotion] |
+| 11 | [Resolution/Ending] | 18-22s | 3:20-3:40 | Outro | [Emotion] |
+
 ---
 
-### Scene 1: Intro (15-20 seconds)
-**Song Section:** Intro/Opening
+### Scene 1: [Scene Name] (16-20 seconds)
+**Timing:** 0:00-0:18
+**Song Section:** Intro
 **Visual Purpose:** Establish setting and character
 **Mood:** [Emotion]
-**Action:** [What happens visually]
+**Action:** [What happens visually in 2-3 sentences]
+**Transition:** [Type: dissolve/fade/cut] - [How it leads to next scene]
 
-### Scene 2: Verse 1 + Chorus (40-50 seconds)
-**Song Section:** Verse 1 → Chorus
+### Scene 2: [Scene Name] (14-18 seconds)
+**Timing:** 0:18-0:34
+**Song Section:** Verse 1 start
 **Visual Purpose:** [Purpose]
 **Mood:** [Emotion]
 **Action:** [What happens]
+**Transition:** [Type] - [Connection to next]
 
-[Continue for all scenes matching song structure]
+[Continue for all 11 scenes with specific timing matched to song sections]
 ```
 
 **Include:**
