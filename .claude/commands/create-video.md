@@ -11,6 +11,23 @@ $ARGUMENTS
 
 ---
 
+## Reference Example
+
+**IMPORTANT:** For a complete example of what the final output should look like, see:
+`/home/user/Youtube-Content-Creator/max-momo-magic-christmas-bells-complete.md`
+
+This file shows:
+- ✅ ALL 11 scenes with COMPLETE image + animation prompts
+- ✅ Detailed character descriptions
+- ✅ Music generation prompts
+- ✅ Caption timing and text
+- ✅ Production timeline
+- ✅ YouTube metadata
+
+**Use this as the quality standard for ALL video creation tasks.**
+
+---
+
 ## Step 1: Parse Arguments and Set Defaults
 
 Parse the arguments from: **$ARGUMENTS**
@@ -328,23 +345,34 @@ Create visual sequences matching song structure with precise timing:
 
 ## Step 5: Generate Complete Production Prompts
 
-For each scene, generate ALL 7 production elements:
+**CRITICAL REQUIREMENT:** Generate COMPLETE, production-ready prompts for EVERY SINGLE SCENE. Each scene MUST have:
+1. ✅ Detailed Image Generation Prompt (Leonardo.ai)
+2. ✅ Detailed Animation Prompt (MiniMax Hailuo)
+3. ✅ Dialogue/Captions (if applicable)
+
+**DO NOT** leave any scene with only a "Visual Description" - every scene needs copy-paste ready prompts for the AI tools.
+
+For each scene, generate ALL production elements:
 
 ### For Each Scene, Create:
 
 ```markdown
 ## **SCENE {number}: {Scene Name}** ({duration} seconds)
+**Timing:** {start_time}-{end_time}
 
 ### Visual Description
 [2-3 sentences describing the scene composition, lighting, mood, character position, background elements]
 
+**Setting:** {location}
 **Mood:** {mood}
+**Emotional Beat:** {what this scene contributes to story}
 **Camera:** {camera movement/angle}
 **Lighting:** {lighting description}
+**Song Section:** {if song: which part of song this scene matches}
 
 ---
 
-### 1. Image Generation Prompt (Leonardo.ai)
+### Image Generation Prompt (Leonardo.ai)
 
 \```
 {Character name and description} in {location and setting}. 3D Pixar style.
@@ -541,24 +569,56 @@ Instruments: {list instruments}
 ---
 
 **Output for user:**
-- All scene packages (10-12 for drama, 3-5 for song)
+- All scene packages with COMPLETE prompts (10-12 for drama, 11 for song)
 - Single music prompt
 - Well-formatted, copy-paste ready
 - Organized by scene number
 
-**After generation, inform user:**
+**VERIFICATION CHECKLIST before presenting to user:**
 ```markdown
-## ✅ Production Prompts Generated
+## 🔍 Pre-Delivery Verification
 
-**Scenes Created:** {number} scenes
+Verify EVERY scene has ALL of these:
+- ✅ Visual Description
+- ✅ Image Generation Prompt (Leonardo.ai) - detailed, copy-paste ready
+- ✅ Animation Prompt (MiniMax Hailuo) - detailed with timing, copy-paste ready
+- ✅ Dialogue/Captions (if drama) OR Caption timing (if song)
+- ✅ Duration specified clearly
+
+Total Scenes: {number}
+✅ All scenes complete: {yes/no}
+
+If ANY scene is missing prompts, DO NOT present to user. Complete all scenes first.
+```
+
+**After generation and verification, inform user:**
+```markdown
+## ✅ Production Prompts Generated - ALL SCENES COMPLETE
+
+**Scenes Created:** {number} scenes (ALL with complete image + animation prompts)
 **Total Estimated Duration:** {duration} minutes
 
+**What You Received:**
+- ✅ {number} complete scene prompts (image + animation for each)
+- ✅ 1 music generation prompt (Suno)
+- ✅ {number} caption sets (timing + text)
+- ✅ All prompts are copy-paste ready
+
 **Next Steps:**
-1. Generate music on Suno.ai (do this first!)
-2. Generate all scene images on Leonardo.ai
-3. Generate all scene animations on MiniMax Hailuo
-4. Generate all voice audio on Azure TTS or ElevenLabs
-5. Report back which scenes succeeded/failed
+1. **Generate music on Suno.ai** (do this FIRST - you need the timing!)
+2. **Generate character reference images** (if new character - do this before scenes)
+3. **Generate all {number} scene images on Leonardo.ai** (use reference images)
+4. **Generate all {number} scene animations on MiniMax Hailuo** (set minimum duration for each)
+5. **{If drama: Generate all voice audio on Azure TTS or ElevenLabs}**
+6. **Report back which scenes succeeded/failed**
+
+**Production Estimate:**
+- Music: ~5-15 minutes
+- Character references (if new): ~15-30 minutes
+- Scene images: ~{number * 3-5} minutes
+- Scene animations: ~{number * 30-60} minutes (queue time)
+- {If drama: Voice generation: ~{number * 2-3} minutes}
+- Total: ~{estimate} hours
 
 **Ready to proceed with manual production?**
 ```

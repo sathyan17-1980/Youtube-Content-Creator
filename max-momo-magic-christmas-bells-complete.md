@@ -767,6 +767,76 @@ Realizing the bells' power, Max and Momo ring them together with excitement and 
 
 ---
 
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+Max (young boy, dark messy hair, olive/green shirt, backpack) and Momo (brown/orange monkey with curly tail) ACTIVELY RINGING BELLS together on magical tree. 3D Pixar style.
+
+PEAK MAGIC MOMENT: Max standing on ground reaching UP with both hands ringing two large golden bells. Momo swinging on tree branch above, ringing another bell with his paw. Both characters showing intense excitement and joy.
+
+Bells: Multiple golden bells of various sizes hanging from branches, ALL GLOWING BRILLIANTLY with golden light. Bells transforming from dull metal to brilliant shining gold. Some bells mid-swing, actively ringing.
+
+MASSIVE GOLDEN SPARKLE EXPLOSION: Waves of golden sparkles bursting outward from bells in all directions. Multiple explosion layers creating dome of magical light. Sparkles floating, swirling, radiating outward.
+
+Background: Mystical jungle clearing with bioluminescent flowers (blues, purples), magical mist at ground level, tropical vines and orchids on tree. Night sky visible through canopy.
+
+Lighting: BRILLIANT golden glow from bells (primary light source), explosive sparkle bursts, bioluminescent ambient glow. Dramatic, high-energy lighting.
+
+Composition: Vertical shot showing tree height, Max at bottom, Momo in middle on branch, bells throughout. Dynamic, explosive energy.
+
+Atmosphere: Peak magic, explosive wonder, maximum excitement. Max with boyish triumph, Momo with playful monkey joy.
+
+9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. High-energy, dynamic composition.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 27 seconds duration. MAXIMUM ENERGY animation.
+
+SIMULTANEOUS ACTIONS:
+
+Max (boy) actions:
+- Reaches UP with both hands to ring two bells (continuous ringing motion)
+- Pulls bells down creating chime, releases, repeats rapidly
+- Body bouncing with energy, boyish excitement
+- Face showing intense joy and wonder
+- Quick glances at Momo and sparkles
+
+Momo (monkey) actions:
+- Swings from branch to branch (3-4 different positions)
+- Rings bells with paws as he moves
+- Bounces excitedly on branches
+- Chatters and gestures wildly with free hand
+- Looks at Max, at bells, at magic bursts
+
+Bell & Magic Progression:
+- (0-6s): Bells start dull, first rings create small sparkle pops
+- (6-14s): Bells begin glowing, sparkles multiply rapidly, transform to brilliant gold
+- (14-22s): ALL bells glowing maximum brightness, MASSIVE sparkle explosions bursting outward
+- (22-27s): Peak magic - dome of golden light, continuous sparkle bursts, bells swinging
+
+Camera Movement:
+- (0-8s): Circle around tree showing Max and Momo from different angles
+- (8-16s): Rapid cuts between close-ups of bells, characters' faces, sparkle bursts
+- (16-22s): Pull back to wide shot showing full magical dome and explosion
+- (22-27s): Zoom to Max and Momo's awed faces surrounded by magic
+
+Effects: Multiple layers of golden sparkles (explosive bursts), glowing bells (intensifying), magical dome forming, swirling particles, light rays from bells.
+
+Pacing: RAPID, HIGH ENERGY - continuous action, quick movements, explosive magic escalation. No pauses. Maximum intensity.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption (scene transition captions from previous scene continue into this scene)**
+
+---
+
 ### **SCENE 7: Racing Back to Village** (20 seconds)
 **Timing:** Bridge Start (1:54-2:14)
 
@@ -780,6 +850,98 @@ Max grabs several bells in his arms and around his neck. Momo clutches a small b
 **Camera:** Fast tracking shot following their sprint, dynamic movement
 **Lighting:** Golden sparkles trailing, village lights ahead beckoning
 **Song Section:** Bridge (Stars and snowfall's grace!)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+Max (young boy, dark hair, olive/green shirt, backpack) RUNNING FAST through mystical jungle path carrying multiple golden bells. Momo (brown/orange monkey) sitting on Max's shoulder/head, holding small bell. Both in dynamic running motion. 3D Pixar style.
+
+Max: Mid-sprint pose, one leg forward, one back. Arms carrying bells (2-3 bells in arms, 1-2 around neck on string). Face showing determination and urgency mixed with excitement. Hair and backpack flowing back from speed.
+
+Momo: Perched on Max's shoulder/head, holding small bell tightly, other paw gripping Max's hair/shoulder for balance. Excited expression, looking forward toward village lights.
+
+Bells: Golden glowing bells of various sizes. Bells swinging and chiming from movement (visible motion blur on some bells).
+
+MAGIC TRAIL: Golden sparkles trailing behind Max and Momo like comet tail. Sparkle trail showing their path through jungle.
+
+Jungle: Dense tropical vegetation on sides, mystical atmosphere. Vines MOVING ASIDE magically to clear path. Glowing path on ground (golden light). Bioluminescent flowers (blue/purple glow) along path edges.
+
+Background depth: Jungle foreground/mid-ground, VILLAGE LIGHTS visible in distance through trees (warm orange/yellow glows, Christmas lights twinkling).
+
+Lighting: Golden sparkle trail (bright), glowing bells, village lights ahead (warm), bioluminescent jungle (cool blues/purples). Dynamic lighting showing movement.
+
+Composition: Dynamic diagonal composition showing movement left-to-right or through center toward background. Sense of SPEED and URGENCY.
+
+Atmosphere: Urgent, exciting, magical assistance. Max showing boyish determination, Momo showing excited anticipation.
+
+9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Motion-focused, dynamic energy.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. FAST-PACED, urgent animation.
+
+Primary Action - Max Running:
+- (0-24s CONTINUOUS): Max sprinting through jungle at full speed
+- Running motion: Legs alternating rapidly, arms carrying bells but pumping with run
+- Body leaning forward with urgency
+- Backpack bouncing on back
+- Breathing hard, determined expression
+- Occasionally glancing down at bells then forward to destination
+
+Momo Actions:
+- Sitting on Max's shoulder/head throughout
+- Bouncing with each running step
+- Gripping Max with one paw for balance
+- Holding bell tightly in other paw
+- Looking ahead excitedly
+- Occasionally chattering/gesturing with free paw pointing forward
+
+Environmental Magic:
+- (0-8s): Vines moving aside as they approach, path clearing magically
+- (8-16s): Glowing path appearing under their feet as they run
+- (16-24s): Village lights getting brighter/larger as they approach
+
+Bell Effects:
+- Bells swinging and chiming with each running step (rhythmic)
+- Golden sparkles trailing behind them continuously
+- Sparkle trail growing longer and more dramatic
+
+Camera Movement:
+- (0-10s): Side tracking shot following their run, keeping pace
+- (10-18s): Shift to behind-the-back tracking, showing path ahead and village lights
+- (18-24s): Camera pulls ahead showing them approaching, village visible ahead
+
+Jungle Dynamics:
+- Leaves rustling as they pass
+- Bioluminescent flowers glowing brighter as they run by
+- Magical atmosphere responding to bells
+
+Pacing: RAPID - continuous running motion, no stops. Fast-paced to match urgent bridge section. Breathless energy.
+
+Lighting progression: Start with jungle glow, transition to village lights becoming dominant.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 9** (1:48-1:58):
+```
+மின்னும் விண்மீன், பனி மழை!
+Twinkling stars and snowfall's grace!
+```
+
+**Caption 10** (2:00-2:10):
+```
+வெப்பம் குளிர், அற்புதம் தருமே!
+Tropical winter, magic's embrace!
+```
 
 ---
 
@@ -799,6 +961,115 @@ Max and Momo burst out of the jungle into the village edge, still ringing the be
 
 ---
 
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+Max (young boy, dark hair, olive/green shirt, backpack) and Momo (brown/orange monkey) at tropical village edge, LOOKING UP at sky with WONDER. Both catching snowflakes. FIRST SNOW FALLING. 3D Pixar style.
+
+Max: Standing still, head tilted UP looking at sky, mouth open in awe, one hand reaching UP to catch snowflakes, other hand holding bells at side. VISIBLE BREATH (white puff showing cold air). Expression of pure wonder and joy.
+
+Momo: Sitting on Max's shoulder, also looking UP, one paw reaching up to catch snowflake, other paw holding small bell. Wide-eyed amazement, big smile.
+
+SNOWFLAKES: First snowflakes falling from sky (5-10 visible white snowflakes mid-air), various sizes. Some landing on Max's hand, on Momo's paw, on their hair. Crystal-clear, detailed snowflakes.
+
+Setting: Transition zone between jungle and village. Tropical elements (palm trees, hibiscus flowers, bright colored cottages) with FIRST SNOW landing on them. Snow on palm fronds (magical contrast - green + white). Snow on tropical flowers.
+
+Sky: Tropical evening sky transitioning to snowy atmosphere. Light snowfall beginning (not heavy yet). Mysterious magical quality to sky.
+
+Bells: Golden bells in Max's hand and around neck, still faintly glowing. Momo's small bell glowing.
+
+Background: Village visible behind them - colorful tropical houses, Christmas lights, palm trees. Some villagers just beginning to notice and emerge from houses (blurred in background).
+
+Lighting: Soft magical transition lighting. Warm tropical glow mixed with cool snow light. Golden bell glow (subtle). Atmospheric, wonder-filled.
+
+Atmosphere: Magical moment of wish coming true, wonder, first miracle, pure joy.
+
+9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on snowflakes and characters' awed expressions.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. Wonder-filled, magical moment.
+
+Opening Action (0-6s):
+- Max bursts from jungle edge into clearing, running
+- Momo on his shoulder
+- Both still ringing bells (arms moving)
+- Max begins to slow down, noticing something
+
+Temperature Drop (6-10s):
+- Max's running slows to walk, then stop
+- He breathes out - VISIBLE BREATH appears (white puff)
+- Max looks at breath in surprise
+- Momo also breathes out, small puff visible
+- Both look at each other with wonder
+
+First Snowflake (10-14s):
+- Both look UP at sky
+- Camera follows their gaze UP
+- FIRST SNOWFLAKE appears, falling slowly from above
+- Both track it with eyes as it falls
+- Snowflake lands on Max's nose
+- Max's eyes cross looking at it, big smile
+
+Snow Begins (14-20s):
+- More snowflakes begin falling (2, then 5, then 10+)
+- Max reaches up with hand to catch snowflakes
+- Momo reaches up with paw
+- Both catching and looking at snowflakes in their hands/paws
+- Snowflakes landing on their hair, shoulders
+- Continuing to look up with joy and wonder
+
+Magic Spreads (20-24s):
+- Camera pans to show snowflakes landing on palm trees
+- Snow settling on tropical flowers
+- More snow falling continuously
+- Max and Momo in center looking up, surrounded by falling snow
+- Bells still glowing faintly
+- Pure magical atmosphere
+
+Character Emotions:
+- Progression: Surprise → Wonder → Pure Joy
+- Max: Boyish excitement building, can barely contain happiness
+- Momo: Monkey curiosity and delight, bouncing slightly
+
+Camera:
+- Start: Ground level following run
+- Middle: Close-up on faces looking up
+- Shift: Look up at sky showing snow falling
+- End: Medium wide showing characters + snow + environment
+
+Effects:
+- Visible breath (white puffs)
+- Snowflakes falling (start few, increase to many)
+- Golden bell glow (subtle, fading)
+- Snow landing and accumulating on surfaces
+- Magical shimmer in air
+
+Pacing: Start FAST (running), SLOW DOWN dramatically (stopping), GENTLE (wonder moment). Peaceful, magical atmosphere.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 11** (2:12-2:22):
+```
+சிறுவன் மேக்ஸ், குரங்கு மோமோ!
+Boy and monkey, friends so true!
+```
+
+**Caption 12** (2:24-2:34):
+```
+நட்பின் மந்திரம், உலகை வெல்லும்!
+Friendship's magic has no end!
+```
+
+---
+
 ### **SCENE 9: Village Transformation** (24 seconds)
 **Timing:** Final Chorus Start (2:34-2:58)
 
@@ -812,6 +1083,121 @@ Snow now falls across the entire village! Villagers emerge from their colorful t
 **Camera:** Wide shots of village, medium shots of villagers reacting, circling around gathering
 **Lighting:** Snow + Christmas lights creating magical atmosphere
 **Song Section:** Final Chorus (Ring, ring, ring, the magic sound!)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+VILLAGE SQUARE CELEBRATION: Max (young boy, dark hair, olive/green shirt, backpack) and Momo (brown/orange monkey on Max's shoulder) in CENTER of circular gathering, ringing golden bells together. HEAVY SNOW FALLING across tropical village. 3D Pixar style.
+
+Max & Momo (center focus):
+- Max standing confidently, holding bells up and ringing
+- Momo on Max's shoulder, also ringing small bell
+- Both showing joyful excitement
+- Surrounded by circular gathering of villagers
+
+VILLAGERS (diverse cast in circle around them):
+- Children of various ethnicities (front of circle) reaching UP catching snowflakes, faces full of wonder
+- Families holding hands forming circle
+- Elders smiling warmly
+- Mix of characters: tropical-dressed villagers, some elf-like characters, cute animals
+- Everyone showing amazement and joy
+- Some pointing at sky, some at Max & Momo
+
+SNOW & MAGIC:
+- Heavy snowfall throughout scene
+- Snow covering palm trees (green fronds with white snow - magical contrast)
+- Snow on ground starting to accumulate
+- Golden sparkles mixing with white snowflakes from bell ringing
+- Christmas lights activating on buildings (red, green, gold twinkling)
+
+TROPICAL VILLAGE ELEMENTS:
+- Bright colored buildings (pinks, blues, yellows, greens) with snow on roofs
+- Palm trees with Christmas decorations and snow
+- Giant decorated Christmas palm tree in background (partially visible, glowing)
+- Hibiscus flowers with snow on petals
+- Christmas lights strung between houses
+
+Setting: Village square, circular gathering space, festive tropical-winter wonderland transformation happening.
+
+Lighting: Mix of warm Christmas lights (red, green, gold) + cool snow lighting (whites, blues) + golden bell sparkles. Magical harmony of warm/cool tones.
+
+Atmosphere: Community celebration, shared wonder, magical transformation, joy spreading.
+
+Composition: Vertical 9:16 showing Max & Momo in center (mid-ground), villagers in circle around them, village and tree in background, snow falling throughout all layers.
+
+9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Vibrant, celebratory, magical.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 28 seconds duration. HIGH-ENERGY community celebration.
+
+Max & Momo Actions (continuous throughout):
+- Max rings bells rhythmically overhead (continuous motion)
+- Momo bounces on Max's shoulder ringing small bell
+- Max occasionally spins around slowly showing bells to everyone
+- Both characters radiating joy and excitement
+
+Villager Gathering Progression:
+- (0-8s): Villagers emerging from houses, walking toward square
+- (8-16s): Forming circle around Max & Momo, joining hands
+- (16-24s): Circle complete, swaying together, children in front playing in snow
+- (24-28s): Full celebration mode - some hugging, gift exchanges in background
+
+Magic Progression (synchronized to bell rings):
+- (0-8s): Snowfall intensifying, first decorations appearing
+- (8-16s): Christmas lights activating on buildings (twinkling on sequentially)
+- (16-22s): Giant palm tree in background begins glowing (bottom to top)
+- (22-28s): Full village transformation visible - everything decorated and snow-covered
+
+Children Actions:
+- Breaking from circle to catch snow, then rejoining
+- Building small snowman next to tropical flower (quick activity)
+- Jumping and playing in snow
+- Looking up at Max & Momo with admiration
+
+Magical Effects (ongoing):
+- Heavy continuous snowfall
+- Golden sparkles bursting from bells with each ring (rhythmic)
+- Christmas lights twinkling on progressively
+- Snow accumulating on surfaces visibly
+
+Camera Movement:
+- (0-10s): Start close on Max & Momo, pull back to show gathering forming
+- (10-20s): Circular pan around the gathering showing all villagers and decorations activating
+- (20-28s): Crane shot rising up to show full village square transformation from above
+
+Background Activity:
+- Some villagers exchanging wrapped gifts
+- Families hugging warmly
+- Elders watching with warm smiles
+- Animals (birds, small creatures) joining celebration
+
+Pacing: HIGH ENERGY - continuous celebration, magical transformations happening rapidly, joyful organized chaos. Festive, exciting atmosphere.
+
+Effects Emphasis: Heavy snowfall (primary), golden sparkles (rhythmic bursts), twinkling lights (sequential activation), magical glow (building).
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 13** (2:34-2:44):
+```
+ரிங், ரிங், ரிங், மந்திர ஒலி!
+Ring, ring, ring, the magic sound!
+```
+
+**Caption 14** (2:46-2:56):
+```
+வெப்ப கிராமம் பனி பெறுமே!
+Tropical snow now falling down!
+```
 
 ---
 
@@ -831,6 +1217,155 @@ The magic reaches its PEAK! Max lifts Momo high above his head toward the glowin
 
 ---
 
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+EPIC CLIMACTIC MOMENT: Max (young boy, dark hair, olive/green shirt) with arms raised HIGH, lifting Momo (brown/orange monkey) ABOVE HEAD toward glowing Christmas star. Both ringing bells at PEAK moment. STAR BURST explosion happening. 3D Pixar style.
+
+Max (center, ground level):
+- Arms stretched UP holding Momo high above head
+- One hand supporting Momo, other hand ringing bell
+- Face looking UP with triumphant boyish expression
+- Legs planted firmly, heroic stance
+- Surrounded by celebrating villagers
+
+Momo (lifted high above Max):
+- Being held up toward star
+- Holding bell above his head ringing it
+- Excited joyful monkey expression
+- Reaching toward star
+
+STAR BURST (focal point):
+- Brilliant EXPLOSION of golden-white light from tree star
+- Light RAYS radiating outward in all directions
+- Waves of light spreading across sky and village
+- Most dramatic visual element
+
+AURORA BOREALIS in sky:
+- Flowing ribbons of green, purple, blue, pink northern lights
+- Impossible in tropics but magical!
+- Graceful waves across night sky
+- Stars visible everywhere
+
+FIREWORKS & SPARKLES:
+- Golden and silver sparkle fireworks bursting throughout scene
+- Multiple burst points creating spectacular display
+- Magical celebration atmosphere
+
+VILLAGE (fully transformed):
+- Snow covering ALL palm trees
+- Colorful buildings (pinks, blues, yellows, greens) with snow on roofs
+- Christmas lights everywhere twinkling (red, green, gold, blue)
+- Giant decorated Christmas palm tree central, glowing brilliantly
+
+VILLAGERS (celebrating):
+- Dense crowd around Max & Momo
+- Dancing, jumping, arms raised in celebration
+- Children playing in snow
+- Families hugging
+- Everyone looking up at star burst or celebrating
+- Diverse cast: various ethnicities, ages, elf characters, animals
+
+Lighting: BRILLIANT star burst light (center), aurora glow (sky), firework sparkles (throughout), Christmas lights (village), snow reflection creating spectacular color harmony.
+
+Composition: VERTICAL 9:16 showing FULL HEIGHT - ground to sky. Max & Momo central with village surrounding, star burst at top third, aurora in sky above.
+
+Atmosphere: TRIUMPHANT CLIMAX, maximum celebration, magical wonder peak, community joy, perfect tropical winter wonderland.
+
+9:16 vertical aspect ratio. Ultra detailed, CINEMATIC, Disney/Pixar quality. This is the GRAND FINALE visual!
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 27 seconds duration. CLIMACTIC HIGH ENERGY → peaceful resolution moment.
+
+CLIMAX SEQUENCE (0-14s):
+
+Preparation (0-5s):
+- Max bends knees preparing to lift
+- Grabs Momo, begins lifting him UP
+- Camera follows upward movement
+- Villagers watch in anticipation
+- Background music building
+
+Lift & Ring (5-10s):
+- Max raises Momo HIGH above head in dramatic rising motion (slow motion effect)
+- Arms fully extended upward
+- Momo rises toward star, bell raised
+- Both prepare for final ring
+- Camera zooms following Momo upward
+- Anticipation peaks
+
+STAR BURST (10-14s):
+- Max and Momo ring bells TOGETHER with maximum force
+- Camera rapidly zooms to bells at moment of ring
+- STAR EXPLODES with brilliant light immediately
+- Light wave expands outward rapidly in all directions
+- Camera quickly zooms OUT to capture full blast
+
+CELEBRATION (14-22s):
+- Villagers react to star burst:
+  - Looking up in awe (2s)
+  - ERUPTING in celebration (immediate)
+- Everyone dancing, jumping, spinning, hugging (rapid joyful chaos)
+- Children throwing snow in air
+- Gift exchanges happening
+- Animals frolicking
+- PEAK celebration energy
+- Camera: rapid cuts between different celebratory moments, dynamic angles
+
+TRANSITION TO PEACE (22-27s):
+- Camera finds Max and Momo among celebration
+- They look at each other
+- Max lowers Momo gently
+- Begin to HUG (boy holding monkey close to chest, both embracing warmly)
+- Start of slow motion for tender moment
+- Celebration continues around them but focus on their hug
+- Heartwarming friendship moment
+
+Camera Progression:
+- (0-10s): Follow upward lift, zoom to Momo and star
+- (10-14s): Rapid zoom out showing star burst spreading
+- (14-22s): Multiple rapid cuts of celebration from different angles
+- (22-27s): Find and focus on Max & Momo hug, slight zoom in
+
+Effects:
+- STAR BURST (major) - brilliant rays, light waves, massive explosion
+- Firework sparkles (continuous during celebration, multiple colors)
+- Heavy snowfall (throughout)
+- Aurora movements in sky (flowing, graceful)
+- Golden sparkles from bells
+
+Pacing:
+- BUILDING INTENSITY (0-10s) - dramatic anticipation
+- EXPLOSIVE (10-14s) - star burst, immediate impact
+- MAXIMUM CELEBRATION (14-22s) - rapid movements, quick cuts, chaos of joy
+- GENTLE TRANSITION (22-27s) - finding peace, tender hug moment beginning
+
+This is THE GRAND FINALE - maximum spectacle, then transition to heart.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 15** (2:58-3:08):
+```
+மேக்ஸ் மோமோ, நட்பு சக்தி!
+Max and Momo, friendship's might!
+```
+
+**Caption 16** (3:10-3:20):
+```
+ஓ-ஓ-ஓ-ஓ, மந்திர மணி!
+Ooh-ooh-ooh-ooh, magic bells!
+```
+
+---
+
 ### **SCENE 11: Celebration & Heartwarming Ending** (20 seconds)
 **Timing:** Outro (3:20-3:40)
 
@@ -844,6 +1379,156 @@ The village is now a perfect tropical winter wonderland - snow covering palm tre
 **Camera:** Close on Max & Momo hug, then slow aerial pullback to show complete transformation
 **Lighting:** Warm village glow with snow, peaceful starlight, gentle aurora
 **Song Section:** Outro (Ding dong... magic came true!)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+HEARTWARMING FINALE: Max (young boy, dark hair, olive/green shirt) and Momo (brown/orange monkey) sharing TENDER HUG in foreground. COMPLETE tropical winter wonderland village behind them. Aerial perspective setup. 3D Pixar style.
+
+Max & Momo HUG (focal point, foreground):
+- Max holding Momo close to chest in warm embrace
+- Momo's arms wrapped around Max's neck
+- Both with peaceful, content expressions, eyes closed or looking at each other
+- Tender friendship moment - boy and his monkey best friend
+- Golden bells resting peacefully nearby
+
+TEXT OVERLAY (elegant, glowing):
+- "Magic happens when hearts ring together"
+- Positioned in upper third or lower third
+- Soft golden glow around text
+- Readable but not overwhelming
+
+VILLAGE (fully transformed, background):
+- COMPLETE snow coverage on all palm trees (white on green contrast)
+- Colorful tropical buildings (pinks, blues, yellows, greens) with thick snow on roofs
+- Christmas lights EVERYWHERE twinkling (red, green, gold, blue strands between houses)
+- Giant decorated Christmas palm tree glowing in village center
+- Village square full of celebrating villagers (diverse crowd)
+
+VILLAGERS (background, celebrating):
+- Dancing, hugging, holding hands in circles
+- Children building snowmen, making snow angels
+- Families together, embracing
+- Gift exchanges happening
+- Everyone joyful, peaceful celebration
+- Mix of all ages, ethnicities, characters (elves, animals, etc.)
+
+SKY (upper portion, magical):
+- Aurora borealis flowing ribbons (green, purple, blue, pink)
+- Starry night sky (many visible stars)
+- Peaceful evening atmosphere
+- Magical but serene
+
+SNOW EFFECTS:
+- Gentle snowfall (not heavy, peaceful floating flakes)
+- Snow accumulated on all surfaces
+- Magical shimmer on snow (soft glow)
+- Perfect winter wonderland in tropics
+
+Lighting: Warm glow from Christmas lights and buildings (golds, reds, oranges) + cool snow reflection (whites, blues) + aurora gentle glow + starlight. Peaceful, harmonious lighting. Soft, magical, not harsh.
+
+Composition: VERTICAL 9:16 showing full scene from ground to sky. Max & Momo hug in lower-mid foreground (intimate), village celebration spreading behind (community), sky with aurora above (magic). Three distinct layers creating depth.
+
+Atmosphere: Peaceful resolution, heartwarming conclusion, community joy, magical wonder complete, perfect ending. Tender, warm, satisfying.
+
+9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Cinematic, emotionally resonant final image.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. GENTLE, peaceful resolution with emotional depth.
+
+HUG MOMENT (0-10s):
+- Scene opens on Max and Momo hugging (continuation from previous scene)
+- Max holding Momo close to chest
+- Momo's arms around Max's neck
+- Both in tender embrace (SLOW MOTION or very gentle movement)
+- Slight sway or gentle movements (breathing, subtle shifts)
+- Expressions: peaceful, content, eyes closed or gentle smiles
+- Background celebration visible but blurred/out of focus
+- (5s): They slowly release from hug, look at each other warmly
+- (8s): Momo sits on Max's shoulder, both look out at village together
+- (10s): Camera begins to pull back
+
+VILLAGE CELEBRATION (ongoing background 0-20s):
+- Continuous gentle celebration throughout village
+- Villagers dancing slowly, hugging, holding hands
+- Children playing in snow peacefully
+- Families together, warm interactions
+- Snowman building, snow angels
+- Gift giving moments
+- Everyone content and joyful
+- Peaceful community atmosphere
+
+CAMERA PULLBACK (10-22s):
+- Slow, graceful pullback and UP
+- (10-14s): Pull back from Max & Momo showing more village around them
+- (14-18s): Continue rising, village square visible, full celebration scene
+- (18-22s): HIGH aerial view showing ENTIRE village - full tropical winter wonderland
+- Rising motion smooth and cinematic
+
+TEXT APPEARANCE (17-24s):
+- (17s): Text fades in: "Magic happens when hearts ring together"
+- Text visible over aerial village shot
+- Soft glow around text
+- (22-24s): Text remains as scene fades
+
+FINAL MAGIC MOMENTS:
+- (20s): Bells chime softly one final time (visible gentle shimmer)
+- (20-22s): Final snowflakes gently falling
+- Christmas lights twinkling peacefully
+- Aurora flowing gently in sky
+
+FADE OUT (22-24s):
+- Gentle fade to starry night sky
+- Aurora still faintly visible
+- Peaceful, complete ending
+
+Sky & Aurora:
+- Aurora borealis moving gently throughout (flowing ribbons)
+- Stars twinkling softly
+- Peaceful magical night sky
+- Growing more prominent as camera rises
+
+Snow Effects:
+- Gentle continuous snowfall (light, peaceful)
+- Snow settled on everything
+- Soft magical shimmer on snow
+- Serene winter atmosphere
+
+Lighting Progression:
+- Warm village glow (continuous)
+- Christmas lights twinkling gently
+- Cool snow reflection
+- Aurora glow intensifying as camera rises
+- Final fade to starlight
+
+Pacing: GENTLE, SLOW, PEACEFUL - complete opposite of earlier high energy. Contemplative, satisfying, emotionally resonant. Time to breathe and feel the magic. Tender conclusion.
+
+Emotional Arc: Tender friendship → Peaceful community → Complete magical wonder → Serene ending.
+
+This is the HEARTWARMING RESOLUTION - gentle, emotional, complete, peaceful.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 17** (3:20-3:28):
+```
+டிங் டாங்... மந்திரம் வந்தது!
+Ding dong... magic came true!
+```
+
+**Caption 18** (3:32-3:38):
+```
+[Text on screen: "Magic happens when hearts ring together"]
+```
 
 ---
 
