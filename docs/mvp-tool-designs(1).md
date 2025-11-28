@@ -647,7 +647,7 @@ All tools follow **Anthropic's helpful error pattern**:
 
 **Problem**: The `scene_structure` parameter is empty.
 
-**Expected Format**: 8 scenes: Kavi shows off → Friends ignore → ...
+**Expected Format**: 10-12 scenes: Kavi discovers fruit → Meets mentor → Attempts and failures → Success → Celebration → Moral
 
 **How to Fix**:
 1. First call youtube_video_planner(operation="structure")

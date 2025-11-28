@@ -44,8 +44,14 @@ Complete workflow for creating production-ready YouTube videos for 2-4 year olds
 
 #### **IF DRAMA:**
 
-##### **2a. Image Prompts (6-8 scenes)**
-- Generate detailed image prompts for each scene
+##### **2a. Image Prompts (10-12 scenes)**
+- Generate detailed image prompts for each scene following proven narrative structure
+- **Narrative Structure**:
+  - Introduction (Scenes 1-2): Setup and establish relationships
+  - Rising Action (Scenes 3-5): Challenges and failures
+  - Turning Point (Scenes 6-7): Encouragement and renewed hope
+  - Climax (Scenes 8-10): Progressive success and victory
+  - Resolution (Scenes 11-12): Celebration and moral reinforcement
 - Requirements:
   - **Character consistency**: Same appearance, clothing, personality across all scenes
   - **3D Pixar style**: Vibrant colors, expressive faces, soft lighting
@@ -53,6 +59,7 @@ Complete workflow for creating production-ready YouTube videos for 2-4 year olds
   - **Setting details**: Environment, props, background elements
   - **Mood/Lighting**: Time of day, emotional tone, lighting style
   - **Cultural elements**: If Tamil/Indian content, include appropriate cultural details
+  - **Transition planning**: Each scene should flow naturally to the next
 
 ##### **2b. Animation Direction (per scene)**
 - **Camera movement**: Pan, zoom, dolly, static
@@ -151,13 +158,19 @@ For each scene, provide:
 
 #### **3c. Pacing & Timing**
 
-**Total Video Duration**: 2-5 minutes (optimal for 2-4 yr olds)
+**Total Video Duration**: 4-5 minutes (~270 seconds optimal for 10-12 scene structure)
 
-**Scene Duration Guidelines**:
-- **Opening scene**: 20-30 seconds (establish character/setting)
-- **Middle scenes**: 15-25 seconds each (story progression)
-- **Climax scene**: 30-40 seconds (key learning moment)
-- **Resolution scene**: 20-30 seconds (moral reinforcement)
+**Scene Duration Guidelines** (Based on proven aathichudi structure):
+- **Scene 1** (Opening): 25-30 seconds (strong hook, establish character/setting)
+- **Scenes 2-9** (Middle): 20-25 seconds each (story progression)
+- **Scene 10** (Climax): 25-30 seconds (key triumphant moment)
+- **Scenes 11-12** (Resolution): 20-25 seconds (celebration and moral reinforcement)
+
+**Transition Types**:
+- Dissolve: Smooth emotional continuity between related scenes
+- Fade: Mark passage of time or emotional shifts
+- Cut: Maintain energy during action sequences
+- Duration: 0.5-1 second per transition
 
 **Dialogue Pacing**:
 - Pause 1-2 seconds after dialogue before next scene
@@ -320,23 +333,23 @@ Scene 1 (30s) → Transition (0.5s) → Scene 2 (20s) → Transition (0.5s) → 
 
 ## Estimated Production Time
 
-**Per 3-minute video** (manual workflow):
+**Per 4.5-minute video** (manual workflow, 10-12 scenes):
 - Step 1 (Analysis): 5-10 minutes
-- Step 2 (Content generation): 15-20 minutes
-- Step 3 (Image generation): 30-45 minutes (8 scenes × 3 variations)
-- Step 3 (Animation): 60-90 minutes (8 scenes × 10 seconds)
-- Step 4 (Voice generation): 15-20 minutes
-- Step 5 (Assembly): 30-45 minutes
-- Step 6 (Review/edits): 20-30 minutes
+- Step 2 (Content generation): 20-30 minutes
+- Step 3 (Image generation): 45-60 minutes (12 scenes × 3 variations)
+- Step 3 (Animation): 90-120 minutes (12 scenes × 20-25 seconds avg)
+- Step 4 (Voice generation): 20-30 minutes
+- Step 5 (Assembly): 40-60 minutes
+- Step 6 (Review/edits): 30-40 minutes
 
-**Total**: 3-4 hours per video (manual)
+**Total**: 4-5 hours per video (manual)
 
 **With automation** (Pydantic AI + FastAPI pipeline):
 - Steps 1-2: 5-10 minutes (automated)
-- Steps 3-4: 90-120 minutes (API calls, automated)
-- Steps 5-6: 30-45 minutes (semi-automated)
+- Steps 3-4: 120-150 minutes (API calls, automated)
+- Steps 5-6: 40-60 minutes (semi-automated)
 
-**Total**: 2-2.5 hours per video (60% time savings)
+**Total**: 3-3.5 hours per video (30% time savings)
 
 ---
 
