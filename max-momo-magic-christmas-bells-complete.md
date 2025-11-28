@@ -253,7 +253,7 @@ Energy level: 10/10 from start to finish. This is a thrilling Christmas ride!
 
 ---
 
-## STEP 3: Scene Structure (5 Scenes)
+## STEP 3: Scene Structure (11 Scenes - EXPANDED)
 
 ### **SCENE 1: Tropical Christmas Wish** (25-28 seconds)
 **Timing:** Intro + Verse 1 (0:00-0:28)
