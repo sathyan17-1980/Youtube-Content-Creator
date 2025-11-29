@@ -343,6 +343,356 @@ Create visual sequences matching song structure with precise timing:
 
 ---
 
+## Step 4.5: Validate Music-to-Scene Synchronization ✅
+
+**CRITICAL:** Run comprehensive validation BEFORE generating production prompts to catch timing issues early.
+
+### Validation Process
+
+Run through all validation categories from `/home/user/Youtube-Content-Creator/.claude/validation-music-scene-sync.md`:
+
+#### 1. Music Structure Validation
+
+**For SONG format:**
+- ✅ Song structure complete with all sections (Intro, Verses, Chorus, Bridge, Outro)
+- ✅ Each section has duration specified in seconds
+- ✅ Total music duration matches target video length (±5 seconds acceptable)
+- ✅ Tempo specified (BPM)
+- ✅ Suno prompt includes tempo, energy level, vocal style, instrumentation
+
+**For DRAMA format:**
+- ✅ Background music description complete
+- ✅ Music duration covers full video length
+- ✅ Mood progression specified
+
+**Calculate total music duration:**
+```
+Total Music Duration = Sum of all section durations
+Compare to Target Duration
+Delta = |Total - Target|
+✅ PASS if Delta <= 5 seconds
+❌ FAIL if Delta > 5 seconds (adjust section durations)
+```
+
+---
+
+#### 2. Scene Duration Math Validation
+
+**Check timing calculations for ALL scenes:**
+
+```
+For each scene:
+✅ Has start_time (format: M:SS or MM:SS)
+✅ Has end_time (format: M:SS or MM:SS)
+✅ Has duration (in seconds)
+✅ Math check: (end_time - start_time) == duration
+
+For consecutive scenes:
+✅ Scene[n].start_time == Scene[n-1].end_time (no gaps)
+✅ Scene[n].start_time >= Scene[n-1].end_time (no overlaps)
+
+For total:
+✅ Sum of all scene durations == Target duration (±5 seconds)
+✅ Scene count matches format (11 for song, 10-12 for drama)
+```
+
+**Generate timing table:**
+
+| Scene | Start | End | Duration | Math Check | Gap/Overlap |
+|-------|-------|-----|----------|------------|-------------|
+| 1 | 0:00 | 0:XX | XXs | ✅/❌ | N/A |
+| 2 | 0:XX | 0:YY | YYs | ✅/❌ | ✅/❌ |
+| ... | ... | ... | ... | ... | ... |
+| **Total** | | | **XXXs** | **Target: YYYs** | **Delta: Zs** |
+
+**IF any row shows ❌:** Fix timing before proceeding.
+
+---
+
+#### 3. Music-to-Scene Mapping Validation
+
+**For SONG format - REQUIRED:**
+
+Create and verify music mapping table exists:
+
+| Scene # | Duration | Timing | Music Section | Lyrics/Music Content |
+|---------|----------|--------|---------------|---------------------|
+| 1 | Xs | 0:00-X | Section name | Specific lyrics that play |
+| 2 | Ys | X-Y | Section name | Specific lyrics that play |
+| ... | ... | ... | ... | ... |
+
+**Validation checks:**
+- ✅ Table exists with ALL scenes mapped
+- ✅ Each scene has specific music section assigned
+- ✅ Each scene has specific lyrics/content specified (not "TBD")
+- ✅ Music section durations match scene timing
+- ✅ All song sections are covered (no missing sections)
+
+**For DRAMA format:**
+
+For each scene, verify:
+- ✅ Background music timing specified (which part plays)
+- ✅ Volume changes noted (full volume / ducked for dialogue)
+- ✅ Music mood aligns with scene emotional beat
+
+---
+
+#### 4. Animation Timing Validation
+
+**For EACH scene's animation prompt, verify:**
+
+```
+✅ Starts with: "MINIMUM [X] seconds duration" where X = scene duration
+✅ Includes detailed timing breakdown:
+   - 0-[Y]s: [specific action]
+   - [Y]-[Z]s: [specific action]
+   - [Z]-[duration]s: [specific action]
+✅ Pacing matches music tempo:
+   - Fast songs (180-200 BPM): "FAST-PACED", "RAPID", "HIGH ENERGY"
+   - Medium songs (120-140 BPM): "Medium-paced", "Steady"
+   - Slow songs (60-100 BPM): "Gentle", "Slow", "Graceful"
+   - Drama: Appropriate to emotional beat
+✅ Camera movement timing specified
+✅ Character action timing specified
+✅ Effects timing specified
+```
+
+**Red flags (will cause production to fail):**
+- ❌ No duration specified
+- ❌ Generic "character does X" without timing
+- ❌ Pacing doesn't match tempo (e.g., "gentle" for 180 BPM song)
+- ❌ No timing breakdown
+
+---
+
+#### 5. Caption Synchronization Validation
+
+**For SONG format:**
+
+For each caption/lyric:
+- ✅ Has start time (seconds or M:SS)
+- ✅ Has end time (seconds or M:SS)
+- ✅ Duration appropriate for tempo:
+  - Fast (180-200 BPM): 2-4 seconds per line
+  - Medium (120-140 BPM): 3-6 seconds per line
+  - Slow (60-100 BPM): 4-8 seconds per line
+- ✅ Caption text matches lyrics in song structure EXACTLY
+- ✅ No overlapping captions (Caption[n].start >= Caption[n-1].end)
+- ✅ Captions aligned to music sections
+
+**For DRAMA format:**
+
+For each scene with dialogue:
+- ✅ Voice start time specified
+- ✅ Voice duration specified
+- ✅ Background music volume adjustment noted (e.g., "duck to 30%")
+- ✅ No voice overlap between scenes
+- ✅ SSML tags provided with emotion/pacing
+
+---
+
+#### 6. Tempo-Animation Consistency Validation
+
+**Compare Suno music prompt tempo with ALL animation prompts:**
+
+```
+Music Tempo: [X] BPM
+Music Style: [fast/medium/slow], [energy level]
+
+Animation Prompt Pacing Check:
+Scene 1: [descriptors used] ✅/❌
+Scene 2: [descriptors used] ✅/❌
+...
+
+PASS Criteria:
+- 180-200 BPM music → "FAST", "RAPID", "HIGH ENERGY" in animations
+- 120-140 BPM music → "Medium-paced", "Steady" in animations
+- 60-100 BPM music → "Gentle", "Slow", "Graceful" in animations
+
+FAIL Examples:
+- 180 BPM music + "gentle movements" → ❌ MISMATCH
+- 80 BPM music + "rapid action" → ❌ MISMATCH
+```
+
+---
+
+#### 7. Transition Timing Validation
+
+**For each scene transition, verify:**
+
+```
+✅ Transition type specified (dissolve/cut/fade to black/fade to white/wipe)
+✅ Transition duration specified (0.5s / 1s / 2s)
+✅ Transition duration matches tempo:
+   - Fast songs (180-200 BPM): 0.5s quick dissolves
+   - Medium songs (120-140 BPM): 1s standard dissolves
+   - Slow songs (60-100 BPM): 2s longer fades
+✅ For SONGS: Transition timing synced to music beats
+✅ Audio transition specified (crossfade/hard cut)
+```
+
+---
+
+#### 8. Production Completeness Validation
+
+**For EACH scene, verify ALL these elements exist:**
+
+```
+Scene [N] Completeness:
+✅ Visual Description (2-3 sentences)
+✅ Setting, Mood, Emotional Beat specified
+✅ Camera angle/movement specified
+✅ Lighting description
+
+✅ Image Generation Prompt includes:
+   - Character description + reference note
+   - Background/environment details
+   - Lighting specification
+   - Composition/framing
+   - Style (3D Pixar, etc.)
+   - Aspect ratio (9:16)
+
+✅ Animation Prompt includes:
+   - MINIMUM duration statement
+   - Character actions with timing breakdown
+   - Camera movement
+   - Environmental motion
+   - Detailed sequence (0-Xs, X-Ys, Y-Zs)
+   - Mood and pacing matched to tempo
+
+✅ Captions/Dialogue (if applicable):
+   - Dual-language text OR voice dialogue
+   - Timing specified (start-end)
+   - Delivery notes (emotion, tone)
+
+✅ Timing & Duration section:
+   - Scene duration
+   - Voice/caption start time
+   - Background music volume
+
+✅ Transition to Next Scene:
+   - Type and duration
+   - Audio transition
+
+✅ Audio Sync Notes:
+   - Timing breakdown
+   - Audio layers
+   - Sound effects
+```
+
+**Red flag (incomplete scene):**
+- ❌ Only has "Visual Description" - missing prompts
+- ❌ Generic prompts without details
+- ❌ Missing timing information
+
+---
+
+### Generate Validation Report
+
+**Create validation summary:**
+
+```markdown
+## 🔍 Music-to-Scene Validation Report
+
+**Video Title:** [Title]
+**Format:** [Song/Drama]
+**Target Duration:** [X] seconds ([M:SS])
+**Scene Count:** [N] scenes
+**Music Tempo:** [BPM] ([Fast/Medium/Slow])
+
+---
+
+### ✅ VALIDATION RESULTS
+
+1. **Music Structure:** [✅ PASS / ❌ FAIL]
+   - Issues: [list or "None"]
+
+2. **Scene Duration Math:** [✅ PASS / ❌ FAIL]
+   - Total duration: [X]s (target: [Y]s, delta: [Z]s)
+   - Gaps/overlaps: [None / List issues]
+   - Issues: [list or "None"]
+
+3. **Music-to-Scene Mapping:** [✅ PASS / ❌ FAIL]
+   - Mapping table: [EXISTS / MISSING]
+   - Scenes mapped: [N/Total]
+   - Issues: [list or "None"]
+
+4. **Animation Timing:** [✅ PASS / ❌ FAIL]
+   - Scenes with duration: [N/Total]
+   - Scenes with timing breakdown: [N/Total]
+   - Pacing matched to tempo: [N/Total]
+   - Issues: [list or "None"]
+
+5. **Caption Synchronization:** [✅ PASS / ❌ FAIL]
+   - Captions with timing: [N/Total]
+   - Captions match lyrics: [YES/NO]
+   - Issues: [list or "None"]
+
+6. **Tempo-Animation Consistency:** [✅ PASS / ❌ FAIL]
+   - Music tempo: [BPM]
+   - Animation pacing: [Matched / Mismatched]
+   - Issues: [list or "None"]
+
+7. **Transitions:** [✅ PASS / ❌ FAIL]
+   - All transitions specified: [N/Total]
+   - Durations appropriate: [YES/NO]
+   - Issues: [list or "None"]
+
+8. **Production Completeness:** [✅ PASS / ❌ FAIL]
+   - Scenes with complete prompts: [N/Total]
+   - Missing elements: [list or "None"]
+
+---
+
+### 🚨 CRITICAL ISSUES (must fix before Step 5)
+
+[List any critical issues that would cause production to fail]
+[Or "None ✅" if all validations passed]
+
+---
+
+### ⚠️ WARNINGS (should fix for quality)
+
+[List any warnings that could affect quality]
+[Or "None ✅" if no warnings]
+
+---
+
+### 📊 SUMMARY
+
+**Overall Status:** [✅ READY FOR PRODUCTION / ❌ NEEDS FIXES]
+
+**Scenes Ready:** [N]/[Total]
+**Critical Issues:** [N]
+**Warnings:** [N]
+
+**Next Steps:**
+[If PASS:] ✅ Proceed to Step 5 (Generate Production Prompts)
+[If FAIL:] ❌ Fix issues listed above, then re-run validation
+
+---
+
+**Validation Date:** [Date]
+```
+
+---
+
+### Decision Point
+
+**IF Validation Report shows "READY FOR PRODUCTION" (all critical checks pass):**
+- ✅ **Proceed to Step 5** (Generate Complete Production Prompts)
+- Minor warnings can be addressed during prompt generation
+
+**IF Validation Report shows "NEEDS FIXES" (critical issues found):**
+- ❌ **STOP - Do not proceed to Step 5**
+- Fix all critical issues in scene structure
+- Re-run validation
+- Only proceed when validation passes
+
+**Present validation report to user and wait for confirmation before continuing.**
+
+---
+
 ## Step 5: Generate Complete Production Prompts
 
 **CRITICAL REQUIREMENT:** Generate COMPLETE, production-ready prompts for EVERY SINGLE SCENE. Each scene MUST have:
@@ -1431,7 +1781,16 @@ Before marking as complete, verify:
 - ✅ Format recommendation provided (drama or song)
 - ✅ Copyright clearance completed
 - ✅ Character defined (new or existing)
-- ✅ Scene structure created (6-8 for drama, 3-5 for song)
+- ✅ Scene structure created (10-12 for drama, 11 for song)
+- ✅ **Music-to-Scene Validation completed (Step 4.5) with PASS status**
+  - ✅ Music structure validated
+  - ✅ Scene duration math validated (no gaps/overlaps)
+  - ✅ Music-to-scene mapping table created (for songs)
+  - ✅ Animation timing validated (all prompts have MINIMUM duration)
+  - ✅ Caption synchronization validated
+  - ✅ Tempo-animation consistency validated
+  - ✅ Transitions validated
+  - ✅ Production completeness validated (all scenes have complete prompts)
 - ✅ All production prompts generated (image, animation, dialogue, voice, music)
 - ✅ User completed manual production
 - ✅ Feedback collected and refinements made (if needed)
