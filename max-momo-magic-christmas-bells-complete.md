@@ -253,6 +253,28 @@ Energy level: 10/10 from start to finish. This is a thrilling Christmas ride!
 
 ---
 
+### Music-to-Scene Breakdown (11 Scenes Mapped to Song)
+
+This table shows exactly which lyrics and music sections play during each scene:
+
+| Scene # | Duration | Timing | Music Section | Lyrics/Music Content |
+|---------|----------|--------|---------------|---------------------|
+| **Scene 1** | 18s | 0:00-0:18 | Intro (6s) + Verse 1 Start (12s) | **Intro (0:00-0:06):**<br>டிங் டாங், டிங் டாங், டிங் டாங் டிங்!<br>மந்திர மணிகள், ரிங் ரிங் ரிங்!<br>Ding dong, ding dong, ding dong ding!<br>Magic bells are ring-ring-ring!<br><br>**Verse 1 Part 1 (0:06-0:18):**<br>மேக்ஸ் மற்றும் மோமோ மணிகள் கண்டார்!<br>வெப்பமான கிராமம், பனி இல்லை!<br>Max and Momo found the bells!<br>Tropical home, no snow to tell! |
+| **Scene 2** | 16s | 0:18-0:34 | Verse 1 End | **Verse 1 Part 2 (0:18-0:34):**<br>விண்ணிலே விண்ணப்பம், நட்சத்திரம் மின்னும்!<br>மந்திர மணி ஒலி, மாயம் வரும்!<br>Wished upon a star so bright!<br>Magic bells bring snow tonight! |
+| **Scene 3** | 20s | 0:34-0:54 | Chorus Part 1 | **Chorus Lines 1-2 (0:34-0:54):**<br>ரிங், ரிங், ரிங், மந்திர ஒலி!<br>வெப்ப கிராமம் பனி பெறுமே!<br>Ring, ring, ring, the magic sound!<br>Tropical snow now falling down! |
+| **Scene 4** | 22s | 0:54-1:16 | Chorus End + Verse 2 Start | **Chorus Lines 3-4 (0:54-1:02):**<br>டிங், டாங், டாங், இதயம் மகிழ்ச்சி!<br>மேக்ஸ் மோமோ, நட்பு சக்தி!<br>Ding, dong, ding, our hearts unite!<br>Max and Momo, friendship's might!<br><br>**Verse 2 Part 1 (1:02-1:16):**<br>மணி ஒலி கேட்டு, கிராமம் மாறும்!<br>பனை மரங்கள், வெண்மை ஆடை!<br>Bells are ringing, village glows!<br>Palm trees wearing white attire! |
+| **Scene 5** | 16s | 1:16-1:32 | Verse 2 End | **Verse 2 Part 2 (1:16-1:32):**<br>பனி இதழ்கள், வானில் நடனம்!<br>நண்பர்கள் ஒன்று, மாயம் பாடு!<br>Dancing snowflakes, magic shows!<br>Friends together, lifting higher! |
+| **Scene 6** | 22s | 1:32-1:54 | Chorus 2 (Repeat) | **Chorus Full Repeat (1:32-1:54):**<br>ரிங், ரிங், ரிங், மந்திர ஒலி!<br>வெப்ப கிராமம் பனி பெறுமே!<br>டிங், டாங், டாங், இதயம் மகிழ்ச்சி!<br>மேக்ஸ் மோமோ, நட்பு சக்தி!<br>Ring, ring, ring, the magic sound!<br>Tropical snow now falling down!<br>Ding, dong, ding, our hearts unite!<br>Max and Momo, friendship's might! |
+| **Scene 7** | 20s | 1:54-2:14 | Bridge Part 1 | **Bridge Lines 1-2 (1:54-2:14):**<br>மின்னும் விண்மீன், பனி மழை!<br>வெப்பம் குளிர், அற்புதம் தருமே!<br>Twinkling stars and snowfall's grace!<br>Tropical winter, magic's embrace! |
+| **Scene 8** | 20s | 2:14-2:34 | Bridge Part 2 | **Bridge Lines 3-4 (2:14-2:34):**<br>சிறுவன் மேக்ஸ், குரங்கு மோமோ!<br>நட்பின் மந்திரம், உலகை வெல்லும்!<br>Boy and monkey, friends so true!<br>Friendship's magic has no end! |
+| **Scene 9** | 24s | 2:34-2:58 | Final Chorus Part 1 | **Final Chorus Main Lines (2:34-2:58):**<br>ரிங், ரிங், ரிங், மந்திர ஒலி!<br>வெப்ப கிராமம் பனி பெறுமே!<br>டிங், டாங், டாங், இதயம் மகிழ்ச்சி!<br>மேக்ஸ் மோமோ, நட்பு சக்தி!<br>Ring, ring, ring, the magic sound!<br>Tropical snow now falling down!<br>Ding, dong, ding, our hearts unite!<br>Max and Momo, friendship's might! |
+| **Scene 10** | 22s | 2:58-3:20 | Final Chorus Peak | **Final Chorus Climax (2:58-3:20):**<br>(ஓ-ஓ-ஓ-ஓ, மந்திர மணி!)<br>(ரிங்-ரிங்-ரிங்-ரிங்!)<br>(பனி-பனி-பனி-பனி!)<br>(Ooh-ooh-ooh-ooh, magic bells!)<br>(Ring-ring-ring-ring!)<br>(Snow-snow-snow-snow!) |
+| **Scene 11** | 20s | 3:20-3:40 | Outro + Ending | **Outro (3:20-3:28):**<br>டிங் டாங்... மந்திரம் வந்தது!<br>Ding dong... magic came true!<br><br>**Peaceful Fade (3:28-3:40):**<br>[Instrumental fade, bells chiming softly] |
+
+**TOTAL DURATION:** 220 seconds (3 minutes 40 seconds)
+
+---
+
 ## STEP 3: Scene Structure (11 Scenes - Matched to Song)
 
 **Core Concept:** Max & Momo make a Christmas wish to bring snow to their tropical village for the first time. Through kindness and community, their wish comes true in a magical way.
