@@ -387,17 +387,21 @@ After making their wish, Max and Momo open their eyes and notice a mysterious GO
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-Max (young boy 7-10 years old, dark messy hair, olive/green shirt, backpack) and Momo (brown/orange monkey with curly tail) in mystical jungle clearing discovering ancient golden bells. 3D Pixar style.
+Max (young boy, dark hair, olive/green shirt, backpack) and Momo (brown/orange monkey) standing at village edge at twilight, looking toward dense jungle. 3D Pixar style.
 
-Center: Large magical tree with GOLDEN BELLS of various sizes hanging from branches. Bells are ornate, some dull/some glowing. Covered in tropical vines, orchids, hibiscus flowers.
+Foreground: Max standing alert, Momo on his shoulder, both gazing toward jungle with curious expressions. Max pointing toward the glow.
 
-Action: Momo (monkey) swinging from branch, reaching with paw toward one bell. Max (boy) standing below, reaching up with both hands toward another bell. GOLDEN SPARKLES bursting outward from bells in explosive pattern.
+Middle ground: Transition zone between village (colorful tropical houses with Christmas lights visible behind them) and dark mysterious jungle ahead.
 
-Background: Mystical jungle with bioluminescent blue and purple flowers, glowing mushrooms, magical mist at ground level, night sky visible through canopy with stars.
+Background: Dense tropical jungle with mysterious GOLDEN GLOW emanating from deep within the trees. Glow pulses gently, calling to them. Magical atmosphere.
 
-Atmosphere: Magical, wonder-filled, explosive energy. Max and Momo's faces showing amazement and joy. Max has boyish excitement, Momo has playful monkey expression.
+Jungle entrance: Dark silhouettes of trees, vines, tropical plants creating mysterious opening. Golden light filtering through.
 
-Lighting: Bioluminescent glow (blues, purples) contrasting with brilliant golden bell magic (golds, yellows, whites). Dynamic, explosive composition.
+Setting: Twilight transition - warm village lights fading behind, mysterious golden glow ahead beckoning.
+
+Mood: Discovery, curiosity, beginning of adventure. Max shows determination, Momo shows excited curiosity.
+
+Lighting: Warm village lights (behind, fading), mysterious golden glow (ahead, bright), twilight blue-purple sky. Contrast between known (village) and unknown (jungle).
 
 9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality.
 ```
@@ -407,25 +411,25 @@ Lighting: Bioluminescent glow (blues, purples) contrasting with brilliant golden
 #### Animation Prompt (MiniMax Hailuo)
 
 ```
-MINIMUM 27 seconds duration. FAST-PACED, HIGH-ENERGY animation.
+MINIMUM 27 seconds duration. FAST-PACED animation transitioning from wonder to determination.
 
-Opening (4s): Max (boy) and Momo (monkey on his shoulder) enter clearing, approach bells cautiously but quickly. Max walks forward, Momo chatters excitedly.
+Opening (5s): Max and Momo make their wish looking up at stars (continuation from Scene 1). Both close eyes, hands/paws clasped. Peaceful, hopeful moment.
 
-Discovery (5s): Momo climbs from Max's shoulder up tree branch to reach bell, touches it with paw - small sparkle pops out. Both react with surprise - Max's eyes widen, Momo jumps back startled.
+Discovery (6s): Eyes open suddenly - both see mysterious GOLDEN GLOW emanating from jungle edge in distance. Max's eyes widen with amazement. Momo points excitedly toward glow, chattering. Max's head turns slowly following Momo's gesture to focus on glow.
 
-Escalation (6s): Max reaches up and rings another bell with his hands - BIGGER sparkle burst. They look at each other excitedly - Max grins, Momo bounces on branch.
+Realization (7s): They exchange excited glances - "Did you see that?!" expressions. Glow pulses gently, calling to them. Max nods with determination. Momo bounces on shoulder excitedly, gesturing toward jungle.
 
-CLIMAX (8s): TOGETHER they ring multiple bells rapidly (Max reaching and ringing with both hands, Momo swinging from branch to branch ringing others with paws) - MASSIVE EXPLOSION of golden sparkles bursting outward in all directions. Camera pulls back to wide shot showing full magic burst. Bells transform from dull to brilliant glowing gold.
+Decision (5s): Max stands up decisively, backpack shifts on shoulders. Starts moving toward village edge/jungle entrance with purposeful stride. Momo rides on shoulder, looking ahead toward glow with anticipation.
 
-Resolution (4s): Max and Momo in center (Momo jumps back onto Max's shoulder), surrounded by floating golden sparkles, faces filled with wonder and excitement. Max raises fist in triumph, Momo bounces happily. Bells swinging and glowing.
+Movement Begins (4s): Camera follows as they approach jungle edge. Glow gets slightly brighter as they move closer. Both leaning forward with curiosity and adventure excitement.
 
-Camera: Dynamic circular movement around tree, rapid cuts between close-ups of bells/characters and wide shots of magic, zoom out on big explosion.
+Camera: Start on close-up of wishing faces, pull back showing glow in distance, pan to show their excited reactions, track movement as they begin journey toward jungle.
 
-Movement: FAST, energetic, urgent. Max moves with boyish energy and excitement. Momo moves with monkey agility - swinging, climbing. Rapid bell rings synchronized to music beat.
+Movement: Transition from stillness (wishing) → surprise (seeing glow) → excitement (pointing, gesturing) → determination (standing, moving). Max shows boyish curiosity and bravery. Momo shows excited monkey energy.
 
-Effects: Golden sparkles exploding outward (primary), bioluminescent glow (background), magical shimmer on bells. Multiple layers of sparkles.
+Lighting: Golden glow pulses gently in background, drawing their attention. Glow intensifies slightly as they approach.
 
-Pacing: HIGH ENERGY - rapid movements, quick cuts, explosive magic moment. Matches 180-200 BPM tempo.
+Pacing: Start gentle, build to energetic. Wonder → Discovery → Determination. Matches fast musical tempo starting to build.
 ```
 
 ---
@@ -471,25 +475,25 @@ Max and Momo journey through the mystical jungle toward the golden glow. Max pus
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-Max (young boy, dark hair, olive/green shirt, backpack) running through tropical village carrying golden bells in hands and around neck. Momo (brown/orange monkey) sitting on Max's head/shoulder holding small bell. Both ringing bells joyfully. 3D Pixar style.
+Max (young boy, dark hair, olive/green shirt, backpack) and Momo (brown/orange monkey) journeying through dense mystical jungle toward golden glow. 3D Pixar style.
 
-Max has boyish excitement, running energetically. Momo bouncing on his head with playful expression.
+Action: Max pushing through tropical vines with determination, Momo swinging ahead on branches helping clear path. Both moving forward with excitement and adventure.
 
-MAGIC HAPPENING: FIRST SNOWFLAKES falling from sky! Golden sparkles mixing with white snowflakes. Snow landing on green palm leaves (magical contrast).
+Jungle environment: Dense tropical vegetation - large monstera leaves, hanging vines, exotic flowers. Bioluminescent flowers (blue, purple) lighting their path. Magical mist swirling at ground level. Fireflies dancing around them.
 
-Villagers emerging from colorful tropical houses (bright blues, pinks, yellows, greens):
-- Diverse children (various ethnicities) reaching up to catch snow, faces full of wonder
-- Elf characters in tropical clothes looking amazed
-- Families pointing at sky with joy
-- Elderly characters smiling warmly
+Path: Glowing path appearing beneath their feet (golden magical light). Vines moving aside magically as they pass.
 
-Background: Tropical village with palm trees, bright colored buildings, Christmas lights strung between houses. Sky transitioning from tropical evening to snowy atmosphere. Visible breath from characters (cold air).
+Background depth: Golden glow getting brighter ahead through trees. Sense of depth - jungle foreground, mid-ground, glowing destination in background.
 
-Atmosphere: Wonder, joy, magical transformation, excitement. Mix of warm tropical colors and cool winter whites/blues.
+Atmosphere: Adventure, excitement, magical jungle alive with wonder. Max shows boyish determination, Momo shows monkey agility and excitement.
 
-Composition: Max & Momo in foreground/mid-ground in motion, villagers reacting in background.
+Exotic jungle creatures: Colorful birds watching from trees, small magical creatures peeking from shadows (friendly, not threatening).
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Dynamic, energetic scene.
+Lighting: Bioluminescent blue-purple glow from flowers and mushrooms, golden glow intensifying ahead, mystical mist creating atmospheric depth. Dynamic lighting showing movement through jungle.
+
+Mood: Journey, discovery, adventure intensifying. Getting closer to magic source.
+
+9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Sense of depth and movement.
 ```
 
 ---
@@ -497,28 +501,29 @@ Composition: Max & Momo in foreground/mid-ground in motion, villagers reacting i
 #### Animation Prompt (MiniMax Hailuo)
 
 ```
-MINIMUM 24 seconds duration. FAST-PACED, HIGH-ENERGY.
+MINIMUM 24 seconds duration. FAST-PACED adventure through jungle.
 
-Movement (ongoing throughout): Max (boy) runs from left to right through village with quick boyish pace, arms swinging bells. Momo (monkey) bounces excitedly on Max's head/shoulder, waving small bell. Both ring bells continuously - bells swing and chime with each movement.
+Journey Movement (continuous):
+- (0-8s): Max pushes through large jungle vines, ducking under monstera leaves. Momo swings ahead on vines, clearing path by moving hanging obstacles aside. Both moving forward with urgency.
+- (8-16s): Magical jungle responds - vines move aside as they pass, glowing path appears beneath Max's feet. Fireflies gather and light the way. Momo swings from branch to branch ahead, beckoning Max forward.
+- (16-24s): Golden glow intensifies ahead. They push through final layer of foliage, moving closer to source. Pace quickens with excitement.
 
-Magic Progression:
-- (0-5s): First few golden sparkles appear from bells as they ring
-- (5-10s): Sparkles multiply, temperature drops (breath becomes visible from Max and villagers)
-- (10-15s): FIRST SNOWFLAKES appear! Start falling slowly then increase
-- (15-24s): Heavy snowfall, snowflakes landing on palm leaves, ground, buildings
+Environmental Magic:
+- Bioluminescent flowers glow brighter as they pass
+- Magical mist swirls and parts around their legs
+- Exotic birds fly overhead following them
+- Small friendly creatures watch from shadows (peek out, not threatening)
+- Glowing path extends ahead as they walk
 
-Villager Reactions (quick cuts):
-- Children bursting out of doors excitedly (2s)
-- Hands reaching up catching snowflakes (2s)
-- Faces looking up in wonder, smiling widely (2s)
-- Elders coming to windows, joyful expressions (2s)
-- Group gathering, pointing at sky (2s)
+Character Actions:
+- Max: Determined forward movement, pushing vines aside, climbing over roots, looking ahead toward glow
+- Momo: Monkey agility - swinging, climbing, helping clear path, chattering excitedly, pointing forward
 
-Camera: Fast tracking shot following Max & Momo's movement (primary) + rapid cuts to villager reactions (secondary). Dynamic, energetic cinematography.
+Camera: Dynamic tracking shot following their journey from side and behind. Occasional cuts showing jungle responding magically. Wide shots showing depth of jungle and glow ahead getting closer. Medium shots showing characters' determined faces.
 
-Effects: Golden sparkles trailing Max & Momo, white snowflakes increasing in density, mix of warm glows from houses and cool snow lighting.
+Effects: Bioluminescent glow (blues, purples), golden glow intensifying ahead, magical sparkles in mist, fireflies dancing, mystical atmosphere.
 
-Pacing: RAPID - fast character movement (boyish running), quick cuts, continuous action. No pauses. Matches fast musical tempo.
+Pacing: FAST, adventurous - continuous forward movement, jungle alive with magic. Matches 180-200 BPM energy.
 ```
 
 ---
@@ -558,27 +563,25 @@ Max and Momo break through the final vines and enter a breathtaking mystical cle
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-Epic village square scene: Max (young boy, dark hair, olive/green shirt, backpack) and Momo (brown/orange monkey) in center of circular gathering, ringing golden bells together. Max holds bells high, Momo sitting on Max's shoulder also ringing bell. 3D Pixar style.
+Max (young boy, dark hair, olive/green shirt, backpack) and Momo (brown/orange monkey) breaking through final vines into breathtaking mystical clearing with ancient magical bell tree. 3D Pixar style.
 
-SNOW FALLING HEAVILY across tropical village. Snow covering palm trees, colorful buildings, ground.
+Center/Background: MASSIVE ancient magical tree - majestic trunk, spreading branches. GOLDEN BELLS of various sizes hanging from branches (ornate, covered in tropical vines, orchids, hibiscus flowers). Some bells glow faintly, others remain dull.
 
-Village square elements:
-- GIANT Christmas tree (decorated palm tree) in background, covered in ornaments, lights, snow, glowing brilliantly
-- Diverse villagers holding hands in circle around Max & Momo (elves in tropical clothes, children of various ethnicities, families, cute animals)
-- Children building snowmen next to tropical flowers (hibiscus with snow on petals)
-- Villagers exchanging wrapped gifts
-- Families hugging warmly
-- Christmas lights strung everywhere (red, green, gold, blue)
+The tree: Enormous, awe-inspiring scale. Glowing from within with golden magical energy. Ancient, mystical presence.
 
-Magic effects: Golden sparkles from bells mixing with snowflakes, lights twinkling on, magical glow from tree.
+Foreground: Max and Momo entering clearing from jungle edge. Both frozen in awe - mouths open, eyes wide with wonder. Max's hand reaching forward slightly as if drawn to the magic. Momo gripping Max's shoulder tightly, equally amazed.
 
-Atmosphere: Joyful celebration, community unity, magical tropical winter wonderland. Mix of warm tropical colors (bright buildings, flowers) with cool winter whites/blues (snow, lighting).
+Clearing: Mystical jungle clearing with soft mossy ground. Bioluminescent flowers (blue, purple, pink) surrounding the tree creating ethereal ring. Magical mist hovering at ground level. Gentle golden light emanating from tree and bells.
 
-Composition: Max & Momo central focus, surrounded by circular gathering, giant tree behind, village visible in background. Max has boyish joy, Momo has excited monkey expression.
+Background depth: Jungle visible behind them (where they came from). Tree dominates the scene.
 
-Lighting: Christmas lights + snow reflection creating warm-cool harmony. Golden bell glow.
+Atmosphere: Discovery, awe, wonder, "this is it" moment. The source of the magical glow revealed. Breathtaking, majestic.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Vibrant, celebratory, magical.
+Lighting: Brilliant golden glow from tree and bells (primary light source), bioluminescent ambient glow from flowers (blue-purple), magical shimmer in air. Dramatic reveal lighting.
+
+Mood: Pure wonder and amazement. Discovery of something magical and ancient. Max and Momo completely awestruck.
+
+9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Epic, majestic composition emphasizing tree's grandeur.
 ```
 
 ---
@@ -586,35 +589,45 @@ Lighting: Christmas lights + snow reflection creating warm-cool harmony. Golden 
 #### Animation Prompt (MiniMax Hailuo)
 
 ```
-MINIMUM 28 seconds duration. HIGH-ENERGY, celebratory animation.
+MINIMUM 28 seconds duration. Wonder-filled discovery moment with building excitement.
 
-Primary Action:
-- Max (boy) and Momo (monkey on shoulder) ring bells rhythmically in center (continuous throughout)
-- Max raises bells high overhead, Momo rings small bell from Max's shoulder
-- Max occasionally lifts Momo up in the air on his hands for dramatic bell rings
-- Both characters joyful, energetic movements - Max with boyish energy, Momo bouncing excitedly
+Breaking Through (5s):
+- Max pushes through final thick vines into clearing
+- Vines part dramatically revealing the magnificent tree
+- Camera pushes through with Max, then pulls back dramatically to reveal tree's grandeur
+- Momo on Max's shoulder, both gasping
 
-Magic Effects (synchronized to bell rings):
-- (0-8s): Snowfall intensifies with each bell ring
-- (8-16s): Christmas decorations appear on trees/buildings in bursts of sparkles
-- (16-24s): Giant palm tree lights activate sequentially, climbing up to star
-- (24-28s): Tree star BURSTS with brilliant golden light
+First Sight (8s):
+- Max and Momo freeze, mouths dropping open in awe
+- Camera slow pan UP showing tree's full majestic height - massive trunk, spreading branches, countless golden bells
+- Both characters completely still, awestruck
+- Eyes wide, tracking upward following camera movement
+- Hold on awed expressions (CRITICAL: show genuine wonder)
 
-Crowd Actions:
-- Villagers swaying together, hands joined (continuous)
-- Children breaking from circle to play in snow, then rejoining (quick)
-- Gift exchanges happening in background (ongoing)
-- Families hugging and celebrating (sporadic)
-- Everyone looking up at tree during star burst (final moment)
+Approach (7s):
+- Slow, almost dreamlike walk forward toward tree
+- Max's hand reaches forward unconsciously, drawn by magic
+- Momo leans forward on Max's shoulder, equally mesmerized
+- Camera moves with them, tree growing larger in frame
+- Magical mist swirls around their feet
 
-Camera:
-- (0-12s): Circular pan around the gathering showing all elements
-- (12-20s): Crane shot rising to show full village transformation
-- (20-28s): Zoom toward tree star, then zoom back showing everyone's awed faces
+Exploration (8s):
+- Close-ups of bells - various sizes, ornate designs, some glowing faintly
+- Max and Momo looking at different bells with wonder
+- Bioluminescent flowers glowing around tree base
+- Magical atmosphere intensifying
+- Golden light pulsing gently from tree
 
-Effects: Heavy snowfall (continuous), golden sparkles from bells (rhythmic bursts), twinkling lights activating, magical glow intensifying, star burst (climax).
+Camera Progression:
+- Dynamic push through vines → dramatic pull back reveal
+- Slow upward pan showing tree scale
+- Track forward with characters approaching
+- Close details of bells and magic
+- Hold on wide shot showing them small before massive magical tree
 
-Pacing: FAST, HIGH ENERGY - continuous celebration, rapid magical transformations, joyful chaos. Matches intense musical energy.
+Effects: Golden glow from tree and bells, bioluminescent flowers, magical mist, gentle sparkles floating, ethereal atmosphere.
+
+Pacing: Start FAST (breaking through), slow down dramatically (awe moment), gentle approach (wonder). Let the discovery breathe. Match musical verse 2 energy - powerful but with moments of wonder.
 ```
 
 ---
@@ -660,39 +673,25 @@ Curious and cautious, Max reaches out and gently touches one of the bells with h
 #### Image Generation Prompt (Leonardo.ai)
 
 ```
-EPIC CLIMACTIC SCENE: Max (young boy, dark hair, olive/green shirt) with arms raised HIGH, lifting Momo (brown/orange monkey) above his head toward the glowing star atop giant Christmas palm tree. Both ringing bells together at the climactic moment - Max holding bell in one hand while lifting Momo, Momo holding bell above. 3D Pixar style.
+Max (young boy, dark hair, olive/green shirt, backpack) and Momo (brown/orange monkey) cautiously reaching out to touch magical bells on ancient tree. 3D Pixar style.
 
-Max has triumphant boyish expression. Momo has excited, joyful monkey expression.
+Action: Max reaching forward with one finger extended, gently touching one ornate golden bell. Momo on a nearby branch, reaching with tiny paw toward another bell. Both showing curiosity mixed with caution.
 
-STAR BURST: Brilliant golden-white light exploding from tree star, radiating outward in all directions with rays and sparkles.
+Bells: Ancient ornate bells hanging from tree branches. The bells they're touching show SMALL BURST of golden sparkles erupting - not massive, just initial magic awakening. Other bells nearby remain dull or faintly glowing.
 
-SKY: Aurora borealis (northern lights) in tropical sky - flowing ribbons of green, purple, blue, pink. Stars everywhere. Golden and silver firework sparkles bursting.
+Characters' reactions: Max slightly pulling back in startled surprise, eyes widening. Momo jumping back slightly on branch, surprised but excited. Both showing "it's magic!" realization on faces.
 
-VILLAGE TRANSFORMATION COMPLETE:
-- Snow covering all palm trees (fronds with snow)
-- Colorful tropical buildings (pinks, blues, yellows, greens) with snow on roofs
-- Christmas lights strung everywhere, twinkling
-- Giant decorated palm tree in center, covered in snow and ornaments
-- Village square full of celebrating villagers
+Tree setting: Close-up view of part of the magical tree with bells. Tropical vines, orchids, and moss on branches. Mystical clearing visible in background.
 
-VILLAGERS (diverse cast):
-- Dancing and jumping for joy
-- Children playing in snow
-- Families hugging and celebrating
-- Elves, animals, people of all ethnicities
-- Everyone looking up at star burst or celebrating together
+Magic level: SMALL scale - initial sparkle bursts, beginning of magic. Golden particles floating gently. NOT explosive, just awakening. Gentle magical shimmer beginning to glow from touched bells.
 
-FOREGROUND: Max and Momo sharing tender hug moment (Max holding Momo close to chest, both embracing) - heartwarming focal point.
+Mood: Surprise, realization, excitement building, "this could work!" moment. Curiosity, wonder, growing determination.
 
-TEXT OVERLAY (elegant, glowing): "Magic happens when hearts ring together"
+Lighting: Soft golden glow from bells intensifying where touched, gentle sparkle bursts (small scale), bioluminescent background glow. Magical but not overwhelming yet.
 
-Atmosphere: Triumphant celebration, magical wonder, community joy, perfect tropical winter wonderland.
+Atmosphere: Discovery of magic's power, turning point, realization moment. Beginning of understanding what the bells can do.
 
-Lighting: Brilliant star burst light (center), aurora glow (sky), Christmas lights (village), snow reflection creating beautiful color harmony. Magical, cinematic.
-
-Composition: Vertical 9:16 showing full height from ground to sky, Max & Momo central with village surrounding.
-
-9:16 vertical aspect ratio. Ultra detailed, cinematic, Disney/Pixar quality. This is the GRAND FINALE moment.
+9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Close-up intimate moment of discovery.
 ```
 
 ---
@@ -700,41 +699,51 @@ Composition: Vertical 9:16 showing full height from ground to sky, Max & Momo ce
 #### Animation Prompt (MiniMax Hailuo)
 
 ```
-MINIMUM 34 seconds duration. CLIMACTIC HIGH ENERGY → peaceful resolution.
+MINIMUM 24 seconds duration. Cautious curiosity to excited realization.
 
-CLIMAX SEQUENCE (0-16s):
-- (0-6s): Max (boy) lifts Momo (monkey) HIGH above his head in dramatic rising motion, arms stretched up. Camera follows upward. Both characters preparing for final ring. Anticipation builds.
-- (6-10s): Max and Momo ring bells TOGETHER with maximum force (Max rings with one hand, Momo rings from above). Camera zooms to bells at moment of ring.
-- (10-16s): STAR BURST! Brilliant explosion of golden-white light from tree star spreading outward in waves. Camera rapidly zooms out to capture full blast. Aurora appears in sky. Fireworks burst everywhere.
+Cautious Approach (6s):
+- Max and Momo approach bells slowly, cautiously
+- Max reaches forward with one finger extended toward ornate bell
+- Momo climbs onto nearby branch, reaches tiny paw toward different bell
+- Both hesitant, curious expressions
+- Camera close-up on reaching hands/paws and bells
 
-CELEBRATION (16-26s):
-- Villagers react to star burst - looking up in awe, then erupting in celebration
-- Dancing, jumping, spinning, hugging happening everywhere (rapid, joyful chaos)
-- Children throwing snow in air
-- Gifts being exchanged
-- Animals frolicking
-- Full village celebration at PEAK energy
-- Camera: rapid cuts between different celebratory moments, dynamic angles
+First Touch (5s):
+- Max's finger makes contact with bell - CRITICAL MOMENT
+- Bell chimes softly with pure, clear tone
+- SMALL BURST of golden sparkles erupts from bell (not massive, just initial magic)
+- Max's eyes widen in surprise, pulls hand back slightly
+- Camera holds on his amazed face
 
-RESOLUTION (26-34s):
-- (26-29s): Camera finds Max and Momo. They look at each other, then HUG tenderly (Max holds Momo close to chest, both embracing warmly). Slow motion moment. Heartwarming - boy and his monkey friend.
-- (29-31s): Text appears: "Magic happens when hearts ring together" (fade in)
-- (31-34s): Camera slowly pulls back and UP to wide aerial shot showing entire village - snow-covered tropical paradise, twinkling lights, aurora overhead, celebration continuing below
-- Bells chime softly one last time (visible shimmer)
-- Fade to peaceful starry night sky with aurora
+Momo's Turn (4s):
+- Momo touches his bell with paw
+- Another soft chime, another small sparkle burst
+- Momo jumps back on branch, startled but excited
+- Chatters excitedly, bouncing
 
-Effects:
-- Star burst (major) - brilliant rays, sparkles, light waves
-- Firework sparkles (continuous during celebration)
-- Heavy snowfall (throughout)
-- Aurora movements (flowing, graceful)
-- Final magical shimmer (bells)
+Realization (5s):
+- Max and Momo look at each other across the space
+- "Did you see that?!" / "It's magic!" expressions
+- Growing smiles, eyes lighting up with understanding
+- Exchange excited glances
+- Realization dawning - these bells have power!
 
-Pacing:
-- MAXIMUM INTENSITY (0-26s) - rapid movements, quick cuts, explosive energy
-- GENTLE TRANSITION (26-34s) - slow motion hug, graceful camera pullback, peaceful fade
+Growing Determination (4s):
+- Max steps closer to bells again, more confident
+- Momo swings closer on branch
+- Both looking at bells with new purpose and determination
+- Small golden shimmer continuing from touched bells
+- Face expressions transform: surprise → wonder → "this could work!" determination
 
-This is the GRAND FINALE - hold nothing back, then end with peaceful wonder.
+Camera:
+- Close-ups on hands/paws touching bells
+- Tight shots on surprised faces
+- Medium two-shot for realization exchange
+- Pull back slightly showing them with bells, determination building
+
+Effects: SMALL golden sparkle bursts (gentle, not explosive), soft bell chimes (pure tones), gentle magical shimmer from touched bells, beginning of golden glow.
+
+Pacing: Cautious → Surprise! → Excitement → Realization → Growing Confidence. Match musical bridge energy - building determination.
 ```
 
 ---
