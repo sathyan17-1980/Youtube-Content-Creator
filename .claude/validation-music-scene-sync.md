@@ -294,6 +294,88 @@ RED FLAGS (incomplete scene):
 
 ---
 
+### 9. Visual Narrative Coherence Validation
+
+**Check that image and animation prompts match descriptions and story sequence:**
+
+```
+NARRATIVE COHERENCE CHECKLIST:
+
+For EACH scene, verify:
+
+✅ Image Prompt Content Match:
+   - Image prompt describes what Visual Description says
+   - NOT copied from a different scene
+   - Setting matches the scene's specified setting
+   - Characters in correct positions/actions for this moment
+   - Atmosphere matches the specified mood
+
+✅ Animation Prompt Alignment:
+   - Animation prompt matches the image prompt
+   - Actions described align with scene's emotional beat
+   - Movement/camera work supports the visual description
+   - Duration and pacing match scene requirements
+
+✅ Story Sequence Logic:
+   - Scene visually follows from previous scene
+   - No sudden unexplained location jumps
+   - Character positions/states make sense in sequence
+   - Props/objects appear/disappear logically
+
+✅ Visual Uniqueness:
+   - Each scene has distinct visual elements
+   - No duplicate image prompts across scenes
+   - Clear visual differentiation between scenes
+   - Story progression is visually evident
+
+VALIDATION CHECKS:
+
+1. Read Visual Description for Scene N
+2. Read Image Prompt for Scene N
+3. Verify Image Prompt accurately describes Visual Description
+4. Check Image Prompt is NOT identical/similar to other scenes
+5. Read Animation Prompt for Scene N
+6. Verify Animation Prompt actions match Image Prompt
+7. Check Scene N logically follows Scene N-1 visually
+8. Verify Scene N setup leads to Scene N+1
+
+RED FLAGS (narrative breaks):
+❌ Image prompt describes different location than Visual Description
+❌ Image prompt identical or very similar to another scene
+❌ Image shows action that hasn't happened yet in story
+❌ Image shows aftermath of action that happens in this scene
+❌ Animation describes actions that don't match image
+❌ Visual jump with no explanation (character teleports)
+❌ Props/objects appear without setup or disappear without reason
+
+EXAMPLE (CORRECT):
+Scene 3 Visual: "Max journeys through mystical jungle"
+Scene 3 Image: "Max pushing through jungle vines..." ✅ MATCHES
+Scene 4 Visual: "Max discovers ancient bell tree"
+Scene 4 Image: "Max entering clearing seeing bell tree..." ✅ MATCHES & FOLLOWS
+
+EXAMPLE (INCORRECT):
+Scene 2 Visual: "Seeing mysterious glow from village"
+Scene 2 Image: "Max at bell tree ringing bells" ❌ WRONG SCENE!
+(This shows Scene 6 content, breaks narrative flow)
+```
+
+**Why This Matters:**
+
+Using wrong image prompts creates:
+- Visual confusion for viewers
+- Broken narrative flow
+- Wasted AI generation costs ($3-4 per scene)
+- Time loss regenerating correct images
+- Loss of story coherence
+
+**Cost of Mistake:**
+- 4 wrong scenes × $4 = $16 wasted
+- 4 scenes × 15 min each = 1 hour regeneration time
+- Story flow broken = quality compromised
+
+---
+
 ## Validation Workflow
 
 ### When to Validate
@@ -438,6 +520,14 @@ def validate_scene_durations(scenes):
 - [ ] All scenes have transitions: [N/N scenes]
 - [ ] Missing elements: [list or "None"]
 
+### 9. Visual Narrative Coherence: [PASS/FAIL]
+- [ ] Image prompts match visual descriptions: [N/N scenes]
+- [ ] No duplicate/similar image prompts: [PASS/FAIL]
+- [ ] Animation prompts match image prompts: [N/N scenes]
+- [ ] Story sequence is logical: [PASS/FAIL]
+- [ ] Visual uniqueness maintained: [N/N scenes]
+- [ ] Issues: [list or "None"]
+
 ---
 
 ## 🚨 CRITICAL ISSUES (must fix before production)
@@ -570,6 +660,18 @@ def validate_scene_durations(scenes):
 - [x] Music prompt complete: YES ✅
 - [x] Missing elements: None
 
+### 9. Visual Narrative Coherence: ✅ PASS
+- [x] Image prompts match visual descriptions: 11/11 scenes ✅
+- [x] No duplicate/similar image prompts: PASS ✅
+  - Scene 1: Village sunset wishing ≠ Scene 2: Seeing jungle glow ≠ Scene 3: Jungle journey
+  - Scene 4: Discovering bell tree ≠ Scene 5: First touch ≠ Scene 6: Bells activate
+  - All 11 scenes visually distinct ✅
+- [x] Animation prompts match image prompts: 11/11 scenes ✅
+- [x] Story sequence is logical: PASS ✅
+  - Village wish → jungle glow → jungle journey → find tree → touch bells → activate → race back → snow falls → village gathers → star burst → celebration ✅
+- [x] Visual uniqueness maintained: 11/11 scenes ✅
+- [x] Issues: None (FIXED in commit 1f73be7)
+
 ---
 
 ## 🚨 CRITICAL ISSUES
@@ -587,6 +689,8 @@ def validate_scene_durations(scenes):
 ## 📊 SUMMARY
 
 **Overall Status:** ✅ **READY FOR PRODUCTION**
+
+**Validation Score:** 9/9 categories PASSED
 
 **Scenes Ready:** 11/11 ✅
 **Critical Issues:** 0 ✅
@@ -636,6 +740,12 @@ Use this during Steps 1-3 to quickly verify:
 - [ ] Each scene animation prompt has "MINIMUM [X] seconds"
 - [ ] Timing breakdown within each animation
 - [ ] Pacing matched to music tempo
+
+### Visual Narrative (Step 4)
+- [ ] Each image prompt matches its visual description
+- [ ] No duplicate image prompts across scenes
+- [ ] Animation prompts match image prompts
+- [ ] Story sequence is logically coherent
 
 ### Captions (Step 4)
 - [ ] Each caption has timing (start-end)

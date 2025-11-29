@@ -1,4 +1,4 @@
-# Complete Video Production Package: "Kavi the Peacock"
+# Complete Video Production Package: "Mayuri the Peacock"
 ## Tamil Moral Story: "உடையது விளம்பேல்" (Don't Be a Blowhard)
 
 ---
@@ -16,7 +16,7 @@
 
 ## Character Reference
 
-**Main Character: Kavi the Peacock**
+**Main Character: Mayuri the Peacock**
 - Young peacock (child equivalent, 6-7 years)
 - Vibrant blue-green iridescent body
 - Red vest with gold trim
@@ -34,17 +34,17 @@
 
 ## Complete Scene Breakdown with Video Production Details
 
-### **SCENE 1: Kavi Shows Off (30 seconds)**
+### **SCENE 1: Mayuri Shows Off (30 seconds)**
 
 #### **Image Generation Prompt**
 ```
-Kavi the young peacock (vibrant blue-green body, red vest, silver anklets, large brown eyes) standing proudly on wooden fence post, fanning magnificent tail feathers in full display, chest puffed out, head tilted back with overconfident smirk, village birds (sparrows, mynahs, parrots) in background looking unimpressed and rolling eyes, sun-drenched Tamil village courtyard with vibrant bougainvillea flowers and terracotta pots, warm golden morning sunlight, soft rim lighting on iridescent feathers creating rainbow glints, 3D Pixar style, exaggerated expressions, warm color palette of oranges yellows and blues, low angle camera looking up at Kavi, cinematic lighting, Disney quality animation, rendered in Unreal Engine, 8K, highly detailed
+Mayuri the young peacock (vibrant blue-green body, red vest, silver anklets, large brown eyes) standing proudly on wooden fence post, fanning magnificent tail feathers in full display, chest puffed out, head tilted back with overconfident smirk, village birds (sparrows, mynahs, parrots) in background looking unimpressed and rolling eyes, sun-drenched Tamil village courtyard with vibrant bougainvillea flowers and terracotta pots, warm golden morning sunlight, soft rim lighting on iridescent feathers creating rainbow glints, 3D Pixar style, exaggerated expressions, warm color palette of oranges yellows and blues, low angle camera looking up at Mayuri, cinematic lighting, Disney quality animation, rendered in Unreal Engine, 8K, highly detailed
 ```
 
 #### **Animation Prompt (MiniMax Hailuo / Runway)**
 ```
 Camera: Slow push-in from medium shot to close-up
-Character Action: Kavi's tail feathers slowly fan out to full display, chest puffs up with pride, head tilts back, slight shimmer effect on feathers catching sunlight
+Character Action: Mayuri's tail feathers slowly fan out to full display, chest puffs up with pride, head tilts back, slight shimmer effect on feathers catching sunlight
 Background Action: Village birds turn heads to look, some roll eyes, one covers face with wing
 Duration: 30 seconds
 Movement Style: Smooth, exaggerated Pixar-style animation with emphasis on prideful gestures
@@ -52,20 +52,20 @@ Camera Control: "slow zoom in, slight upward tilt"
 ```
 
 #### **Dialogue (Tamil)**
-**Kavi**: "பாருங்க! என் அழகான இறகுகளை! நான் எவ்வளவு அழகாக இருக்கிறேன்!"
+**Mayuri**: "பாருங்க! என் அழகான இறகுகளை! நான் எவ்வளவு அழகாக இருக்கிறேன்!"
 *(English: "Look! My beautiful feathers! How handsome I am!")*
 
 **Village Bird 1** *(whispers)*: "அடடா, மறுபடியும் தன்னைப் பற்றி பேசுகிறான்..."
 *(English: "Oh no, he's talking about himself again...")*
 
 #### **Voice Direction**
-- **Kavi**: Child voice, high-pitched, excited, boastful tone
+- **Mayuri**: Child voice, high-pitched, excited, boastful tone
 - **Village Bird**: Older voice, whispering, slightly annoyed
 - **Emotion tags**: `[excited]`, `[boastful]`, `[whispering]`
 
 #### **Audio Sync**
 - 0:00-0:02: Background village ambience (birds chirping)
-- 0:02-0:08: Kavi's dialogue
+- 0:02-0:08: Mayuri's dialogue
 - 0:09-0:12: Village bird's whispered comment
 - 0:13-0:30: Soft background music (playful, slightly mischievous)
 
@@ -76,37 +76,37 @@ Camera Control: "slow zoom in, slight upward tilt"
 
 ---
 
-### **SCENE 2: Kavi Brags to Forest Friends (25 seconds)**
+### **SCENE 2: Mayuri Brags to Forest Friends (25 seconds)**
 
 #### **Image Generation Prompt**
 ```
-Kavi the young peacock (vibrant blue-green body, red vest, silver anklets) standing center of forest clearing, gesturing dramatically with wings while talking, beak open mid-boast, one wing extended outward presenting himself, surrounded by forest animals (humble brown rabbit covering face with paws in embarrassment, wise old turtle, gentle deer) exchanging awkward glances, dappled sunlight filtering through lush green canopy, mossy forest floor with vibrant wildflowers, 3D Pixar cartoon style, expressive facial animations showing Kavi's obliviousness and others' discomfort, eye-level medium shot capturing all characters' reactions, soft natural lighting, warm atmosphere, Disney animation quality, octane render, 8K
+Mayuri the young peacock (vibrant blue-green body, red vest, silver anklets) standing center of forest clearing, gesturing dramatically with wings while talking, beak open mid-boast, one wing extended outward presenting himself, surrounded by forest animals (humble brown rabbit covering face with paws in embarrassment, wise old turtle, gentle deer) exchanging awkward glances, dappled sunlight filtering through lush green canopy, mossy forest floor with vibrant wildflowers, 3D Pixar cartoon style, expressive facial animations showing Mayuri's obliviousness and others' discomfort, eye-level medium shot capturing all characters' reactions, soft natural lighting, warm atmosphere, Disney animation quality, octane render, 8K
 ```
 
 #### **Animation Prompt**
 ```
-Camera: Static eye-level shot with slight pan following Kavi's gestures
-Character Action: Kavi gestures dramatically with wings, turning in circle to show himself off, other animals exchange glances, rabbit slowly covers face, turtle shakes head
+Camera: Static eye-level shot with slight pan following Mayuri's gestures
+Character Action: Mayuri gestures dramatically with wings, turning in circle to show himself off, other animals exchange glances, rabbit slowly covers face, turtle shakes head
 Background Action: Gentle breeze rustles leaves
 Duration: 25 seconds
-Movement Style: Exaggerated gestures for Kavi, subtle reactions from other animals
+Movement Style: Exaggerated gestures for Mayuri, subtle reactions from other animals
 Camera Control: "static with slight pan left to right following character"
 ```
 
 #### **Dialogue (Tamil)**
-**Kavi**: "என்னைப் போல வேறு யாரும் இல்லை! நான் சிறந்தவன்!"
+**Mayuri**: "என்னைப் போல வேறு யாரும் இல்லை! நான் சிறந்தவன்!"
 *(English: "There's no one like me! I am the best!")*
 
 **Rabbit** *(to Turtle, softly)*: "இன்னும் எவ்வளவு நேரம்..."
 *(English: "How much longer...")*
 
 #### **Voice Direction**
-- **Kavi**: Louder, more animated, self-absorbed
+- **Mayuri**: Louder, more animated, self-absorbed
 - **Rabbit**: Tired, exasperated whisper
 - **Emotion tags**: `[animated]`, `[boastful]`, `[exasperated whisper]`
 
 #### **Audio Sync**
-- 0:00-0:06: Kavi's boastful dialogue
+- 0:00-0:06: Mayuri's boastful dialogue
 - 0:07-0:10: Awkward silence
 - 0:11-0:14: Rabbit's whispered comment
 - 0:15-0:25: Background forest sounds (birds, rustling leaves)
@@ -122,13 +122,13 @@ Camera Control: "static with slight pan left to right following character"
 
 #### **Image Generation Prompt**
 ```
-Kavi the young peacock (vibrant blue-green body, soaked red vest, silver anklets) caught in heavy rainstorm, magnificent tail feathers drooping wet and bedraggled, standing alone under large banana leaf shelter looking shocked and dismayed, water dripping from beak, muted colors from rain, dark grey storm clouds overhead, stylized rain streaks with puddle splashes around feet, blurred forest background through downpour, single warm light breaking through distant clouds suggesting hope, 3D Pixar style with sympathetic lighting, melancholic mood, slightly high angle looking down at vulnerable small Kavi, cinematic composition, Disney quality, rendered in Unreal Engine, 8K, dramatic lighting
+Mayuri the young peacock (vibrant blue-green body, soaked red vest, silver anklets) caught in heavy rainstorm, magnificent tail feathers drooping wet and bedraggled, standing alone under large banana leaf shelter looking shocked and dismayed, water dripping from beak, muted colors from rain, dark grey storm clouds overhead, stylized rain streaks with puddle splashes around feet, blurred forest background through downpour, single warm light breaking through distant clouds suggesting hope, 3D Pixar style with sympathetic lighting, melancholic mood, slightly high angle looking down at vulnerable small Mayuri, cinematic composition, Disney quality, rendered in Unreal Engine, 8K, dramatic lighting
 ```
 
 #### **Animation Prompt**
 ```
-Camera: Slow zoom out from close-up of wet Kavi to reveal stormy environment
-Character Action: Rain falls heavily, Kavi shivers, feathers droop progressively, tries to shake off water, looks around desperately for better shelter
+Camera: Slow zoom out from close-up of wet Mayuri to reveal stormy environment
+Character Action: Rain falls heavily, Mayuri shivers, feathers droop progressively, tries to shake off water, looks around desperately for better shelter
 Background Action: Rain intensifies, thunder flash (light only), wind blows banana leaf
 Duration: 35 seconds
 Movement Style: Sympathetic, slow-motion rain for emphasis, shivering animation
@@ -136,21 +136,21 @@ Camera Control: "slow zoom out, slight downward tilt, rain effect overlay"
 ```
 
 #### **Dialogue (Tamil)**
-**Kavi** *(voice shaking)*: "என் அழகான இறகுகள்... என்னாச்சு..."
+**Mayuri** *(voice shaking)*: "என் அழகான இறகுகள்... என்னாச்சு..."
 *(English: "My beautiful feathers... what happened...")*
 
 **Narration** *(gentle, wise voice)*: "பெருமை வந்ததும், சோதனையும் வந்துவிடும்."
 *(English: "When pride comes, trials follow.")*
 
 #### **Voice Direction**
-- **Kavi**: Shaky, small, vulnerable child voice
+- **Mayuri**: Shaky, small, vulnerable child voice
 - **Narration**: Calm, gentle, teaching tone (optional, can be added for clarity)
 - **Emotion tags**: `[sad]`, `[shaking voice]`, `[vulnerable]`
 
 #### **Audio Sync**
 - 0:00-0:05: Rain sound effects intensifying
 - 0:05-0:10: Thunder rumble (not too loud for kids)
-- 0:11-0:18: Kavi's sad dialogue
+- 0:11-0:18: Mayuri's sad dialogue
 - 0:19-0:35: Rain continues, soft melancholic background music
 
 #### **Transition to Scene 4**
@@ -164,13 +164,13 @@ Camera Control: "slow zoom out, slight downward tilt, rain effect overlay"
 
 #### **Image Generation Prompt**
 ```
-Kindly old owl with gentle knowing eyes behind small round spectacles, grey-brown feathers, warm grandfatherly expression, perched on thick tree branch leaning down to speak, below sits dejected wet Kavi the peacock (vibrant blue-green body, damp red vest, silver anklets) with wide tearful eyes looking up, ego deflated, rain stopped with soft evening light breaking through dissipating clouds, barely visible rainbow in background, water droplets glistening on leaves, 3D Pixar cartoon style, warm comforting color grading transitioning from cool greys to warm ambers, over-the-shoulder shot from behind Kavi looking up at wise owl, peaceful atmosphere, Disney animation quality, octane render, 8K
+Kindly old owl with gentle knowing eyes behind small round spectacles, grey-brown feathers, warm grandfatherly expression, perched on thick tree branch leaning down to speak, below sits dejected wet Mayuri the peacock (vibrant blue-green body, damp red vest, silver anklets) with wide tearful eyes looking up, ego deflated, rain stopped with soft evening light breaking through dissipating clouds, barely visible rainbow in background, water droplets glistening on leaves, 3D Pixar cartoon style, warm comforting color grading transitioning from cool greys to warm ambers, over-the-shoulder shot from behind Mayuri looking up at wise owl, peaceful atmosphere, Disney animation quality, octane render, 8K
 ```
 
 #### **Animation Prompt**
 ```
-Camera: Start over Kavi's shoulder looking up at owl, then reverse angle showing owl's face
-Character Action: Owl leans forward gently, blinks kindly, speaks with slow gestures, Kavi looks up with big tearful eyes, gradually straightens posture as he listens
+Camera: Start over Mayuri's shoulder looking up at owl, then reverse angle showing owl's face
+Character Action: Owl leans forward gently, blinks kindly, speaks with slow gestures, Mayuri looks up with big tearful eyes, gradually straightens posture as he listens
 Background Action: Clouds part slowly, rainbow becomes more visible, water droplets fall gently from leaves
 Duration: 30 seconds
 Movement Style: Gentle, comforting, slow-paced
@@ -179,20 +179,20 @@ Camera Control: "static over-shoulder shot, then cut to reverse angle close-up o
 
 #### **Dialogue (Tamil)**
 **Owl**: "கவி, அழகு வெளியில் மட்டும் இல்லை. உள்ளத்தில் தான் உண்மையான அழகு."
-*(English: "Kavi, beauty is not just outside. True beauty is in the heart.")*
+*(English: "Mayuri, beauty is not just outside. True beauty is in the heart.")*
 
-**Kavi** *(softly, understanding)*: "ஆமாம் பாட்டி... நான் புரிந்து கொண்டேன்."
+**Mayuri** *(softly, understanding)*: "ஆமாம் பாட்டி... நான் புரிந்து கொண்டேன்."
 *(English: "Yes grandpa owl... I understand.")*
 
 #### **Voice Direction**
 - **Owl**: Elderly, wise, warm, slow-paced, grandfatherly
-- **Kavi**: Soft, thoughtful, humble (big change from earlier)
+- **Mayuri**: Soft, thoughtful, humble (big change from earlier)
 - **Emotion tags**: `[wise]`, `[gentle]`, `[thoughtful]`
 
 #### **Audio Sync**
 - 0:00-0:12: Owl's wise dialogue (slow, clear)
-- 0:13-0:18: Pause (Kavi processing)
-- 0:19-0:25: Kavi's soft response
+- 0:13-0:18: Pause (Mayuri processing)
+- 0:19-0:25: Mayuri's soft response
 - 0:26-0:30: Gentle wind chimes, hopeful music begins
 
 #### **Transition to Scene 5**
@@ -202,17 +202,17 @@ Camera Control: "static over-shoulder shot, then cut to reverse angle close-up o
 
 ---
 
-### **SCENE 5: Kavi Helps a Fallen Bird (30 seconds)**
+### **SCENE 5: Mayuri Helps a Fallen Bird (30 seconds)**
 
 #### **Image Generation Prompt**
 ```
-Kavi the young peacock (vibrant blue-green body, red vest, silver anklets) gently helping tiny injured sparrow with bandaged wing, offering shelter under his dried slightly-ruffled tail feathers, genuinely kind and concerned expression with no arrogance, sparrow looking up with gratitude, cozy hollow of large banyan tree with soft straw bedding, water in leaf cup and scattered seeds showing care, warm golden hour sunlight streaming through tree opening, safe nurturing atmosphere, 3D Pixar style with soft warm lighting emphasizing tender moment, gentle shadows, side view medium shot capturing both characters' expressions and intimate space, heartwarming scene, Disney quality animation, rendered in Unreal Engine, 8K
+Mayuri the young peacock (vibrant blue-green body, red vest, silver anklets) gently helping tiny injured sparrow with bandaged wing, offering shelter under his dried slightly-ruffled tail feathers, genuinely kind and concerned expression with no arrogance, sparrow looking up with gratitude, cozy hollow of large banyan tree with soft straw bedding, water in leaf cup and scattered seeds showing care, warm golden hour sunlight streaming through tree opening, safe nurturing atmosphere, 3D Pixar style with soft warm lighting emphasizing tender moment, gentle shadows, side view medium shot capturing both characters' expressions and intimate space, heartwarming scene, Disney quality animation, rendered in Unreal Engine, 8K
 ```
 
 #### **Animation Prompt**
 ```
 Camera: Slow push-in from medium shot to close-up of both characters
-Character Action: Kavi gently adjusts his feathers to cover sparrow, offers leaf cup of water, sparrow takes small sip, looks up gratefully, Kavi smiles genuinely (first real smile)
+Character Action: Mayuri gently adjusts his feathers to cover sparrow, offers leaf cup of water, sparrow takes small sip, looks up gratefully, Mayuri smiles genuinely (first real smile)
 Background Action: Soft golden light shifts as sun sets, gentle warmth
 Duration: 30 seconds
 Movement Style: Tender, caring, slow and gentle movements
@@ -220,19 +220,19 @@ Camera Control: "slow zoom in, soft focus on background, warm lighting"
 ```
 
 #### **Dialogue (Tamil)**
-**Kavi**: "கவலைப்படாதே சின்னக் குருவி. நான் உன்னைக் காப்பாற்றுகிறேன்."
+**Mayuri**: "கவலைப்படாதே சின்னக் குருவி. நான் உன்னைக் காப்பாற்றுகிறேன்."
 *(English: "Don't worry little sparrow. I will take care of you.")*
 
 **Sparrow**: "நன்றி கவி. நீ மிகவும் நல்லவன்."
-*(English: "Thank you Kavi. You are very kind.")*
+*(English: "Thank you Mayuri. You are very kind.")*
 
 #### **Voice Direction**
-- **Kavi**: Gentle, caring, mature (shows growth)
+- **Mayuri**: Gentle, caring, mature (shows growth)
 - **Sparrow**: Tiny, weak, grateful voice
 - **Emotion tags**: `[caring]`, `[gentle]`, `[grateful whisper]`
 
 #### **Audio Sync**
-- 0:00-0:08: Kavi's caring dialogue
+- 0:00-0:08: Mayuri's caring dialogue
 - 0:09-0:15: Sparrow's grateful response
 - 0:16-0:30: Warm, gentle background music (heartwarming theme)
 
@@ -243,17 +243,17 @@ Camera Control: "slow zoom in, soft focus on background, warm lighting"
 
 ---
 
-### **SCENE 6: Kavi and Friends Play Together (25 seconds)**
+### **SCENE 6: Mayuri and Friends Play Together (25 seconds)**
 
 #### **Image Generation Prompt**
 ```
-Kavi the young peacock (vibrant blue-green body, red vest, silver anklets, beautiful feathers) playing joyfully with forest animals (rabbit, turtle, deer, sparrow, others) in sunny meadow filled with colorful wildflowers, Kavi laughing genuinely playing chase with rabbit not showing off, all animals with happy relaxed expressions, idyllic clearing with small pond reflecting blue sky, butterflies fluttering, wise owl watching from distance with satisfied smile, 3D Pixar cartoon style, bright saturated colors, dynamic lighting with sun rays creating sparkle effects on pond, multiple light sources creating depth, high wide shot showing harmonious group, emphasis on community and friendship, Disney animation quality, octane render, 8K, magical atmosphere
+Mayuri the young peacock (vibrant blue-green body, red vest, silver anklets, beautiful feathers) playing joyfully with forest animals (rabbit, turtle, deer, sparrow, others) in sunny meadow filled with colorful wildflowers, Mayuri laughing genuinely playing chase with rabbit not showing off, all animals with happy relaxed expressions, idyllic clearing with small pond reflecting blue sky, butterflies fluttering, wise owl watching from distance with satisfied smile, 3D Pixar cartoon style, bright saturated colors, dynamic lighting with sun rays creating sparkle effects on pond, multiple light sources creating depth, high wide shot showing harmonious group, emphasis on community and friendship, Disney animation quality, octane render, 8K, magical atmosphere
 ```
 
 #### **Animation Prompt**
 ```
 Camera: Wide establishing shot, slight drone-style slow orbit around playing animals
-Character Action: Kavi runs playfully with rabbit in foreground, turtle plods along happily, deer bounces, sparrow (healed wing) flies in circles, all laughing and playing
+Character Action: Mayuri runs playfully with rabbit in foreground, turtle plods along happily, deer bounces, sparrow (healed wing) flies in circles, all laughing and playing
 Background Action: Butterflies flutter, flowers sway gently, water sparkles, owl nods approvingly
 Duration: 25 seconds
 Movement Style: Dynamic, joyful, energetic but not chaotic
@@ -262,40 +262,40 @@ Camera Control: "slow orbital drone shot, slight downward angle, bright sunny at
 
 #### **Dialogue (Tamil)**
 **Rabbit**: "கவி! இப்போது நீ உண்மையான நண்பன்!"
-*(English: "Kavi! Now you are a true friend!")*
+*(English: "Mayuri! Now you are a true friend!")*
 
-**Kavi** *(laughing)*: "நண்பர்களுடன் இருப்பது மிகவும் சந்தோஷம்!"
+**Mayuri** *(laughing)*: "நண்பர்களுடன் இருப்பது மிகவும் சந்தோஷம்!"
 *(English: "Being with friends is so joyful!")*
 
 #### **Voice Direction**
 - **Rabbit**: Happy, energetic, playful
-- **Kavi**: Genuine laughter, joyful, humble
+- **Mayuri**: Genuine laughter, joyful, humble
 - **Emotion tags**: `[joyful]`, `[laughing]`, `[playful]`
 
 #### **Audio Sync**
 - 0:00-0:06: Playful background music (upbeat, cheerful)
 - 0:07-0:11: Rabbit's happy exclamation
-- 0:12-0:18: Kavi's joyful response with laughter
+- 0:12-0:18: Mayuri's joyful response with laughter
 - 0:19-0:25: Music swells (happy theme)
 
 #### **Transition to Scene 7**
-- Type: Match cut (Kavi's face from playing to teaching)
+- Type: Match cut (Mayuri's face from playing to teaching)
 - Duration: 0.5 seconds
 - Effect: Time passage implied
 
 ---
 
-### **SCENE 7: Kavi Teaches Others (30 seconds)**
+### **SCENE 7: Mayuri Teaches Others (30 seconds)**
 
 #### **Image Generation Prompt**
 ```
-Kavi the young peacock (vibrant blue-green body, red vest, silver anklets) sitting on low branch surrounded by attentive young bird chicks (baby peacocks, mynahs, parrots) listening to him tell his story, wise humble expression, gesturing gently with one wing as he speaks, chicks with wide engaged eyes learning, Tamil village courtyard setting with peaceful educational mood, subtle details like leaf book or scroll showing teaching, soft afternoon sunlight, warm color palette of golds and oranges suggesting wisdom and maturity, 3D Pixar style with soft diffused lighting creating intimate storytelling atmosphere, medium close-up with shallow depth of field focusing on Kavi's sincere expression with blurred chicks in foreground and background, Disney animation quality, rendered in Unreal Engine, 8K
+Mayuri the young peacock (vibrant blue-green body, red vest, silver anklets) sitting on low branch surrounded by attentive young bird chicks (baby peacocks, mynahs, parrots) listening to him tell his story, wise humble expression, gesturing gently with one wing as he speaks, chicks with wide engaged eyes learning, Tamil village courtyard setting with peaceful educational mood, subtle details like leaf book or scroll showing teaching, soft afternoon sunlight, warm color palette of golds and oranges suggesting wisdom and maturity, 3D Pixar style with soft diffused lighting creating intimate storytelling atmosphere, medium close-up with shallow depth of field focusing on Mayuri's sincere expression with blurred chicks in foreground and background, Disney animation quality, rendered in Unreal Engine, 8K
 ```
 
 #### **Animation Prompt**
 ```
-Camera: Slow push-in on Kavi's face while he speaks, then pull back to show all listening chicks
-Character Action: Kavi speaks with gentle gestures, makes eye contact with different chicks, chicks lean in closer, nod understanding, some take notes on leaves
+Camera: Slow push-in on Mayuri's face while he speaks, then pull back to show all listening chicks
+Character Action: Mayuri speaks with gentle gestures, makes eye contact with different chicks, chicks lean in closer, nod understanding, some take notes on leaves
 Background Action: Soft breeze, pages of leaf book flutter gently
 Duration: 30 seconds
 Movement Style: Calm, educational, wise gestures
@@ -303,26 +303,26 @@ Camera Control: "slow push-in then pull-back, soft bokeh effect on background"
 ```
 
 #### **Dialogue (Tamil)**
-**Kavi**: "குழந்தைகளே, நான் ஒரு முக்கியமான பாடம் கற்றேன். பெருமை பேசுவதை விட, நல்லவராக இருப்பது முக்கியம்."
+**Mayuri**: "குழந்தைகளே, நான் ஒரு முக்கியமான பாடம் கற்றேன். பெருமை பேசுவதை விட, நல்லவராக இருப்பது முக்கியம்."
 *(English: "Children, I learned an important lesson. Being good is more important than boasting.")*
 
 **Chick 1**: "நாங்களும் அப்படியே இருப்போம் கவி அண்ணா!"
-*(English: "We will be like that too, brother Kavi!")*
+*(English: "We will be like that too, brother Mayuri!")*
 
 #### **Voice Direction**
-- **Kavi**: Mature, teaching tone, gentle but clear
+- **Mayuri**: Mature, teaching tone, gentle but clear
 - **Chick**: Young, enthusiastic, eager to learn
 - **Emotion tags**: `[teaching]`, `[wise]`, `[eager]`
 
 #### **Audio Sync**
-- 0:00-0:15: Kavi's teaching dialogue (clear, slow for understanding)
+- 0:00-0:15: Mayuri's teaching dialogue (clear, slow for understanding)
 - 0:16-0:22: Chick's enthusiastic response
 - 0:23-0:30: Soft, reflective background music
 
 #### **Transition to Scene 8**
 - Type: Expand/zoom out
 - Duration: 1.5 seconds
-- Effect: Zoom out from Kavi to reveal full village celebration
+- Effect: Zoom out from Mayuri to reveal full village celebration
 
 ---
 
@@ -330,13 +330,13 @@ Camera Control: "slow push-in then pull-back, soft bokeh effect on background"
 
 #### **Image Generation Prompt**
 ```
-Epic wide view of entire village celebration, all birds and animals gathered in courtyard for festival, colorful paper lanterns hanging overhead, traditional kolam rangoli patterns on ground, shared food on banana leaves, Kavi the peacock (vibrant blue-green body, red vest, silver anklets) helping serve food genuinely participating in community not center of attention, everyone happy and equal, wise owl on decorated perch nodding approvingly, Tamil cultural elements including rangoli, diyas oil lamps, marigold garlands, 3D Pixar cartoon style, rich saturated colors, magical evening lighting with glowing lanterns, fireflies adding sparkle, high crane shot pulling back revealing full beautiful scene, emphasis on unity and community over individual pride, Disney animation quality, octane render, 8K, cinematic composition, heartwarming finale
+Epic wide view of entire village celebration, all birds and animals gathered in courtyard for festival, colorful paper lanterns hanging overhead, traditional kolam rangoli patterns on ground, shared food on banana leaves, Mayuri the peacock (vibrant blue-green body, red vest, silver anklets) helping serve food genuinely participating in community not center of attention, everyone happy and equal, wise owl on decorated perch nodding approvingly, Tamil cultural elements including rangoli, diyas oil lamps, marigold garlands, 3D Pixar cartoon style, rich saturated colors, magical evening lighting with glowing lanterns, fireflies adding sparkle, high crane shot pulling back revealing full beautiful scene, emphasis on unity and community over individual pride, Disney animation quality, octane render, 8K, cinematic composition, heartwarming finale
 ```
 
 #### **Animation Prompt**
 ```
 Camera: High crane shot slowly pulling back and up to reveal entire celebration
-Character Action: All animals mingling, eating, laughing together, Kavi serves food to elders, helps smaller birds, participates humbly
+Character Action: All animals mingling, eating, laughing together, Mayuri serves food to elders, helps smaller birds, participates humbly
 Background Action: Lanterns sway gently, fireflies dance, diyas flicker, celebration continues
 Duration: 40 seconds
 Movement Style: Joyful celebration, everyone moving naturally, no single focus
@@ -345,7 +345,7 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 
 #### **Dialogue (Tamil)**
 **Narration** *(wise, concluding tone)*: "அன்று முதல், கவி மிகவும் தாழ்மையுடன் வாழ்ந்தான். அவன் கற்றுக்கொண்ட பாடம் - உடையது விளம்பேல்!"
-*(English: "From that day, Kavi lived with great humility. The lesson he learned - Don't be a blowhard!")*
+*(English: "From that day, Mayuri lived with great humility. The lesson he learned - Don't be a blowhard!")*
 
 **All Together** *(joyfully)*: "வாழ்க! வாழ்க!"
 *(English: "Hooray! Hooray!")*
@@ -373,10 +373,10 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 ### **Complete Timeline (4 minutes 30 seconds)**
 
 ```
-0:00 - 0:05   Opening title card: "கவி மயில் கதை" (Kavi the Peacock)
-0:05 - 0:35   Scene 1: Kavi Shows Off (30s)
+0:00 - 0:05   Opening title card: "கவி மயில் கதை" (Mayuri the Peacock)
+0:05 - 0:35   Scene 1: Mayuri Shows Off (30s)
 0:35 - 0:36   Transition (1s dissolve)
-0:36 - 1:01   Scene 2: Kavi Brags (25s)
+0:36 - 1:01   Scene 2: Mayuri Brags (25s)
 1:01 - 1:02   Transition (0.5s quick cut)
 1:02 - 1:37   Scene 3: Rainstorm (35s)
 1:37 - 1:39   Transition (1.5s dissolve)
@@ -396,7 +396,7 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 ### **Audio Layers**
 
 **Layer 1: Dialogue** (primary, highest volume)
-- Kavi's voice throughout
+- Mayuri's voice throughout
 - Supporting character voices
 - Narration (Scene 3, Scene 8)
 
@@ -427,7 +427,7 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 ## Production Continuity Checklist
 
 ### **Visual Continuity**
-- [ ] Kavi's appearance consistent across all 10-12 scenes (same vest, anklets, eye color)
+- [ ] Mayuri's appearance consistent across all 10-12 scenes (same vest, anklets, eye color)
 - [ ] Supporting characters recognizable when they reappear
 - [ ] Lighting progression matches time of day (morning → afternoon → evening)
 - [ ] Color grading consistent within same location (village vs forest)
@@ -442,7 +442,7 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 - [ ] Resolution shows lasting change (not temporary)
 
 ### **Audio Continuity**
-- [ ] Kavi's voice consistent throughout (same TTS voice/settings)
+- [ ] Mayuri's voice consistent throughout (same TTS voice/settings)
 - [ ] Background music themes transition smoothly (no jarring changes)
 - [ ] Sound effects match visual actions (rain sync, footsteps, etc.)
 - [ ] Volume levels balanced (dialogue always clear over music)
@@ -500,7 +500,7 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 ## Next Steps for Production
 
 1. **Generate Character Reference**:
-   - Use first prompt to create Kavi design
+   - Use first prompt to create Mayuri design
    - Save best version as reference image
    - Use in all subsequent generations
 
@@ -548,7 +548,7 @@ Camera Control: "high crane shot, slow pull-back and rise, revealing full scene 
 
 3. **Transitions**: Do the transition types (dissolve, cut, fade) work for the mood shifts?
 
-4. **Character arc**: Does Kavi's transformation feel believable? Too fast/slow?
+4. **Character arc**: Does Mayuri's transformation feel believable? Too fast/slow?
 
 5. **Visual flow**: Should we add establishing shots (wide views before close-ups)?
 
