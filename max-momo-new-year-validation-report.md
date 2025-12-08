@@ -12,6 +12,8 @@
 
 ⚠️ **Note**: Total duration is 3:50 (20 seconds longer than target 3:30)
 
+**Updated**: 2025-12-08 - Changed all image prompts to **16:9 horizontal aspect ratio** (YouTube standard)
+
 ---
 
 ## Detailed Validation Results
@@ -114,7 +116,7 @@ All image generation prompts include:
 - ✅ Setting/background details - All 11 scenes
 - ✅ Lighting specifications - All 11 scenes
 - ✅ Mood/atmosphere - All 11 scenes
-- ✅ "9:16 vertical aspect ratio" - All 11 scenes
+- ✅ "16:9 horizontal aspect ratio" (YouTube standard) - All 11 scenes
 - ✅ "3D Pixar style" - All 11 scenes
 - ✅ "Disney/Pixar quality" - All 11 scenes
 

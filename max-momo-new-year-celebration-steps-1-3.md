@@ -302,7 +302,7 @@ Background: Village below decorated with colorful lanterns (red, gold, blue, gre
 
 In foreground: Max holding small notebook labeled "New Year Wishes" with simple drawings. Both characters showing peaceful hope and anticipation. Gentle breeze moving their hair/fur slightly.
 
-Mood: Peaceful hope, reflection, anticipation of new beginnings. Warm sunset colors (oranges, pinks, purples, golds). 9:16 vertical aspect ratio. Ultra detailed, vibrant, Disney/Pixar animation quality.
+Mood: Peaceful hope, reflection, anticipation of new beginnings. Warm sunset colors (oranges, pinks, purples, golds). 16:9 horizontal aspect ratio. Ultra detailed, vibrant, Disney/Pixar animation quality.
 ```
 
 ---
@@ -382,7 +382,7 @@ Lighting: Warm golden glow from lanterns and string lights, cool twilight sky ab
 
 Mood: Anticipation, community warmth, gathering together, hope building.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Vibrant, welcoming, heartwarming.
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Vibrant, welcoming, heartwarming.
 ```
 
 ---
@@ -468,7 +468,7 @@ Lighting: Warm circle glow (lanterns and magical light), golden sparkles (rising
 
 Mood: Collective hope, community dreaming together, wishes visualized, magic of shared aspirations.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Emotional, magical, heartwarming.
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emotional, magical, heartwarming.
 ```
 
 ---
@@ -553,7 +553,7 @@ Lighting: Primary light source from hundreds of glowing lanterns (warm golden gl
 
 Mood: AWE, collective hope visualized, dreams taking flight together, breathtaking beauty, magical moment of unity.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on the RIVER OF ASCENDING LANTERNS creating magical sky scene.
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on the RIVER OF ASCENDING LANTERNS creating magical sky scene.
 ```
 
 ---
@@ -648,7 +648,7 @@ Lighting: Warm festive lights throughout square, sparkler light trails (golden),
 
 Mood: PURE JOY, playful energy, happiness spreading, children's laughter, innocence, celebration through play, community warmth.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on MOVEMENT, JOY, and Momo's playful interaction with children.
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on MOVEMENT, JOY, and Momo's playful interaction with children.
 ```
 
 ---
@@ -744,7 +744,7 @@ Lighting: Giant clock brightly illuminated (glowing face), stage lights highligh
 
 Mood: ANTICIPATION BUILDING, excitement, unity, everyone waiting for big moment, collective breath held, countdown energy.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Clock should be LARGE and PROMINENT - the visual anchor of this scene.
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Clock should be LARGE and PROMINENT - the visual anchor of this scene.
 ```
 
 ---
@@ -863,7 +863,7 @@ Lighting: TRANSFORMATION LIGHTING - magical golden wash, firework bursts providi
 
 Mood: TRIUMPHANT CLIMAX, pure joy explosion, magical transformation moment, collective celebration peak, NEW YEAR ARRIVES - maximum energy!
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. This is the PEAK MOMENT - maximum celebration, magic, and joy!
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. This is the PEAK MOMENT - maximum celebration, magic, and joy!
 ```
 
 ---
@@ -996,7 +996,7 @@ Lighting (DYNAMIC): Primary lighting from FIREWORKS - constantly changing colors
 
 Mood: AWE, spectacular beauty, celebration visualized in light and color, magic and wonder, visual feast, breathtaking.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on SPECTACULAR FIREWORKS filling sky - this is the VISUAL PEAK!
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on SPECTACULAR FIREWORKS filling sky - this is the VISUAL PEAK!
 ```
 
 ---
@@ -1119,7 +1119,7 @@ Lighting: WARM and INTIMATE - golden hour quality despite being night (magical f
 
 Mood: LOVE SPREADING, warm human connection, community bonds, celebration through togetherness, joy shared person-to-person, family warmth, friendship, generational love.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on HUMAN CONNECTIONS and LOVE - this is the heart of celebration!
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on HUMAN CONNECTIONS and LOVE - this is the heart of celebration!
 ```
 
 ---
@@ -1233,7 +1233,7 @@ Mood: TENDER FRIENDSHIP LOVE, emotional heart of story, genuine connection, best
 
 Composition: Max & Momo filling center/majority of frame (close shot), background providing context but not competing for attention. Depth of field creates separation.
 
-9:16 vertical aspect ratio. Ultra detailed on Max & Momo (every emotion visible), Disney/Pixar quality. This is the EMOTIONAL CLIMAX - the heart of the entire video. Friendship is everything.
+16:9 horizontal aspect ratio. Ultra detailed on Max & Momo (every emotion visible), Disney/Pixar quality. This is the EMOTIONAL CLIMAX - the heart of the entire video. Friendship is everything.
 ```
 
 ---
@@ -1377,7 +1377,7 @@ Mood: PEACEFUL HOPE, satisfaction, new beginning, contentment, community joy (ge
 
 Camera Angle: Aerial view (high angle, pulled back enough to see full village square and surrounding area). Wide enough to show community as whole, but detailed enough to see individuals and their peaceful joy.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. This is HOPEFUL RESOLUTION - beautiful, peaceful, full of promise for the future. New year has arrived, and everything is full of hope.
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. This is HOPEFUL RESOLUTION - beautiful, peaceful, full of promise for the future. New year has arrived, and everything is full of hope.
 ```
 
 ---
@@ -1538,7 +1538,7 @@ New Year songs for kids, Happy New Year, kids New Year music, Tamil New Year son
 ### Step 3: Generate Scene Images (Leonardo.ai)
 1. Use Max & Momo character references for consistency
 2. Generate Scene 1-11 images using detailed prompts
-3. 9:16 vertical aspect ratio for all
+3. 16:9 horizontal aspect ratio for all
 4. Verify progression: Scenes 1-2 (anticipation), Scenes 3-5 (community gathering), Scenes 6-8 (midnight celebration), Scenes 9-11 (love and resolution)
 5. Ensure warm, hopeful colors and magical atmosphere
 
