@@ -302,7 +302,7 @@ Background: Village below decorated with colorful lanterns (red, gold, blue, gre
 
 In foreground: Max holding small notebook labeled "New Year Wishes" with simple drawings. Both characters showing peaceful hope and anticipation. Gentle breeze moving their hair/fur slightly.
 
-Mood: Peaceful hope, reflection, anticipation of new beginnings. Warm sunset colors (oranges, pinks, purples, golds). 9:16 vertical aspect ratio. Ultra detailed, vibrant, Disney/Pixar animation quality.
+Mood: Peaceful hope, reflection, anticipation of new beginnings. Warm sunset colors (oranges, pinks, purples, golds). 16:9 horizontal aspect ratio. Ultra detailed, vibrant, Disney/Pixar animation quality.
 ```
 
 ---
@@ -382,7 +382,7 @@ Lighting: Warm golden glow from lanterns and string lights, cool twilight sky ab
 
 Mood: Anticipation, community warmth, gathering together, hope building.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Vibrant, welcoming, heartwarming.
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Vibrant, welcoming, heartwarming.
 ```
 
 ---
@@ -468,7 +468,7 @@ Lighting: Warm circle glow (lanterns and magical light), golden sparkles (rising
 
 Mood: Collective hope, community dreaming together, wishes visualized, magic of shared aspirations.
 
-9:16 vertical aspect ratio. Ultra detailed, Disney/Pixar quality. Emotional, magical, heartwarming.
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emotional, magical, heartwarming.
 ```
 
 ---
@@ -518,25 +518,941 @@ Hope in hearts, dreams light the way!
 
 ---
 
-**[Scenes 4-11 would continue with the same detailed format, but I'll provide the summary structure here to keep this initial document focused on demonstrating the format for Steps 1-3]**
+### **SCENE 4: Lighting Lanterns Together - Hope Rising** (20 seconds)
+**Timing:** First Chorus (1:00-1:20)
 
-### Remaining Scene Summary:
+#### Visual Description
 
-**SCENE 4: Lighting Lanterns Together** (20s) - Community releases sky lanterns with wishes, visual hope rising
+Max and Momo stand at the center of the village square with the community gathered around them. Everyone holds beautiful sky lanterns - glowing paper lanterns in various colors (red, gold, orange, white, blue). Max holds a large golden lantern with "Hope" written on it in Tamil and English. Momo holds a small orange lantern. On the count of three (led by Max), the entire community releases their lanterns simultaneously into the night sky. Hundreds of glowing lanterns float upward, creating a breathtaking river of light ascending toward the stars. The lanterns carry their written wishes and dreams. The crowd watches in awe as the sky fills with floating lights. The visual is magical and hopeful - collective dreams taking flight together.
 
-**SCENE 5: Children Playing, Joy Spreading** (24s) - Children dance and play, Momo joins them, happiness in motion
+**Setting:** Village square at night, lantern release ceremony
+**Mood:** Awe, collective hope, dreams rising together
+**Emotional Beat:** Visual manifestation of community hopes and dreams
+**Camera:** Wide shot showing crowd, close-up of Max & Momo releasing, follow lanterns upward
+**Lighting:** Warm glow from hundreds of lanterns illuminating faces from below, starry sky above
+**Song Section:** First Chorus (New year brings us hope so bright!)
 
-**SCENE 6: Countdown Begins** (20s) - Giant clock shows 11:55, anticipation builds, community counts together
+---
 
-**SCENE 7: Midnight Moment - New Year Arrives!** (22s) - Clock strikes midnight, magical transformation moment
+#### Image Generation Prompt (Leonardo.ai)
 
-**SCENE 8: Fireworks Explosion** (24s) - Spectacular fireworks burst across sky, visual celebration peak
+```
+Max (boy, dark hair, bright blue festive shirt) and Momo (brown/orange monkey on shoulder) releasing large golden sky lantern with "Hope" written in Tamil and English. Entire community around them releasing hundreds of colorful sky lanterns into night sky. MAGICAL LANTERN RELEASE. 3D Pixar style.
 
-**SCENE 9: Hugs and Celebrations** (20s) - Community erupts in hugs, "Happy New Year!" shouts, love spreading
+Foreground/Center: Max lifting golden lantern above head, gentle release pose. Momo on shoulder reaching up to help release small orange lantern. Both faces looking upward with wonder and hope, lit from below by lantern glow.
 
-**SCENE 10: Max & Momo Tender Moment** (20s) - Best friends hug amid celebration, heart of the story
+Community Circle: Dense crowd of villagers all around, each person releasing sky lanterns of various colors (red, gold, orange, white, blue, purple). Diverse ages and families. Everyone looking upward with awe-struck expressions. Hands raised releasing lanterns.
 
-**SCENE 11: Community Peace and Hope** (20s) - Aerial view of peaceful, happy community, hopeful ending
+SKY EFFECT (CRITICAL): HUNDREDS of glowing sky lanterns floating upward at various heights, creating stunning river of ascending lights. Lanterns should be at different distances - some just released (close/large), others already high (distant/smaller), creating depth and flow. Beautiful pattern of rising lights against dark starry sky.
+
+Lanterns: Traditional Asian sky lantern design, glowing from within (warm orange/golden light), various colors, some have visible writing/wishes on them. Magical gentle float upward.
+
+Background: Night sky with stars visible between floating lanterns. Village buildings with decorative lights on edges. Clear depth from ground to high sky.
+
+Lighting: Primary light source from hundreds of glowing lanterns (warm golden glow from below lighting faces), starlight from above, magical atmospheric glow. Faces illuminated beautifully by lantern light.
+
+Mood: AWE, collective hope visualized, dreams taking flight together, breathtaking beauty, magical moment of unity.
+
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on the RIVER OF ASCENDING LANTERNS creating magical sky scene.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. MAGICAL, awe-inspiring lantern release.
+
+Opening (5s): Max holds golden lantern above head with both hands, Momo helps steady it. Community members all around holding their lanterns ready. Max counts "Three... two... one..." (mouth moving). Everyone preparing for release.
+
+RELEASE MOMENT (8s): Simultaneous release - Max and Momo release golden lantern, it begins floating upward. ALL VILLAGERS release their lanterns at same moment. HUNDREDS of colorful lanterns begin ascending into night sky. Camera captures the magical moment of synchronized release. Hands opening, lanterns beginning to float.
+
+Ascending Beauty (8s): Camera follows lanterns upward in slow graceful movement. Lanterns at various heights creating river of light effect. Wide shot showing FULL SCALE of lantern release - hundreds of glowing lights filling the sky. Some lanterns close (detailed), others distant (creating depth). Gentle floating motion, mesmerizing upward flow.
+
+Community Reaction (3s): Cut back to ground - Max, Momo, and villagers all looking upward with faces full of wonder and hope. Faces beautifully lit from below by ascending lantern glow. Expressions of awe, happiness, tears of joy. Children pointing excitedly, adults with hands clasped in hope.
+
+Camera Movement:
+- Start close on Max & Momo with golden lantern (3s)
+- Pull back showing community ready to release (2s)
+- Capture release moment - medium-wide shot (3s)
+- Follow lanterns upward - smooth vertical pan (5s)
+- Wide aerial angle showing full river of lanterns (3s)
+- Return to ground showing awe-struck faces (3s)
+- Final shot: Max and Momo silhouette against lantern-filled sky (5s)
+
+Effects: GLOWING LANTERNS (primary focus) - warm internal glow, gentle upward float motion, hundreds visible creating flowing pattern. Soft light rays, atmospheric glow, magical shimmer.
+
+Movement: GENTLE, GRACEFUL - lanterns float smoothly upward (not fast), natural drift, mesmerizing flow. People's movements gentle and reverent. This is a breathtaking moment.
+
+Pacing: AWE-INSPIRING - time to absorb the beauty, magical moment of collective hope visualized. Not rushed - let the visual beauty land emotionally.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 7** (1:02-1:12):
+```
+புது வருடம், நம்பிக்கை தரும்!
+New year brings us hope so bright!
+```
+
+**Caption 8** (1:14-1:24):
+```
+அன்பு நம்மை இணைக்கும்!
+Love will hold us all tonight!
+```
+
+---
+
+### **SCENE 5: Children Playing, Joy Spreading** (24 seconds)
+**Timing:** Chorus End + Verse 2 Start (1:20-1:44)
+
+#### Visual Description
+
+As the lanterns drift away in the sky above, the energy shifts to joyful play. A group of children (ages 5-12) in the village square begin dancing and playing together in celebration. They hold hands in a circle and spin, laughing and singing. Momo jumps down from Max's shoulder and joins the children's circle, dancing playfully with exaggerated monkey movements that make all the children laugh. Max claps along from the side, smiling warmly. Other children run around with small sparklers (safe, supervised), creating trails of light. A few children play traditional games - passing a ball, spinning ribbons. The scene is pure joy and innocence - happiness in motion. Adults watch from the sides with loving smiles.
+
+**Setting:** Village square, children's play area
+**Mood:** Pure joy, playful energy, innocence, happiness spreading
+**Emotional Beat:** Joy and play as expression of new year happiness
+**Camera:** Dynamic shots following children's movement, close on Momo dancing
+**Lighting:** Warm festive lights, sparkler trails, lantern glow from above
+**Song Section:** Chorus end / Verse 2 beginning
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+Children playing joyfully in village square at night. Momo (playful brown/orange monkey) dancing in center of children's circle. Max (boy, blue shirt) clapping on sideline. JOYFUL CELEBRATION PLAY. 3D Pixar style.
+
+Center Focus: Circle of 8-10 children (ages 5-12, diverse ethnicities, colorful festive clothing) holding hands spinning in circle, laughing with pure joy. Momo in center doing playful monkey dance - arms raised, one leg up, big happy expression. Children laughing at Momo's antics.
+
+Additional Play Elements:
+- Small group of children with supervised sparklers (safe handheld ones) creating light trails
+- 2-3 children playing with colorful ribbons, spinning them
+- Children with various skin tones and traditional/modern festive outfits
+- All expressions showing genuine happiness and laughter
+
+Max (foreground/side): Standing watching the play, clapping hands to rhythm, warm loving smile on face. Enjoying seeing Momo make children laugh.
+
+Background Elements:
+- Adults watching from edges with loving smiles (parents, grandparents)
+- Decorative lanterns and string lights creating festive atmosphere
+- Village square with festive decorations
+- Sky above still showing distant lanterns floating (from previous scene)
+
+Movement Implied: Children mid-spin (hair and clothes showing motion), Momo mid-dance pose (dynamic, playful), sparkler trails visible, ribbon flowing.
+
+Lighting: Warm festive lights throughout square, sparkler light trails (golden), soft lantern glow from above, creating magical playful atmosphere.
+
+Mood: PURE JOY, playful energy, happiness spreading, children's laughter, innocence, celebration through play, community warmth.
+
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on MOVEMENT, JOY, and Momo's playful interaction with children.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. JOYFUL, playful, high-energy celebration.
+
+Children's Circle Dance (8s): Circle of children holding hands, spinning clockwise with laughing faces. Hair and clothes moving with spin. Legs skipping/dancing. Genuine joy on all faces. Camera circles with them showing individual happy expressions.
+
+Momo's Dance Performance (8s): Momo in center doing playful monkey dance - jumps up with arms raised, spins around, strikes funny pose on one leg, does silly arm movements. Children watching Momo react with delighted laughter, pointing, clapping. Momo bows playfully. Children cheer.
+
+Multiple Play Activities (6s): Quick cuts showing:
+- Group with sparklers waving them in air creating light patterns (3s)
+- Children with ribbons spinning them in circles, colorful flowing motion (2s)
+- Children playing passing game with ball, joyful movement (1s)
+
+Max's Reaction (2s): Max watching from side, clapping to rhythm, big warm smile, occasionally laughing at Momo's antics. Close-up on his happy, loving expression.
+
+Camera Movement:
+- Rotating shot around children's circle (smooth clockwise)
+- Close-up on Momo's dance moves (dynamic angles)
+- Quick cuts between different play activities
+- Medium shot showing Max watching
+- Pull back to wide shot showing all activities happening simultaneously
+
+Movement: HIGH ENERGY, playful - children spinning fast, laughing, Momo's exaggerated dance moves, sparklers waving, ribbons flowing. Constant joyful motion throughout.
+
+Effects: Sparkler light trails (golden streaks), flowing ribbons (colorful motion blur), energy lines suggesting movement and joy.
+
+Pacing: ENERGETIC and JOYFUL - this is the happiness peak before countdown. Fast but clear movements, laughter is audible (implied through expressions), pure celebration energy.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 9** (1:22-1:32):
+```
+மகிழ்ச்சி நெஞ்சில் பூக்கும்!
+Happiness blooms in our hearts!
+```
+
+**Caption 10** (1:34-1:44):
+```
+மேக்ஸ் மோமோ, நட்பு வாழ்த்தும்!
+Max and Momo, new life starts!
+```
+
+---
+
+### **SCENE 6: Countdown Begins - Anticipation Building** (20 seconds)
+**Timing:** Verse 2 (1:44-2:04)
+
+#### Visual Description
+
+The village square's attention turns to the large decorated stage where a giant illuminated clock shows 11:55 PM - five minutes until midnight. The clock is ornate and beautiful, decorated with flowers and lights. Max and Momo climb onto the stage platform. Max picks up a microphone and begins leading the community in the countdown preparation. Villagers gather closer to the stage, families grouping together, children climbing onto parents' shoulders for a better view. The atmosphere shifts from playful to anticipatory - everyone getting ready for the big moment. People hold hands, put arms around loved ones. Some villagers hold small flags or noisemakers ready. The clock's minute hand moves visibly toward midnight. Excitement and anticipation build in everyone's faces.
+
+**Setting:** Village square stage with giant clock, crowd gathering
+**Mood:** Anticipation building, collective excitement, unity
+**Emotional Beat:** Community coming together for the big moment
+**Camera:** Stage view of clock, crowd shots, Max & Momo on stage
+**Lighting:** Clock illuminated brightly, stage lights, crowd lit from various lanterns
+**Song Section:** Verse 2 (Village people gather near...)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+Village square stage with GIANT ILLUMINATED CLOCK showing 11:55 PM (5 minutes to midnight). Max (boy, blue shirt) on stage with microphone, Momo (monkey) beside him. Large crowd gathered below stage in anticipation. COUNTDOWN PREPARATION. 3D Pixar style.
+
+Stage (center focus): Raised decorated platform with giant ornate clock (large, prominent, beautifully designed with flowers and lights wrapped around frame). Clock face clearly showing 11:55 PM with hands close to midnight. Max standing at front of stage holding microphone, speaking to crowd (mouth slightly open, leadership pose). Momo beside him looking out at crowd with excited expression.
+
+Clock Design (IMPORTANT): Large circular clock face (traditional analog), ornately decorated frame with garlands of flowers (marigolds, roses), string lights wrapped around, golden/brass finish. Numbers clearly visible. Minute hand pointing at 11, hour hand just before 12. Should be the focal point of the image - PROMINENT and BEAUTIFUL.
+
+Crowd Below Stage (dense gathering):
+- Families standing close together
+- Children on parents' shoulders for better view
+- Couples with arms around each other
+- Friends grouped together holding hands
+- Everyone looking up at stage/clock with anticipation
+- Diverse ages and ethnicities
+- Some holding small flags, noisemakers, or party items
+- Expressions of excitement and anticipation
+
+Stage Decorations: Flowers, lights, festive bunting, New Year banners in Tamil and English.
+
+Background: Village square with decorative lights, buildings on edges, night sky with some distant lanterns still visible.
+
+Lighting: Giant clock brightly illuminated (glowing face), stage lights highlighting Max and Momo, warm crowd lighting from lanterns and string lights, creating anticipatory atmosphere.
+
+Mood: ANTICIPATION BUILDING, excitement, unity, everyone waiting for big moment, collective breath held, countdown energy.
+
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Clock should be LARGE and PROMINENT - the visual anchor of this scene.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. ANTICIPATORY energy building to climax.
+
+Clock Reveal (5s): Camera pans up from crowd to reveal GIANT ILLUMINATED CLOCK on stage showing 11:55 PM. Clock is prominently featured - beautiful, glowing. Minute hand visibly ticks from 11:55 toward 11:56 (subtle but visible movement).
+
+Max Takes Stage (5s): Max walks to front of stage with Momo on shoulder, picks up microphone from stand, raises it to speak. Confident, leadership posture. Momo waves to crowd enthusiastically. Crowd cheers (implied through raised arms, clapping gestures).
+
+Crowd Gathering (6s): Various shots of villagers moving closer to stage:
+- Family with children - father lifts child onto shoulders
+- Elderly couple linking arms
+- Group of friends gathering together holding hands
+- Young couple putting arms around each other
+- Everyone moving toward stage, orienting attention upward
+
+Anticipation Building (8s):
+- Max gestures to clock, points upward (rallying crowd)
+- Momo jumps excitedly, pointing at clock
+- Crowd reactions - people looking at watches, checking time, smiling with anticipation
+- Children bouncing with excitement
+- Adults with loving smiles holding loved ones closer
+- Some people raising noisemakers/flags ready
+- Clock ticking: minute hand moves from 11:56 to 11:57 (visible progression)
+
+Camera Movement:
+- Pan up to reveal clock (dramatic)
+- Medium shot of Max and Momo on stage
+- Wide shots showing crowd gathering density
+- Close-ups on various faces showing anticipation
+- Return to clock showing time progressing (11:57... 11:58...)
+- Final shot: Wide view of stage with clock and gathered crowd
+
+Movement: BUILDING ENERGY - crowd gathering closer (convergent movement), Max's leadership gestures, Momo's excited bouncing, clock hands ticking, anticipatory body language throughout.
+
+Effects: Clock glow (bright illumination), stage lights, atmospheric anticipation (slight shimmer/glow), time ticking visualized.
+
+Pacing: BUILDING ANTICIPATION - starts moderate, energy gradually increasing, building toward countdown. Tension and excitement rising. This is the breath before the peak.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 11** (1:46-1:56):
+```
+கிராம மக்கள் வந்து கூடினார்,
+Village people gather near,
+```
+
+**Caption 12** (1:58-2:08):
+```
+கைகள் கோர்த்து, பாடல் பாடினார்!
+Holding hands without a fear!
+```
+
+---
+
+### **SCENE 7: Midnight Moment - New Year Arrives!** (22 seconds)
+**Timing:** Second Chorus (2:04-2:26)
+
+#### Visual Description
+
+The giant clock shows 11:59 PM. Max leads the crowd in the final countdown - "Ten! Nine! Eight!..." The entire community counts down together, voices unified. Children jump with each number. Momo bounces excitedly on Max's shoulder. At "THREE... TWO... ONE..." the clock strikes midnight with a magical chime. The moment midnight arrives, there's a stunning visual transformation: the sky bursts with the first fireworks, magical golden light washes over the crowd, confetti begins falling from above, and the stage lights change to brilliant celebratory colors. Max and Momo shout "HAPPY NEW YEAR!" into the microphone. The crowd erupts in cheers with arms raised, jumping, hugging. This is the MAGICAL CLIMAX - the exact moment the new year begins, captured in triumphant celebration.
+
+**Setting:** Village square stage, midnight transformation moment
+**Mood:** Triumphant celebration, magical climax, pure joy explosion
+**Emotional Beat:** The exact moment of transformation - new year arrives!
+**Camera:** Clock countdown, crowd reactions, midnight burst celebration
+**Lighting:** Magical transformation lighting - explosion of color and light
+**Song Section:** Second Chorus (New year brings us hope so bright!)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+MIDNIGHT TRANSFORMATION MOMENT. Giant clock striking 12:00 EXACTLY. Max (boy, blue shirt) and Momo (monkey) on stage shouting "HAPPY NEW YEAR!" into microphone. Crowd erupting in celebration. First fireworks BURSTING in sky. MAGICAL CLIMAX. 3D Pixar style.
+
+Clock (PROMINENT): Giant illuminated clock showing EXACTLY 12:00 MIDNIGHT - both hands pointing straight up at 12. Clock chiming (visual indication - glow effects, motion lines). Decorated with flowers and lights.
+
+Max & Momo (center stage, TRIUMPHANT):
+- Max holding microphone high, mouth open wide shouting "HAPPY NEW YEAR!"
+- Expression of pure joy and triumph
+- Free arm raised in celebration
+- Momo on shoulder with both arms raised high, mouth open in excited scream/cheer
+- Both faces showing MAXIMUM celebration energy
+
+Crowd (EXPLOSION OF JOY):
+- EVERYONE with arms raised high in air
+- Jumping, cheering (mouths open in celebration)
+- Confetti beginning to fall from above (colorful paper pieces in mid-air)
+- People hugging each other mid-celebration
+- Children jumping up and down with excitement
+- Noisemakers, flags being waved
+- Expressions of PURE JOY and TRIUMPH
+- Dense crowd, everyone celebrating simultaneously
+
+SKY TRANSFORMATION:
+- First fireworks bursting above (golden, red, blue bursts)
+- Magical golden light washing over scene
+- Sky transitioning from night to CELEBRATION MODE
+- Sparkles and magical effects everywhere
+
+Stage Effects:
+- Stage lights changing to brilliant celebratory colors (multi-colored beams)
+- Confetti cannons releasing (confetti streams visible)
+- Magical glow effects around Max and Momo
+- Energy waves suggesting the MOMENT of transformation
+
+Lighting: TRANSFORMATION LIGHTING - magical golden wash, firework bursts providing colorful light, stage lights in celebration mode (rainbow colors), confetti catching light, overall BRIGHT TRIUMPHANT atmosphere.
+
+Mood: TRIUMPHANT CLIMAX, pure joy explosion, magical transformation moment, collective celebration peak, NEW YEAR ARRIVES - maximum energy!
+
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. This is the PEAK MOMENT - maximum celebration, magic, and joy!
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. TRIUMPHANT CLIMAX - maximum celebration energy!
+
+Countdown Sequence (10s):
+(0-2s) Clock showing 11:59 PM. Crowd counting "TEN!" (everyone's mouths open on "ten")
+(2-4s) Clock hand moving. "NINE! EIGHT!" (crowd jumping with each number)
+(4-6s) "SEVEN! SIX! FIVE!" (Max leading with raised hand, Momo bouncing excitedly)
+(6-8s) "FOUR! THREE!" (anticipation building, everyone's eyes widening)
+(8-10s) "TWO! ONE!" (maximum anticipation, everyone taking breath to shout)
+
+MIDNIGHT TRANSFORMATION (8s):
+(10-11s) Clock strikes EXACTLY 12:00 - CHIME effect (clock glows, hands align at top)
+(11-13s) MAGICAL TRANSFORMATION - sky bursts with first fireworks (golden explosion), magical golden light washes over entire scene, stage lights change to brilliant colors
+(13-15s) Confetti cannons release - colorful confetti begins falling everywhere
+(15-16s) Max and Momo shout into microphone (mouths wide open): "HAPPY NEW YEAR!"
+(16-18s) Crowd ERUPTS - arms shoot up, people jump, begin hugging each other
+
+Celebration Explosion (6s):
+(18-20s) Wide shot showing ENTIRE CROWD celebrating - jumping, arm-waving, confetti falling, fireworks bursting
+(20-22s) Close-ups rapid cut: Children's joyful faces, couples hugging, elders smiling with tears of joy
+(22-24s) Return to Max and Momo on stage with arms raised triumphantly, crowd celebrating below, fireworks above
+
+Camera Movement:
+- Start close on clock face ticking
+- Pull back showing Max leading countdown
+- Quick cuts to different crowd members counting
+- Close on clock striking midnight (dramatic)
+- BURST OUT to wide shot capturing transformation
+- Dynamic celebration angles showing joy from multiple perspectives
+- Sweep up showing fireworks
+- End on triumphant wide shot of entire scene
+
+Effects (CRITICAL):
+- Clock chime (glow and visual bell effect)
+- Magical golden light wash (transformation moment)
+- Fireworks bursting (multiple colors, dynamic)
+- Confetti falling everywhere (multi-colored pieces)
+- Stage light change (rainbow beams)
+- Magical sparkles/shimmer throughout
+- Energy waves emanating from stage
+
+Movement: CLIMAX ENERGY - countdown builds (increasing intensity), EXPLOSIVE transformation at midnight, maximum celebration motion (jumping, arm-raising, confetti falling, fireworks bursting). This is the PEAK of the entire video!
+
+Pacing: BUILDING TO EXPLOSION - countdown builds tension → MASSIVE RELEASE at midnight → sustained celebration. Maximum emotional impact!
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 13** (2:06-2:16):
+```
+புது வருடம், நம்பிக்கை தரும்!
+New year brings us hope so bright!
+```
+
+**Caption 14** (2:18-2:28):
+```
+அன்பு நம்மை இணைக்கும்!
+Love will hold us all tonight!
+```
+
+---
+
+### **SCENE 8: Fireworks Explosion - Visual Celebration Peak** (24 seconds)
+**Timing:** Bridge (2:26-2:50)
+
+#### Visual Description
+
+The sky above the village explodes with a spectacular fireworks display. Multiple fireworks of different types burst simultaneously - chrysanthemum bursts, palm trees, crossettes, peonies - in vibrant colors: gold, red, blue, green, purple, white. The village square is illuminated by the constantly changing colorful light from above. Max and Momo stand together on the stage looking upward in wonder at the fireworks, silhouetted against the brilliant display. The crowd below watches with upturned faces, bathed in the colorful light. Some fireworks spell out "2025" and "HAPPY NEW YEAR" in sparkles. The reflection of fireworks dances across people's eyes. This scene is pure visual spectacle - the celebration visualized in light and color. Magical particles drift down like stardust.
+
+**Setting:** Village square under massive fireworks display
+**Mood:** Wonder, awe, spectacular beauty, celebration visualized
+**Emotional Beat:** Visual peak - beauty and magic of new beginnings
+**Camera:** Looking up at fireworks, crowd reactions, wide spectacular shots
+**Lighting:** Dynamic colorful lighting from continuous fireworks bursts
+**Song Section:** Bridge (Wishes soaring to the sky...)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+SPECTACULAR FIREWORKS DISPLAY over village square. Sky filled with multiple bursting fireworks in vibrant colors. Max and Momo on stage looking upward in wonder, silhouetted against brilliant display. Crowd below with upturned faces bathed in colorful light. VISUAL CELEBRATION PEAK. 3D Pixar style.
+
+Sky (DOMINANT FOCUS - 60% of frame):
+SPECTACULAR FIREWORKS DISPLAY - multiple types simultaneously:
+- Large chrysanthemum bursts (gold, red, blue)
+- Palm tree fireworks (streaming downward, green and white)
+- Crossette fireworks (splitting into multiple bursts, purple)
+- Peony fireworks (perfect spheres, various colors)
+- Sparkle fireworks spelling "2025" and "HAPPY NEW YEAR"
+- Various heights and sizes creating depth
+- Brilliant, vibrant, overlapping
+- Smoke trails visible
+- Magical particles drifting down like stardust
+
+Max & Momo (mid-frame, stage):
+- Standing together on stage
+- Max with arm around Momo
+- Both looking upward with faces tilted toward sky
+- Expressions of PURE WONDER and AWE
+- Silhouetted against fireworks but faces still visible
+- Colorful light from fireworks reflecting on their faces
+- Momo pointing up at a particularly beautiful burst
+
+Crowd (lower frame):
+- Dense gathering with ALL faces turned upward
+- Everyone looking at fireworks with awe
+- Faces illuminated by constantly changing colorful light (red, blue, gold, green reflections)
+- Firework reflections visible in eyes (detail)
+- Children on shoulders pointing
+- Arms raised toward sky
+- Expressions of wonder and joy
+- Some people with hands clasped in awe
+
+Village Setting:
+- Stage and square below
+- Buildings on edges also lit by fireworks
+- String lights and lanterns now secondary to firework light
+- Magical stardust particles drifting down throughout scene
+
+Lighting (DYNAMIC): Primary lighting from FIREWORKS - constantly changing colors washing over scene. Faces illuminated by red burst, then blue, then gold, then green (layered, magical). Spectacular color play. Reflections in eyes and on surfaces.
+
+Mood: AWE, spectacular beauty, celebration visualized in light and color, magic and wonder, visual feast, breathtaking.
+
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on SPECTACULAR FIREWORKS filling sky - this is the VISUAL PEAK!
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. SPECTACULAR visual celebration - continuous fireworks!
+
+Fireworks Sequence (continuous throughout, 24s):
+
+(0-6s) Opening Burst: Large golden chrysanthemum firework explodes center-sky. Streams expand outward beautifully. Camera tilts up following the burst. Crowd below reacts with "ooooh!" (implied through open mouths, pointing).
+
+(6-12s) Multiple Bursts: Three fireworks launch and burst simultaneously - one red (left), one blue (right), one green (center). Overlapping explosions creating color symphony. Max and Momo watching - heads moving following different bursts. Momo points excitedly at red one.
+
+(12-18s) Spectacular Spelling: Series of sparkle fireworks burst spelling "2025" across sky, then below it "HAPPY NEW YEAR" appears in golden sparkles. Letters form one by one (animated text formation). Crowd cheers (arms raising, jumping).
+
+(18-24s) Grand Finale Building: Multiple fireworks of all types bursting rapidly - palm trees, crossettes, peonies, chrysanthemums - filling entire sky with overlapping colors. Magical stardust particles drifting down. Max and Momo silhouetted against the spectacular display, standing close together in awe.
+
+Camera Movement:
+- Start looking up from ground level showing first burst
+- Tilt up following fireworks ascent
+- Pan across sky showing multiple simultaneous bursts
+- Close-up on Max & Momo's wonder-filled faces with fireworks reflecting in eyes
+- Wide shot showing full fireworks display over village (aerial perspective)
+- Sweep through crowd showing faces illuminated by changing colors
+- End on spectacular wide shot: full sky filled with fireworks, crowd below in awe
+
+Effects (CONTINUOUS AND CRITICAL):
+- Multiple fireworks bursting constantly (overlapping)
+- Color washes changing rapidly (red → blue → gold → green → purple)
+- Reflections on faces and surfaces
+- Sparkle text animation (2025, HAPPY NEW YEAR)
+- Magical stardust particles drifting down throughout
+- Smoke trails from fireworks
+- Light rays and glow effects
+- Atmosphere illuminated by colorful explosions
+
+Movement: CONTINUOUS SPECTACLE - always something bursting, changing colors, ascending, exploding. Crowd's heads moving following different fireworks. Constant visual motion and transformation.
+
+Lighting: DYNAMIC COLORFUL - lighting changes with every burst. Scene continuously re-illuminated in different colors. Magical, spectacular, never static.
+
+Pacing: SUSTAINED SPECTACLE - constant beauty, continuous wow moments, building to even more spectacular finale display. This is pure visual celebration!
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 15** (2:28-2:38):
+```
+விண்ணில் வாழ்த்துக்கள் பறக்கும்,
+Wishes soaring to the sky,
+```
+
+**Caption 16** (2:40-2:50):
+```
+ஒவ்வொரு இதயமும் நம்புகிறது!
+Every heart believes we'll fly!
+```
+
+---
+
+### **SCENE 9: Hugs and Celebrations - Love Spreading** (20 seconds)
+**Timing:** Final Chorus Start (2:50-3:10)
+
+#### Visual Description
+
+As the fireworks continue to burst overhead (now more spaced out, ongoing celebration), the focus shifts to the community celebrating with each other. The scene shows beautiful moments of human connection: families hugging, children being lifted and spun around by parents, elderly couples dancing slowly together, friends group-hugging, a grandmother kissing her grandchild's forehead, young people laughing and cheering together. Max and Momo move through the crowd, giving hugs and high-fives to everyone they pass. Momo rides on different people's shoulders, spreading joy. Everyone is saying "Happy New Year!" to each other (implied through mouth movements and happy expressions). Confetti still falls gently. The mood is warm love and community connection - celebration through human bonds.
+
+**Setting:** Village square, crowd-level human interactions
+**Mood:** Love spreading, warm connections, community bonds, joy shared
+**Emotional Beat:** Celebration expressed through love and togetherness
+**Camera:** Close intimate shots, moving through crowd, capturing connections
+**Lighting:** Warm festive lighting, occasional firework bursts adding color
+**Song Section:** Final Chorus (New year brings us hope so bright!)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+Village square filled with people HUGGING, celebrating together, spreading love. Multiple groups showing warm human connections. Max and Momo moving through crowd giving hugs. Fireworks still bursting in background. LOVE SPREADING. 3D Pixar style.
+
+Multiple Celebration Vignettes (throughout frame):
+
+FOREGROUND - Max & Momo Spreading Joy:
+- Max hugging an elderly woman warmly
+- Momo on shoulder of a child, both with arms raised happily
+- Max giving high-five to young boy
+- Expressions of warmth and connection
+
+MID-GROUND - Family Connections:
+- Father lifting young daughter in air, spinning her (mid-spin motion, girl laughing)
+- Mother hugging two children close, kissing one's head
+- Grandfather and grandmother slow dancing together (arms around each other, gentle smiles)
+- Three generations group hug (grandparents, parents, children all together)
+
+BACKGROUND - Community Joy:
+- Group of young people in group hug (arms all around each other)
+- Friends laughing and cheering together
+- Couples embracing
+- Elderly man shaking hands warmly with neighbor
+- Children giving each other celebratory hugs
+
+Throughout Scene:
+- Confetti still gently falling (colorful paper pieces in air)
+- Everyone in colorful festive clothing
+- Happy expressions, tears of joy on some faces
+- Mouth movements suggesting "Happy New Year!" being said
+- Diverse ages, ethnicities, body types
+- Natural, warm, loving interactions
+
+Background:
+- Village square with decorations
+- Sky with occasional firework bursts (not as intense as previous scene, ongoing)
+- Warm festive lighting throughout
+
+Lighting: WARM and INTIMATE - golden hour quality despite being night (magical festival lighting), occasional colorful washes from fireworks, emphasis on faces illuminated with love and joy. Soft, warm, inviting.
+
+Mood: LOVE SPREADING, warm human connection, community bonds, celebration through togetherness, joy shared person-to-person, family warmth, friendship, generational love.
+
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. Emphasis on HUMAN CONNECTIONS and LOVE - this is the heart of celebration!
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. WARM, loving celebration - human connections.
+
+Max & Momo's Journey (8s):
+(0-3s) Max approaches elderly woman with open arms, they embrace warmly. Woman pats his back affectionately. Momo waves from Max's shoulder.
+(3-5s) Max gives enthusiastic high-five to young boy. Momo jumps to boy's shoulder. Boy laughs with delight.
+(5-8s) Max and Momo continue walking through crowd, waving and greeting people. Everyone they pass lights up with joy.
+
+Family Celebration Moments (10s):
+(8-11s) Father lifts daughter into air and SPINS her around (full rotation, girl's arms spread wide, laughing). Sets her down, she hugs his legs.
+(11-14s) Mother kneels with two children, pulls them into warm embrace, kisses one child's forehead. All three smiling with pure love.
+(14-18s) Elderly couple slow dancing - gentle sway, looking into each other's eyes with lifetime of love. Gentle turns, hands clasped, foreheads touching briefly.
+
+Community Connection Moments (6s):
+(18-20s) Group of 5 young people in group hug - arms all around each other, jumping together in celebration, laughing.
+(20-22s) Three-generation family group hug - grandparents, parents, children all embracing together. Grandmother has happy tears.
+(22-24s) Wide shot showing ALL these interactions happening simultaneously throughout square - community of love in motion.
+
+Camera Movement:
+- Follow Max and Momo walking through crowd (steadicam style)
+- Close intimate shots on each hug/connection (emotional beats)
+- Gentle movements capturing tenderness
+- Circles around dancing couple
+- Pulls back to show multiple celebrations happening at once
+- Ends on wide warm shot of loving community
+
+Movement: WARM and NATURAL - genuine hugs (bodies actually making contact, arms wrapping), real spinning (full rotation), gentle dancing (slow sway), natural loving gestures. Not rushed - time for each connection to feel real and emotional.
+
+Effects: Confetti gently falling throughout (slow descent), occasional firework burst in background adding colorful light wash, warm glow effects emphasizing love, possible soft sparkles around particularly tender moments.
+
+Pacing: WARM and CONNECTED - time for each hug to land emotionally, natural rhythm of human connection, not rushed. This is about FEELING the love and community, not just seeing it. Tender and joyful.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 17** (2:52-3:02):
+```
+மகிழ்ச்சி நெஞ்சில் பூக்கும்!
+Happiness blooms in our hearts!
+```
+
+**Caption 18** (3:04-3:14):
+```
+மேக்ஸ் மோமோ, நட்பு வாழ்த்தும்!
+Max and Momo, new life starts!
+```
+
+---
+
+### **SCENE 10: Max & Momo Tender Moment - Heart of Friendship** (20 seconds)
+**Timing:** Final Chorus Peak (3:10-3:30)
+
+#### Visual Description
+
+Amid all the celebration happening around them, Max and Momo find each other in the crowd. The world seems to slow down around them as they have a tender best-friend moment. Max extends his arms and Momo jumps into them for a warm embrace. They hug tightly - Max's arms wrapped around Momo, Momo's arms around Max's neck. Both have eyes closed with genuine love and happiness. They pull back and look at each other, touching foreheads gently in a moment of deep friendship and shared joy. Momo puts both paws on Max's cheeks affectionately. Max smiles with tears of happy joy. Around them, the celebration continues (slightly blurred/soft focus), fireworks still bursting in the sky, confetti falling, but THEY are the sharp focus - the heart of the story. Their friendship is the foundation of all this happiness.
+
+**Setting:** Village square, amid celebration, focused on Max & Momo
+**Mood:** Tender love, deep friendship, emotional heart, genuine connection
+**Emotional Beat:** The emotional core - friendship is the foundation of happiness
+**Camera:** Close intimate focus on Max & Momo, soft focus background
+**Lighting:** Soft warm spotlight effect on them, magical glow, backlit by fireworks
+**Song Section:** Final Chorus peak (Together we will stand!)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+CLOSE INTIMATE MOMENT: Max (boy, blue shirt) and Momo (brown/orange monkey) in WARM EMBRACE, foreheads touching. SHARP FOCUS on them. Background celebration softly blurred. Fireworks, confetti, celebrating people in soft focus behind. EMOTIONAL HEART OF STORY. 3D Pixar style.
+
+Max & Momo (CENTER FOCUS - crystal clear):
+- Max holding Momo close in warm embrace
+- Momo's arms around Max's neck
+- Foreheads touching gently (tender moment)
+- Both with eyes closed, serene loving expressions
+- Momo's paws on Max's cheeks (affectionate gesture)
+- Max has single tear of joy on cheek
+- Both faces showing PURE LOVE and HAPPINESS
+- Genuine emotional connection visible
+- Soft magical glow around them (spotlight effect)
+
+They should be IN SHARP FOCUS while background is slightly blurred (depth of field effect) - they are THE FOCUS, everything else is context.
+
+Background (SOFT FOCUS/BLURRED):
+- Celebrating people (movement blurred)
+- Fireworks bursting in sky (beautiful but soft)
+- Confetti falling (gentle blur)
+- Festive lights (bokeh effect)
+- Village square (atmospheric presence)
+- All the celebration continuing, but THEY are the story
+
+Lighting Effects:
+- Soft SPOTLIGHT effect on Max & Momo (warm golden light)
+- Magical glow surrounding them (emphasizing they're the heart)
+- Backlit by fireworks (rim lighting, creating halo effect)
+- Warm intimate lighting on their faces
+- Bokeh effects from background lights
+- Dreamlike quality while still being real
+
+Color Palette: WARM - golden light, soft oranges, tender pinks, loving warmth. Background can have celebration colors but muted (soft focus). They are lit with WARM LOVING LIGHT.
+
+Mood: TENDER FRIENDSHIP LOVE, emotional heart of story, genuine connection, best friends, foundation of happiness, tears of joy, pure love, the FEELING at the center of all celebration.
+
+Composition: Max & Momo filling center/majority of frame (close shot), background providing context but not competing for attention. Depth of field creates separation.
+
+16:9 horizontal aspect ratio. Ultra detailed on Max & Momo (every emotion visible), Disney/Pixar quality. This is the EMOTIONAL CLIMAX - the heart of the entire video. Friendship is everything.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. TENDER, emotional friendship moment - the heart of the story.
+
+Finding Each Other (5s):
+(0-2s) Max looking around through crowd, searching. Camera on his face (gentle, seeking expression).
+(2-4s) Momo spots Max from across the crowd, eyes light up with recognition and love.
+(4-5s) They make eye contact through the celebrating crowd. Time seems to slow. World fades around them slightly (soft focus begins on background).
+
+The Embrace (8s):
+(5-7s) Max extends arms open wide (welcoming, loving gesture). Momo runs/bounds toward him.
+(7-9s) Momo JUMPS into Max's arms. Max catches him, pulls him close into WARM EMBRACE. Arms wrapping tightly. Background goes SOFT FOCUS.
+(9-11s) They hug tightly - Max's arms secure around Momo, Momo's arms around Max's neck. Both eyes closing with contentment and love. Gentle rocking motion of comfort.
+(11-13s) Soft magical glow appears around them (spotlight effect). They are THE FOCUS, celebration continues around them (blurred motion).
+
+Tender Moment (7s):
+(13-15s) They pull back slightly from hug but stay close. Look at each other with deep affection and joy.
+(15-17s) Move foreheads together gently until touching (tender connection). Both close eyes again. Peaceful loving expressions.
+(17-19s) Momo brings both paws up to Max's cheeks, holding his face affectionately.
+(19-20s) Max smiles with eyes still closed, single tear of happy joy rolls down cheek.
+
+Resolution (4s):
+(20-22s) They open eyes and smile at each other - pure love and happiness. Understanding and gratitude visible.
+(22-24s) Camera slowly pulls back slightly, but they remain in focus. Background celebration becomes slightly clearer again but they're still THE heart. Final shot: Max and Momo together, foreheads still touching, amid beautiful celebration.
+
+Camera Movement:
+- Start with searching shots (medium close-ups)
+- Move to connection moment (showing both)
+- CLOSE IN during embrace (intimate framing)
+- HOLD CLOSE during tender moments (let emotions breathe)
+- Minimal movement during forehead touch (stillness = emotional weight)
+- Slight pull back for resolution (but maintain intimacy)
+
+Effects:
+- Soft focus on background begins as they embrace (depth of field)
+- Magical warm glow around them (gentle spotlight)
+- Backlight from fireworks creating soft halo
+- Everything else slightly fades (not gone, just secondary)
+- Single tear animation (catching light)
+- Time-slowing effect (background moves slower)
+
+Movement: TENDER and SLOW - this is not rushed. Every gesture has weight and meaning. The hug is REAL (bodies making contact, settling into embrace). Gentle rocking. Slow forehead touch. Minimal movement allows EMOTION to be the action.
+
+Pacing: SLOW, TENDER, EMOTIONAL - Let every moment BREATHE. This is where the video's heart lives. The celebration around them provides energy, but THIS moment provides MEANING. Time slows for love.
+
+CRITICAL: Background MUST go to soft focus during embrace to make Max & Momo the clear emotional focus. They are THE STORY.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 19** (3:12-3:22):
+```
+ஒன்றாய் நாம் இருப்போம்!
+Together we will stand!
+```
+
+**Caption 20** (3:24-3:34):
+```
+நம்பிக்கை! அன்பு! மகிழ்ச்சி!
+Hope! Love! Happiness!
+```
+
+---
+
+### **SCENE 11: Community Peace and Hope - Hopeful Ending** (20 seconds)
+**Timing:** Outro (3:30-3:50)
+
+#### Visual Description
+
+The celebration has reached a peaceful, happy resolution. The scene opens with a beautiful aerial view slowly pulling back from the village square. Below, the community is in a state of joyful peace - some people still dancing slowly, families sitting together sharing snacks, children playing gently, elderly couples on benches watching with satisfaction, Max and Momo sitting together on the stage edge with their arms around each other looking out at their happy community. The last few fireworks burst gently in the sky. Lanterns still glow throughout the square. The first light of dawn begins to touch the horizon - symbolizing the literal new day, new year, new beginning. Stars still visible above begin to fade as the sky lightens very subtly. The camera continues pulling back until we see the entire village bathed in warm light, peaceful and full of hope. Final shot: The village at dawn, a new year, a new beginning, hope alive.
+
+**Setting:** Village square transitioning to peaceful celebration, dawn approaching
+**Mood:** Peaceful joy, satisfaction, hope for future, new beginnings, contentment
+**Emotional Beat:** Resolution - hopeful new beginning, dreams ahead, peace
+**Camera:** Aerial pullback from intimate to expansive, showing full community
+**Lighting:** Transition from night celebration to first dawn light, warm and hopeful
+**Song Section:** Outro (New year... dreams come true!)
+
+---
+
+#### Image Generation Prompt (Leonardo.ai)
+
+```
+AERIAL VIEW of entire village at dawn after New Year celebration. Peaceful, happy community. First light touching horizon. Max and Momo sitting together on stage edge. Families throughout square in peaceful celebration. HOPEFUL NEW BEGINNING. 3D Pixar style.
+
+Composition (Aerial Perspective - slightly pulled back):
+
+Sky (Upper 40% of frame):
+- Deep night blue gradually transitioning to soft purple-pink-orange at horizon (first dawn light)
+- Last few gentle fireworks (small, peaceful bursts - not intense)
+- Stars still visible but beginning to fade
+- Magical dawn quality - new day literally beginning
+- Soft clouds catching first light
+
+Village Square (Center focus):
+Max & Momo (small but identifiable center):
+- Sitting together on stage edge, arms around each other
+- Looking out at their community with satisfaction and hope
+- Peaceful, content postures
+
+Community in Peaceful Celebration (throughout square):
+- Small groups dancing slowly together
+- Families sitting on blankets sharing food/snacks
+- Children playing gently (not wild, peaceful play)
+- Elderly couples on benches holding hands, watching peacefully
+- People in small conversation groups
+- Everyone relaxed, happy, content
+- Still some movement but PEACEFUL energy
+
+Decorations and Lighting:
+- Lanterns still glowing (warm lights throughout)
+- String lights still lit
+- Stage decorations
+- Confetti scattered on ground (gentle aftermath)
+- Everything bathed in WARM GLOW
+
+Village (Expanding view):
+- Buildings around square
+- Trees
+- Homes with lights
+- Roads leading outward
+- Sense of FULL COMMUNITY visible
+
+Horizon (Background):
+- First light of dawn touching horizon
+- Village in context of larger world
+- Hopeful new day beginning
+
+Lighting: TRANSITIONAL MAGIC - night celebration lights (lanterns, string lights) still glowing PLUS first dawn light beginning to add warmth. Warm golden-orange touching horizon. Sky lightening very subtly. Everything bathed in hopeful, peaceful, warm light. New beginning literally illuminated.
+
+Color Palette: Warm oranges, soft pinks, deep night blues transitioning to lighter blues, golden glows, hopeful warm tones.
+
+Mood: PEACEFUL HOPE, satisfaction, new beginning, contentment, community joy (gentle, not wild), dreams for future, new year optimism, beauty of togetherness, dawn of new possibilities.
+
+Camera Angle: Aerial view (high angle, pulled back enough to see full village square and surrounding area). Wide enough to show community as whole, but detailed enough to see individuals and their peaceful joy.
+
+16:9 horizontal aspect ratio. Ultra detailed, Disney/Pixar quality. This is HOPEFUL RESOLUTION - beautiful, peaceful, full of promise for the future. New year has arrived, and everything is full of hope.
+```
+
+---
+
+#### Animation Prompt (MiniMax Hailuo)
+
+```
+MINIMUM 24 seconds duration. PEACEFUL RESOLUTION - hopeful new beginning.
+
+Opening (6s):
+(0-2s) Close shot of Max and Momo sitting on stage edge, arms around each other, looking out at their community. Peaceful, satisfied smiles. Gentle breathing together.
+(2-4s) Their POV: Looking out at peaceful celebration - people dancing slowly, families together, children playing gently.
+(4-6s) Return to Max & Momo - they look at each other and smile with deep contentment and hope. Momo leans head on Max's shoulder.
+
+Aerial Pullback (12s) - CONTINUOUS SLOW MOVEMENT:
+(6-8s) Camera begins pulling back and UP. Still relatively close - we see Max & Momo on stage, small groups around them celebrating peacefully.
+(8-11s) Camera continues rising and pulling back - more of square visible. Multiple family groups, dancers, peaceful activities all visible. Lanterns glowing throughout.
+(11-13s) Camera higher still - full square visible with all celebration, surrounding buildings, decorated village coming into view.
+(13-15s) Wide aerial view - entire village visible in frame, roads leading outward, sense of full community.
+(15-18s) Camera still pulling back slowly - village in context, surrounding landscape visible, horizon with first dawn light prominent.
+
+Sky Transition (throughout pullback):
+- Last gentle fireworks burst (6s mark)
+- Stars gradually, subtly fading
+- Sky very slowly lightening at horizon
+- Dawn colors (soft purple-pink-orange) growing
+- Magical peaceful transition
+
+Community Activities (visible during pullback):
+- Couples slow dancing (gentle sway)
+- Family sitting on blanket passing food
+- Children running gently in circle game
+- Elderly couple on bench holding hands, watching
+- Small groups in conversation
+- Everyone peaceful, content, joyful (not wild energy - satisfied peace)
+
+Final Resolution (6s):
+(18-20s) Maximum pullback - full village visible bathed in warm dawn light. Beautiful peaceful community. New day beginning.
+(20-22s) Sky continues subtle lightening. First rays of dawn touching village.
+(22-24s) Hold on beautiful wide shot. Everything peaceful, hopeful, full of promise. Slow fade to gentle warm glow.
+
+Camera Movement: CONTINUOUS SLOW PULLBACK AND RISE - smooth, gentle, no jarring movements. Starts intimate (Max & Momo close), ends expansive (full village). Like breathing out - releasing into peace and hope. Movement should feel like opening up to possibilities.
+
+Effects:
+- Sky gradual lightening (subtle, realistic dawn transition)
+- Lantern glows (warm, constant)
+- Last firework gentle bursts
+- Stars fading (gradual, subtle)
+- Dawn light rays (soft, first sun touching horizon)
+- Warm overall glow increasing as dawn arrives
+- Magical peaceful atmosphere throughout
+
+Movement: PEACEFUL, GENTLE - slow dancing, relaxed play, peaceful gestures, content stillness. Camera movement is smoothest element (gliding pullback).
+
+Lighting: TRANSITIONAL - night celebration lights gradually joined by dawn light. Warm throughout. Everything bathed in hope and new beginning light.
+
+Pacing: SLOW, PEACEFUL, RESOLVING - this is the breath after celebration. Contentment. Peace. Hope. Let the beauty and peace settle. Give viewer time to feel the hope for new year, new beginning. Ends on beauty and promise.
+
+FINAL IMAGE: Peaceful, hopeful community at dawn. New year. New beginning. Everything is full of hope.
+```
+
+---
+
+#### Dual-Language Captions
+
+**Caption 21** (3:32-3:42):
+```
+புது வருடம்... கனவுகள் நனவாகும்!
+New year... dreams come true!
+```
+
+**Caption 22** (3:44-3:54):
+```
+💝 Happy New Year! புத்தாண்டு வாழ்த்துக்கள்! 🌟
+```
 
 ---
 
@@ -622,7 +1538,7 @@ New Year songs for kids, Happy New Year, kids New Year music, Tamil New Year son
 ### Step 3: Generate Scene Images (Leonardo.ai)
 1. Use Max & Momo character references for consistency
 2. Generate Scene 1-11 images using detailed prompts
-3. 9:16 vertical aspect ratio for all
+3. 16:9 horizontal aspect ratio for all
 4. Verify progression: Scenes 1-2 (anticipation), Scenes 3-5 (community gathering), Scenes 6-8 (midnight celebration), Scenes 9-11 (love and resolution)
 5. Ensure warm, hopeful colors and magical atmosphere
 
