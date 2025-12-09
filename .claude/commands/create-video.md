@@ -68,6 +68,74 @@ Extract and set defaults:
 
 ---
 
+## Step 1.5: Aathichudi Series Special Requirements
+
+**IMPORTANT:** If the idea mentions "Aathichudi" or this is part of the Aathichudi series, apply these additional requirements:
+
+### Aathichudi Series Standards:
+
+1. **Character Names (CRITICAL):**
+   - **Mayuri the Peacock** - Primary character (formerly "Kavi" in other series)
+   - **Guru the Owl** - Wise mentor (formerly "Vidhya" in other series)
+   - Use existing references from Episodes 4-8 (Mayuri) and Episodes 5, 7, 8 (Guru)
+
+2. **Aspect Ratio:**
+   - **16:9 LANDSCAPE format** (1920x1080)
+   - NOT 9:16 vertical - this is critical for Aathichudi series
+   - All image prompts must specify "16:9 landscape format"
+   - All image prompts must specify "16:9 aspect ratio"
+
+3. **Scene Count:**
+   - **15-16 scenes** (more than standard 12 scenes)
+   - Creates more engaging, deeper story for moral lessons
+   - Allows better pacing and character development
+
+4. **Story Structure:**
+   - Must demonstrate the Aathichudi moral clearly through action
+   - Include moral dilemma or challenge
+   - Show consequences and resolution
+   - End with wisdom and lesson learned
+   - Include Guru's teaching moment(s)
+
+5. **Dialogue Output:**
+   - Create separate dialogue-only document
+   - Format: Character name + dialogue in both Tamil and English
+   - Include voice direction notes
+   - Example filename: `aathichudi-ep#-dialogues-only.md`
+
+6. **Validation:**
+   - Run full validation following Episode 8 standards
+   - Check all 9 validation categories
+   - Ensure no repeated image prompts
+   - Verify 16:9 landscape specified in ALL image prompts
+   - Create validation report document
+   - Example filename: `aathichudi-ep#-validation-report.md`
+
+7. **Series Continuity:**
+   - Reference previous episode numbers
+   - Maintain character consistency
+   - Follow established series format
+   - Use same moral teaching structure
+
+8. **Required Outputs:**
+   - Main episode file with all 15-16 scenes (Steps 1-3)
+   - Separate dialogue document
+   - Validation report
+   - All files follow naming: `aathichudi-ep#-[description].md`
+
+### Validation Checklist for Aathichudi:
+
+Before proceeding to Step 2, verify:
+- ✅ Character names are "Mayuri" and "Guru" (not Kavi/Vidhya)
+- ✅ 16:9 LANDSCAPE specified (not 9:16 vertical)
+- ✅ Planning for 15-16 scenes (not 12)
+- ✅ Separate dialogue output planned
+- ✅ Validation report planned
+
+**If any Aathichudi requirements not met, STOP and clarify with user.**
+
+---
+
 ## Step 2: Analyze Idea and Recommend Format
 
 Based on the parsed idea, analyze and recommend whether this should be a **drama** or **song**.
