@@ -120,7 +120,24 @@ All image generation prompts include:
 - ✅ "3D Pixar style" - All 11 scenes
 - ✅ "Disney/Pixar quality" - All 11 scenes
 
-### 9. Story Arc Flow ✅
+### 9. Music Cues Validation ✅
+
+**Music Structure**: One continuous 3:30 song with scene-specific cues
+
+All scenes have individual music cues documented:
+- ✅ Instrumentation details per scene - All 11 scenes
+- ✅ Tempo specifications per scene - All 11 scenes
+- ✅ Vocal arrangement per scene - All 11 scenes
+- ✅ Mood and volume levels per scene - All 11 scenes
+- ✅ Special audio effects per scene - All 11 scenes
+- ✅ Lyrics timing synchronized - All 11 scenes
+- ✅ Audio cue markers for transitions - All scene boundaries
+- ✅ Dynamic range mapped (6/10 → 10/10 → fade)
+- ✅ Tempo progression mapped (100 BPM → 135 BPM → 100 BPM)
+
+**Music Cues Document**: `max-momo-new-year-music-cues.md` (Complete)
+
+### 10. Story Arc Flow ✅
 
 The 11 scenes follow the intended story progression:
 1. ✅ Evening anticipation (Scene 1)
