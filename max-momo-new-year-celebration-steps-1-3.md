@@ -23,11 +23,11 @@
 - Visual hook: Fireworks, celebrations, and magical moments of hope
 
 **Suitability for Universal Audience:**
-- ✅ Uplifting, positive tempo (120-140 BPM - celebratory but not frantic)
-- ✅ Warm, joyful vocals (children's choir with adult harmonies)
+- ✅ Fast, exciting tempo (160-180 BPM - peppy and energetic like countdown excitement!)
+- ✅ HIGH-energy, bright children's voices with enthusiastic delivery
 - ✅ Simple, memorable structure (easy to sing along)
 - ✅ Universal themes: hope, new beginnings, love, happiness, togetherness
-- ✅ No age restrictions - inspiring for all ages
+- ✅ No age restrictions - thrilling for all ages
 - ✅ Culturally inclusive message
 
 ---
@@ -95,9 +95,9 @@
 
 **STRUCTURE:** Intro → Verse 1 → Chorus → Verse 2 → Chorus → Bridge → Final Chorus → Outro
 
-**TEMPO:** 120-140 BPM (Uplifting, celebratory but not frantic)
-**VOCAL STYLE:** Children's choir with warm adult harmonies, joyful, hopeful
-**INSTRUMENTATION:** Piano, bells, strings, gentle drums, magical shimmer effects
+**TEMPO:** 160-180 BPM (Fast, exciting, high-energy like countdown excitement!)
+**VOCAL STYLE:** HIGH-energy children's choir with bright, enthusiastic delivery, adult harmonies for power
+**INSTRUMENTATION:** Energetic piano, prominent bells, driving strings, upbeat drums, magical shimmer effects, celebration horns
 
 ---
 
@@ -237,21 +237,21 @@ New year... dreams come true!
 **Copy and paste this into Suno:**
 
 ```
-Create an uplifting, heartwarming New Year celebration song for all ages with hopeful, joyful energy (120-140 BPM). Warm children's choir vocals with gentle adult harmonies singing with sincerity and hope. Clear, bright vocals that inspire optimism.
+Create a FAST, EXCITING, HIGH-ENERGY New Year celebration song for all ages (160-180 BPM - like countdown excitement!). Bright, enthusiastic children's choir with powerful adult harmonies. Think party energy, celebration countdown, fireworks bursting - PEPPY and THRILLING!
 
-Rhythm: Steady celebratory beat with gentle build from reflective beginning to joyful climax. Start gentle with anticipation, build to full celebration.
+Rhythm: FAST, driving beat from start. Energetic, upbeat, exciting tempo throughout. Like a celebration countdown building to midnight! Quick, peppy, makes you want to dance and jump with joy!
 
-Instrumentation: Piano (warm, melodic), gentle bells (festive shimmer), orchestral strings (emotional depth), soft percussion (celebratory but not overwhelming), magical shimmer effects (hope and wonder). Fireworks sound accents during climax.
+Instrumentation: Energetic piano (bright, bouncy), PROMINENT bells (ringing celebration), driving orchestral strings, UPBEAT drums (strong beat), celebration horns/brass (triumphant), magical shimmer effects, fireworks bursts. Full orchestral power!
 
-Vocals: Children's choir in warm, hopeful register with clear diction. Adult harmonies providing depth and warmth. Occasional solo child voice for emotional moments. Full choir power on chorus sections.
+Vocals: HIGH-ENERGY children's choir - bright, enthusiastic, excited delivery! Powerful adult harmonies. Clear, strong diction. Full choir power throughout. EXCITING and JOYFUL - pure celebration energy!
 
-Mood: Hopeful, loving, joyful, inspiring. New beginnings, optimism, community warmth, heartfelt celebration. Emotional but uplifting - brings tears of joy.
+Mood: EXCITING, energetic, joyful, THRILLING! New Year countdown energy, fireworks bursting, party celebration, pure happiness! High-energy celebration from start to finish!
 
-Style: Modern inspirational kids music meets Disney emotional depth, universal appeal, family-friendly. Think Pixar movie ending energy - heartwarming and triumphant.
+Style: Modern HIGH-ENERGY kids celebration music. Think New Year's Eve countdown party energy, fireworks spectacular, maximum excitement! Fast-paced like "Carol of the Bells" energy but for New Year! Disney/Pixar at peak celebration moments!
 
-Language: Bilingual Tamil and English lyrics (alternating verses, matched emotional delivery). Build from gentle hopeful opening through joyful verses to TRIUMPHANT final chorus with full choir, orchestral swell, fireworks accents, maximum celebration. End with peaceful, hopeful fade with twinkling bells.
+Language: Bilingual Tamil and English lyrics (alternating verses, enthusiastic delivery). Start with EXCITING energy, build through verses to MAXIMUM CELEBRATION at midnight moment. Full choir, orchestral power, fireworks, horns, bells - PEAK ENERGY! End with triumphant, hopeful fade.
 
-Energy level: 7/10 - uplifting and celebratory but warm, not frantic. This is heartwarming hope!
+Energy level: 9/10 - HIGH-ENERGY, peppy, exciting, thrilling! This is CELEBRATION PARTY MODE!
 ```
 
 ---

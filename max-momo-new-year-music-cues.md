@@ -12,12 +12,12 @@
 **Song Section**: INTRO (8 seconds of music)
 
 **Musical Elements**:
-- 🎹 **Instrumentation**: Gentle piano opening with soft bell chimes
-- 🎵 **Tempo**: Slow build (100 BPM starting, gradually building to 120 BPM)
-- 🎤 **Vocals**: Children's choir - soft, anticipatory tone
-- 🎶 **Mood**: Peaceful, hopeful, building anticipation
-- 🔊 **Volume**: Medium-soft (6/10)
-- ✨ **Special Effects**: Bell shimmer, gentle strings fade-in
+- 🎹 **Instrumentation**: Energetic piano opening with bright bell chimes
+- 🎵 **Tempo**: Fast start (140 BPM starting, quickly building to 160 BPM)
+- 🎤 **Vocals**: Children's choir - bright, excited, anticipatory tone
+- 🎶 **Mood**: Exciting, hopeful, building anticipation with energy
+- 🔊 **Volume**: Medium (7/10) - starting with punch
+- ✨ **Special Effects**: Bright bell shimmer, energetic strings entrance
 
 **Lyrics Timing**:
 - 0:00-0:08: Intro instrumental
@@ -31,12 +31,12 @@
 **Song Section**: VERSE 1 - Start (24 seconds)
 
 **Musical Elements**:
-- 🎹 **Instrumentation**: Piano continues, strings join (warm orchestral), gentle drums enter
-- 🎵 **Tempo**: Steady 120 BPM (settled into rhythm)
-- 🎤 **Vocals**: Solo child voice (verse lead) with light harmonies
-- 🎶 **Mood**: Welcoming, community gathering, warm invitation
-- 🔊 **Volume**: Medium (7/10) - building energy
-- ✨ **Special Effects**: Soft string swells, occasional bell accents
+- 🎹 **Instrumentation**: Piano continues energetically, strings join (bright orchestral), upbeat drums enter
+- 🎵 **Tempo**: Fast steady 160 BPM (locked into exciting rhythm)
+- 🎤 **Vocals**: Solo child voice (verse lead, enthusiastic) with bright harmonies
+- 🎶 **Mood**: Exciting, community gathering with energy, lively invitation
+- 🔊 **Volume**: Medium-high (7.5/10) - energetic and building
+- ✨ **Special Effects**: Bright string accents, prominent bell punctuation
 
 **Lyrics Timing**:
 - 0:20-0:32: Tamil verse ("மேக்ஸும் மோமோவும் இரவில் நின்றார்...")
@@ -50,12 +50,12 @@
 **Song Section**: VERSE 1 - End (20 seconds)
 
 **Musical Elements**:
-- 🎹 **Instrumentation**: Full arrangement - piano, strings, drums, gentle bells
-- 🎵 **Tempo**: Steady 120 BPM (maintained)
-- 🎤 **Vocals**: Child solo building emotion, harmonies growing
-- 🎶 **Mood**: Hopeful, emotional depth increasing, preparing for chorus
-- 🔊 **Volume**: Building to 8/10
-- ✨ **Special Effects**: String crescendo, magical shimmer sounds (wishes rising)
+- 🎹 **Instrumentation**: Full energetic arrangement - piano, strings, drums, bright bells
+- 🎵 **Tempo**: Fast steady 160 BPM (maintained with energy)
+- 🎤 **Vocals**: Child solo with exciting emotion, harmonies growing powerfully
+- 🎶 **Mood**: Excited, hopeful, emotional energy increasing, preparing for chorus surge
+- 🔊 **Volume**: Building to 8.5/10
+- ✨ **Special Effects**: Bright string crescendo, magical shimmer sounds (wishes rising energetically)
 
 **Lyrics Timing**:
 - 0:42-0:52: Tamil ("பழைய வருடம் போகும், புதிதாய் வரும்...")
@@ -69,19 +69,19 @@
 **Song Section**: FIRST CHORUS (20 seconds)
 
 **Musical Elements**:
-- 🎹 **Instrumentation**: FULL ORCHESTRATION - all instruments at peak
-- 🎵 **Tempo**: Full celebratory 130 BPM (slight tempo lift for chorus energy)
-- 🎤 **Vocals**: FULL CHILDREN'S CHOIR + adult harmonies (maximum vocal power)
-- 🎶 **Mood**: TRIUMPHANT, hopeful, collective celebration
-- 🔊 **Volume**: Peak (9/10) - first emotional climax
-- ✨ **Special Effects**: Bell flourishes, orchestral swell, magical ascension sounds
+- 🎹 **Instrumentation**: FULL ORCHESTRATION - all instruments at HIGH ENERGY!
+- 🎵 **Tempo**: FAST celebratory 170 BPM (BIG tempo surge for chorus power!)
+- 🎤 **Vocals**: FULL CHILDREN'S CHOIR + powerful adult harmonies (MAXIMUM vocal energy!)
+- 🎶 **Mood**: TRIUMPHANT, exciting, HIGH-ENERGY collective celebration!
+- 🔊 **Volume**: Peak (9/10) - first energy explosion!
+- ✨ **Special Effects**: Bright bell flourishes, orchestral power surge, celebration horns, magical ascension sounds
 
 **Lyrics Timing**:
 - 1:02-1:12: Tamil chorus ("புது வருடம், நம்பிக்கை தரும்!")
 - 1:14-1:24: English chorus ("New year brings us hope so bright!")
 
-**Audio Cue**: BIG CHORUS ENTRANCE - full energy, uplifting and powerful
-**Key Change**: Possible key lift (half-step up for emotional impact)
+**Audio Cue**: BIG CHORUS SURGE - MAXIMUM energy, exciting and powerful!
+**Key Change**: Possible key lift (half-step up for exciting impact)
 
 ---
 
@@ -128,12 +128,12 @@
 **Song Section**: SECOND CHORUS (22 seconds)
 
 **Musical Elements**:
-- 🎹 **Instrumentation**: MAXIMUM ORCHESTRATION - all instruments PEAK energy
-- 🎵 **Tempo**: Triumphant 135 BPM (tempo surge for climax)
-- 🎤 **Vocals**: FULL CHOIR MAXIMUM POWER + triumphant delivery
-- 🎶 **Mood**: CLIMACTIC CELEBRATION - the peak moment!
-- 🔊 **Volume**: MAXIMUM (10/10) - loudest point in song
-- ✨ **Special Effects**: CHIME at 2:04 (midnight bell), firework sounds, confetti whoosh, magical transformation effects
+- 🎹 **Instrumentation**: MAXIMUM ORCHESTRATION - all instruments EXPLOSIVE energy!
+- 🎵 **Tempo**: MAXIMUM 180 BPM (FASTEST tempo - countdown excitement peak!)
+- 🎤 **Vocals**: FULL CHOIR MAXIMUM POWER + EXPLOSIVE triumphant delivery!
+- 🎶 **Mood**: EXPLOSIVE CLIMACTIC CELEBRATION - PEAK MOMENT!
+- 🔊 **Volume**: MAXIMUM (10/10) - LOUDEST, most exciting point!
+- ✨ **Special Effects**: DRAMATIC CHIME at 2:04 (midnight bell!), FIREWORK EXPLOSIONS, confetti BURST, magical transformation, celebration HORNS!
 
 **Lyrics Timing**:
 - 2:06-2:16: Tamil chorus ("புது வருடம், நம்பிக்கை தரும்!")
@@ -141,9 +141,9 @@
 
 **Audio Cue**:
 - **2:04**: MIDNIGHT CHIME (clock striking) - dramatic pause (0.5 seconds)
-- **2:04.5**: EXPLOSIVE ENTRANCE - full orchestra, choir, percussion blast
+- **2:04.5**: EXPLOSIVE ENTRANCE - FULL orchestra, POWERFUL choir, percussion BLAST, horns BLARE!
 - Add crowd cheering effects (layered under music)
-**Key Change**: Return to original key OR lift another half-step for maximum impact
+**Key Change**: Lift FULL STEP up for MAXIMUM exciting impact! This is THE MOMENT!
 
 ---
 
@@ -253,17 +253,17 @@ Scene 11: 8→3/10 ████████→░ (Fade out)
 
 ### Tempo Map:
 ```
-Scene 1:  100→120 BPM (Building)
-Scene 2:  120 BPM (Steady)
-Scene 3:  120 BPM (Steady, building)
-Scene 4:  130 BPM (Chorus lift)
-Scene 5:  130 BPM (Playful)
-Scene 6:  125 BPM (Anticipation)
-Scene 7:  135 BPM (CLIMAX)
-Scene 8:  130 BPM (Sustained)
-Scene 9:  130→135 BPM (Building)
-Scene 10: 135→130 BPM (Peak then slight pull)
-Scene 11: 130→100 BPM (Ritardando/slowing)
+Scene 1:  140→160 BPM (Fast Build - Exciting Start!)
+Scene 2:  160 BPM (Fast Steady - Locked In!)
+Scene 3:  160 BPM (Fast Steady - Building Energy!)
+Scene 4:  170 BPM (Chorus SURGE - High Energy!)
+Scene 5:  170 BPM (Peppy Playful!)
+Scene 6:  165 BPM (Anticipation Building Fast!)
+Scene 7:  180 BPM (CLIMAX - MAXIMUM SPEED!)
+Scene 8:  175 BPM (Sustained High Energy!)
+Scene 9:  170→175 BPM (Building to Peak!)
+Scene 10: 175→180 BPM (PEAK ENERGY!)
+Scene 11: 170→140 BPM (Ritardando - Still Energetic!)
 ```
 
 ### Key Musical Moments:
@@ -293,12 +293,14 @@ Scene 11: 130→100 BPM (Ritardando/slowing)
 **Main Prompt**: (Use the comprehensive Suno prompt from main document)
 
 **Additional Instructions for Suno**:
-1. Ensure clear dynamic range - soft intro, building verses, powerful choruses
-2. Include clock chime sound at 2:04 mark
-3. Tempo variations as mapped above (ritardando at end)
-4. Emotional delivery - warm children's voices, not mechanical
+1. HIGH-ENERGY throughout - fast, exciting, peppy like New Year countdown party!
+2. Include DRAMATIC clock chime sound at 2:04 mark (big moment!)
+3. Tempo variations as mapped above (160-180 BPM range, ritardando at end to 140 BPM)
+4. ENTHUSIASTIC delivery - bright, excited children's voices, high energy!
 5. Clear syllable pronunciation for bilingual lyrics
-6. Reverb and atmosphere appropriate to celebratory but heartfelt tone
+6. Reverb and atmosphere appropriate to HIGH-ENERGY celebration - think party mode!
+7. Prominent bells, celebration horns, firework sounds for excitement
+8. Fast-paced like "Carol of the Bells" energy but for New Year!
 
 ---
 
