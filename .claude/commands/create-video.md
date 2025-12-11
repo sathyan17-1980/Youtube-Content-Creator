@@ -74,10 +74,16 @@ Extract and set defaults:
 
 ### Aathichudi Series Standards:
 
-1. **Character Names (CRITICAL):**
+1. **Character Names & Descriptions (CRITICAL):**
    - **Mayuri the Peacock** - Primary character (formerly "Kavi" in other series)
    - **Guru the Owl** - Wise mentor (formerly "Vidhya" in other series)
-   - Use existing references from Episodes 4-8 (Mayuri) and Episodes 5, 7, 8 (Guru)
+   - Use existing references from Episodes 4-10 (Mayuri) and Episodes 5, 7, 8, 9, 10 (Guru)
+   - **CRITICAL IMAGE PROMPT REQUIREMENT:**
+     - ALWAYS specify animal type with character name in ALL image prompts
+     - Format: "Mayuri the peacock (vibrant blue-green feathered bird, [description]...)"
+     - Format: "Guru the Owl (wise brown owl with scholarly round spectacles, [description]...)"
+     - This ensures Leonardo.ai/image generators know these are bird characters
+     - Never use just "Mayuri" or "Guru" alone without animal description
 
 2. **Aspect Ratio:**
    - **16:9 LANDSCAPE format** (1920x1080)
@@ -86,51 +92,75 @@ Extract and set defaults:
    - All image prompts must specify "16:9 aspect ratio"
 
 3. **Scene Count:**
-   - **15-16 scenes** (more than standard 12 scenes)
-   - Creates more engaging, deeper story for moral lessons
+   - **Minimum 16 scenes** (can be 16-18 scenes for adventure stories)
+   - More than standard 12 scenes for deeper storytelling
+   - Creates more engaging, adventurous stories for moral lessons
    - Allows better pacing and character development
 
-4. **Story Structure:**
-   - Must demonstrate the Aathichudi moral clearly through action
-   - Include moral dilemma or challenge
-   - Show consequences and resolution
+4. **Dialogue and Timing (CRITICAL):**
+   - **Dialogue duration must be 2-3x the scene duration**
+   - Example: 24-second scene should have ~48-72 seconds of spoken dialogue content
+   - This means dialogue should cover 60-90% of the scene duration
+   - Ensures proper pacing and engagement
+   - Animation prompts should emphasize ACTION over talking
+
+5. **Adventure and Excitement (CRITICAL):**
+   - Stories must be ADVENTURE-focused, not dialogue-heavy
+   - Include physical exploration, puzzle-solving, discoveries
+   - Visual spectacle and dramatic moments in most scenes
+   - Less talking, more action and excitement
+   - Designed to engage YouTube viewers
+   - Animation prompts should describe dynamic action sequences
+
+6. **Story Structure:**
+   - Must demonstrate the Aathichudi moral clearly through ACTION and ADVENTURE
+   - Include exciting challenges, puzzles, or discoveries
+   - Show consequences and resolution through adventure
    - End with wisdom and lesson learned
    - Include Guru's teaching moment(s)
+   - Focus on "show don't tell" - demonstrate through action
 
-5. **Dialogue Output:**
-   - Create separate dialogue-only document
+7. **Dialogue Output:**
+   - Create separate dialogue-only document (optional for adventure episodes)
    - Format: Character name + dialogue in both Tamil and English
    - Include voice direction notes
    - Example filename: `aathichudi-ep#-dialogues-only.md`
 
-6. **Validation:**
-   - Run full validation following Episode 8 standards
-   - Check all 9 validation categories
+8. **Validation:**
+   - Run full validation following Episode 9-10 standards
+   - Check all validation categories
    - Ensure no repeated image prompts
    - Verify 16:9 landscape specified in ALL image prompts
+   - Verify animal descriptions in ALL image prompts (Mayuri the peacock, Guru the Owl)
+   - Verify dialogue timing is 2-3x scene duration
+   - Verify adventure elements present (not dialogue-heavy)
    - Create validation report document
    - Example filename: `aathichudi-ep#-validation-report.md`
 
-7. **Series Continuity:**
-   - Reference previous episode numbers
+9. **Series Continuity:**
+   - Reference previous episode numbers (Episodes 4-10 completed)
    - Maintain character consistency
    - Follow established series format
    - Use same moral teaching structure
 
-8. **Required Outputs:**
-   - Main episode file with all 15-16 scenes (Steps 1-3)
-   - Separate dialogue document
-   - Validation report
-   - All files follow naming: `aathichudi-ep#-[description].md`
+10. **Required Outputs:**
+    - Main episode file split into 2 parts for token management:
+      - Part 1: Scenes 1-9
+      - Part 2: Scenes 10-18 (or remaining scenes)
+    - Validation report
+    - All files follow naming: `aathichudi-ep#-[description]-PART#.md`
 
 ### Validation Checklist for Aathichudi:
 
 Before proceeding to Step 2, verify:
-- ✅ Character names are "Mayuri" and "Guru" (not Kavi/Vidhya)
+- ✅ Character names are "Mayuri the Peacock" and "Guru the Owl" with animal descriptions
 - ✅ 16:9 LANDSCAPE specified (not 9:16 vertical)
-- ✅ Planning for 15-16 scenes (not 12)
-- ✅ Separate dialogue output planned
+- ✅ Planning for MINIMUM 16 scenes (can be 16-18)
+- ✅ Dialogue timing is 2-3x scene duration
+- ✅ Adventure and excitement focus (not dialogue-heavy)
+- ✅ Animal descriptions in ALL image prompts
 - ✅ Validation report planned
+- ✅ Episode split into 2 parts for token management
 
 **If any Aathichudi requirements not met, STOP and clarify with user.**
 
