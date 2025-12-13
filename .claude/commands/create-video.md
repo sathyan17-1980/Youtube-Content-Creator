@@ -143,10 +143,22 @@ Extract and set defaults:
    - Follow established series format
    - Use same moral teaching structure
 
-10. **Required Outputs:**
-    - Main episode file split into 2 parts for token management:
-      - Part 1: Scenes 1-9
-      - Part 2: Scenes 10-18 (or remaining scenes)
+10. **Animation Software (CRITICAL):**
+    - **DEFAULT: OpenArt** (5-10 second clips)
+    - Process: Create full scenes first, then split into 8-10 second sub-clips
+    - Scene splitting required for OpenArt's duration limitations
+    - Alternative: MiniMax Hailuo (20-30 second clips, no splitting)
+    - See Episode 10 revised files as reference for OpenArt approach
+
+11. **Required Outputs:**
+    - **For OpenArt (default):**
+      - Original scenes file (Part 1 & Part 2)
+      - Revised/split scenes file (Part 1 & Part 2)
+      - Example: `aathichudi-ep#-PART1.md` and `aathichudi-ep#-PART1-REVISED-for-OpenArt.md`
+    - **For MiniMax Hailuo:**
+      - Main episode file split into 2 parts:
+        - Part 1: Scenes 1-9
+        - Part 2: Scenes 10-18 (or remaining scenes)
     - Validation report
     - All files follow naming: `aathichudi-ep#-[description]-PART#.md`
 
@@ -159,6 +171,8 @@ Before proceeding to Step 2, verify:
 - ✅ Dialogue timing is 2-3x scene duration
 - ✅ Adventure and excitement focus (not dialogue-heavy)
 - ✅ Animal descriptions in ALL image prompts
+- ✅ Animation software chosen (default: OpenArt)
+- ✅ If OpenArt: Two-phase approach planned (original + split)
 - ✅ Validation report planned
 - ✅ Episode split into 2 parts for token management
 
@@ -794,11 +808,86 @@ Scene [N] Completeness:
 ## Step 5: Generate Complete Production Prompts
 
 **CRITICAL REQUIREMENT:** Generate COMPLETE, production-ready prompts for EVERY SINGLE SCENE. Each scene MUST have:
-1. ✅ Detailed Image Generation Prompt (Leonardo.ai)
-2. ✅ Detailed Animation Prompt (MiniMax Hailuo)
+1. ✅ Detailed Image Generation Prompt (Leonardo.ai or OpenArt)
+2. ✅ Detailed Animation Prompt (OpenArt or MiniMax Hailuo)
 3. ✅ Dialogue/Captions (if applicable)
 
 **DO NOT** leave any scene with only a "Visual Description" - every scene needs copy-paste ready prompts for the AI tools.
+
+---
+
+### Step 5.1: Choose Animation Software
+
+**DEFAULT: OpenArt** (5-10 second clips, requires scene splitting)
+
+**Ask user (or use default):**
+```
+Which animation software will you use?
+
+1. **OpenArt** (DEFAULT) - 5-10 second clips
+   - Best for: Shorter, dynamic clips
+   - Requires: Scene splitting for scenes > 10 seconds
+   - Process: Create full scenes first, then split into 8-10s sub-clips
+   - Reference: Aathichudi Episode 10 approach
+
+2. **MiniMax Hailuo** - 20-30 second clips
+   - Best for: Longer continuous scenes
+   - No splitting needed
+   - Single animation per scene
+
+Choose: [1/2] (default: 1)
+```
+
+**Based on choice:**
+
+---
+
+#### Workflow A: OpenArt (DEFAULT)
+
+**TWO-PHASE APPROACH:**
+
+**Phase 1: Create Full Scene Structure (Original Scenes)**
+- Create complete scene descriptions (20-30 seconds each)
+- Full dialogue for each scene
+- Complete story flow
+
+**Phase 2: Split into Sub-Clips for OpenArt**
+- Break each scene into 8-10 second sub-clips (A, B, C...)
+- Distribute dialogue across sub-clips
+- Create individual prompts for each sub-clip
+- Each sub-clip gets its own:
+  - Image prompt
+  - Animation prompt (8-10s)
+  - Dialogue segment
+  - Transition
+
+**Example:**
+```
+Original: Scene 1 (24 seconds) - "Discovery"
+Split into:
+- Scene 1A (8s): Finding the object
+- Scene 1B (8s): Examining the object
+- Scene 1C (8s): Reacting to discovery
+```
+
+**Total output:** Original 16-18 scenes become 48-54 sub-clips for OpenArt.
+
+---
+
+#### Workflow B: MiniMax Hailuo
+
+**SINGLE-PHASE APPROACH:**
+
+- Create complete scene descriptions (20-30 seconds each)
+- One animation prompt per scene
+- Full dialogue per scene
+- Standard workflow
+
+**Total output:** 16-18 scenes with one prompt each.
+
+---
+
+### Step 5.2: Generate Production Prompts
 
 For each scene, generate ALL production elements:
 
@@ -839,7 +928,119 @@ Quality: Ultra detailed, Disney/Pixar quality
 
 ---
 
-### 2. Animation Prompt (MiniMax Hailuo)
+### 2. Animation Prompt Selection
+
+**CRITICAL DECISION:** Choose animation software based on user preference or use default (OpenArt).
+
+---
+
+#### Option A: OpenArt (DEFAULT - Recommended)
+
+**Duration Limitation:** OpenArt supports 5-10 second clips maximum.
+
+**Process:** For scenes longer than 10 seconds, SPLIT into multiple sub-clips:
+- Original scene (e.g., 24 seconds) → Split into 3 sub-clips (8 seconds each)
+- Naming: Scene 1 → 1A, 1B, 1C
+- Distribute dialogue proportionally across sub-clips
+
+**Example from Aathichudi Episode 10:**
+- Scene 1 (24s total) split into:
+  - Scene 1A (8s): Discovery moment - dialogue ~3-4s
+  - Scene 1B (8s): Opening action - dialogue ~4-5s
+  - Scene 1C (8s): Magic reveal - dialogue ~5-6s
+
+**Sub-Clip Structure:**
+
+\```
+## **SCENE {number}{letter}: {Sub-scene Name}** ({8-10} seconds)
+
+### Visual Description
+{Specific action for this sub-clip in 2-3 sentences}
+
+**Mood:** {mood}
+**Camera:** {camera angle/movement}
+**Lighting:** {lighting}
+**Aspect Ratio:** 16:9 LANDSCAPE (or 9:16 VERTICAL as needed)
+
+---
+
+### Image Generation Prompt (OpenArt/Leonardo.ai)
+
+\```
+{Character with animal type} in {specific moment/action} in {aspect ratio}.
+3D Pixar style.
+
+Foreground: {character action at this moment}
+Background: {environment}
+Composition: {framing for this specific moment}
+
+Ultra detailed, Disney/Pixar quality.
+\```
+
+---
+
+### Animation Prompt (OpenArt)
+
+\```
+{8-10} seconds.
+
+{Specific actions for this sub-clip with timing breakdown}
+
+Camera: {movement}
+Movement: {character actions}
+Pacing: {tempo}
+
+Example:
+"8 seconds. Character discovers object. Reaches toward it. Eyes widen.
+Picks it up carefully. Examines closely. Camera: close-up discovery,
+tracking reach, extreme close-up reaction."
+\```
+
+---
+
+### Dialogue (One Language - Tamil OR English)
+
+**Tamil:** `{dialogue for this sub-clip only}`
+**English:** `{English version}`
+
+**Voice Direction:** {emotion, tone}
+**Estimated Duration:** ~{X} seconds (fits within clip duration)
+
+### Dual-Language Captions
+
+**Caption 1** ({start}-{end}):
+\```
+{Tamil text}
+{English text}
+\```
+
+### Sound Effects
+{List relevant SFX for this sub-clip}
+
+### Transition to Next Sub-Scene
+**Type:** {dissolve/cut/fade}
+**Duration:** {0.3-0.5s}
+**Effect:** {continuity note}
+
+---
+\```
+
+**Post-Production for OpenArt:**
+- Generate all sub-clips individually
+- Concatenate in video editor: 1A → 1B → 1C → 2A → 2B → 2C...
+- Maintain story flow through clip sequencing
+
+**Reference:** See `aathichudi-ep10-scenes-*-REVISED-for-OpenArt.md` files for complete examples.
+
+---
+
+#### Option B: MiniMax Hailuo (Alternative)
+
+**Duration Support:** 20-30 second clips per scene.
+
+**Process:** Generate one animation per scene (no splitting needed).
+
+**Animation Prompt (MiniMax Hailuo):**
 
 \```
 MINIMUM {duration} seconds duration.
@@ -1043,16 +1244,41 @@ If ANY scene is missing prompts, DO NOT present to user. Complete all scenes fir
 ```markdown
 ## ✅ Production Prompts Generated - ALL SCENES COMPLETE
 
-**Scenes Created:** {number} scenes (ALL with complete image + animation prompts)
+**Animation Software:** {OpenArt / MiniMax Hailuo}
+**Scenes Created:** {number} scenes {if OpenArt: split into {sub-clip count} sub-clips}
 **Total Estimated Duration:** {duration} minutes
 
 **What You Received:**
 - ✅ {number} complete scene prompts (image + animation for each)
+{If OpenArt: - ✅ {sub-clip count} sub-clip prompts for OpenArt generation}
 - ✅ 1 music generation prompt (Suno)
 - ✅ {number} caption sets (timing + text)
 - ✅ All prompts are copy-paste ready
 
 **Next Steps:**
+
+{If OpenArt selected:}
+### OpenArt Workflow:
+1. **Generate music on Suno.ai** (do this FIRST - you need the timing!)
+2. **Generate character reference images** (if new character - do this before scenes)
+3. **Generate all {sub-clip count} images on OpenArt** (using image prompts)
+4. **Generate all {sub-clip count} animations on OpenArt** (8-10s each using animation prompts)
+5. **{If drama: Generate all voice audio on Azure TTS or ElevenLabs}**
+6. **Concatenate sub-clips in video editor** (1A→1B→1C→2A→2B→2C...)
+7. **Add dialogue audio and sound effects**
+8. **Report back which clips succeeded/failed**
+
+**Production Estimate (OpenArt):**
+- Music: ~5-15 minutes
+- Character references (if new): ~15-30 minutes
+- Sub-clip images: ~{sub-clip count * 2-3} minutes
+- Sub-clip animations: ~{sub-clip count * 15-30} minutes (shorter queue than MiniMax)
+- {If drama: Voice generation: ~{number * 2-3} minutes}
+- Video concatenation: ~30-60 minutes
+- Total: ~{estimate} hours
+
+{If MiniMax Hailuo selected:}
+### MiniMax Hailuo Workflow:
 1. **Generate music on Suno.ai** (do this FIRST - you need the timing!)
 2. **Generate character reference images** (if new character - do this before scenes)
 3. **Generate all {number} scene images on Leonardo.ai** (use reference images)
@@ -1060,7 +1286,7 @@ If ANY scene is missing prompts, DO NOT present to user. Complete all scenes fir
 5. **{If drama: Generate all voice audio on Azure TTS or ElevenLabs}**
 6. **Report back which scenes succeeded/failed**
 
-**Production Estimate:**
+**Production Estimate (MiniMax Hailuo):**
 - Music: ~5-15 minutes
 - Character references (if new): ~15-30 minutes
 - Scene images: ~{number * 3-5} minutes

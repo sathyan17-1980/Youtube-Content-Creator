@@ -1,7 +1,9 @@
 {
   "permissions": {
     "allow": [
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "SlashCommand(/create-video \"Aathichudi Episode 11: ஒளவியம் பேசேல் (Olaviyam Pesel - Don't Speak with Envy). Moral: Envy harms us, celebrating others' success brings respect. Story: Adventure where Mayuri learns to overcome envy and celebrate others' achievements\" --character existing --character-name \"Mayuri the Peacock and Guru the Owl\" --language both --format drama)",
+      "SlashCommand(/create-video \"Aathichudi Episode 12: அஃகஞ் சுருக்கேல் (Akam Surukkel - Don't be stingy in selling food grains). Moral: Honesty in food is important. Story: The Honest Merchant - adventure where Mayuri discovers the consequences of dishonest measure versus the rewards of fair trade through marketplace challenges and magical grain guardians\" --character existing --character-name \"Mayuri the Peacock and Guru the Owl\" --language both --format drama)"
     ]
   }
 }
